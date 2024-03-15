@@ -56,4 +56,4 @@ jobs:
           files: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.Thetearofmoon }}
-          email: ${{ env.3432789996@qq.com }}
+          email: ${{ env.202030352207@mail.scut.edu.cn }}
