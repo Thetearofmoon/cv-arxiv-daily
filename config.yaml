@@ -26,3 +26,6 @@ keywords:
         filters: ["Motion Generation", "Human Motion Generation"]
     "Motion Synthesis": 
         filters: ["Motion Synthesis", "Human Motion Synthesis"]
+    "HOI":
+        filters: ["HOI", "Human Object Interactions", "Human-Object Interactions", "Human-Object Interaction", "Human Object Interaction"]
+        
