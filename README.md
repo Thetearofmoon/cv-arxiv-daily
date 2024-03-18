@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -11,6 +11,7 @@
   <ol>
     <li><a href=#motion-generation>Motion Generation</a></li>
     <li><a href=#motion-synthesis>Motion Synthesis</a></li>
+    <li><a href=#hoi>HOI</a></li>
   </ol>
 </details>
 
@@ -52,7 +53,7 @@
 |**2023-12-20**|**BOTH2Hands: Inferring 3D Hands from Both Text Prompts and Body Dynamics**|Wenqian Zhang et.al.|[2312.07937](http://arxiv.org/abs/2312.07937)|**[link](https://github.com/Godheritage/BOTH2Hands)**|
 |**2023-12-12**|**Reacting like Humans: Incorporating Intrinsic Human Behaviors into NAO through Sound-Based Reactions for Enhanced Sociability**|Ali Ghadami et.al.|[2312.07671](http://arxiv.org/abs/2312.07671)|null|
 |**2023-12-12**|**GMTalker: Gaussian Mixture based Emotional talking video Portraits**|Yibo Xia et.al.|[2312.07669](http://arxiv.org/abs/2312.07669)|null|
-|**2023-12-11**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553](http://arxiv.org/abs/2312.06553)|null|
+|**2024-03-15**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553](http://arxiv.org/abs/2312.06553)|null|
 |**2023-12-08**|**HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models**|Pei Lin et.al.|[2312.04867](http://arxiv.org/abs/2312.04867)|null|
 |**2023-12-07**|**Digital Life Project: Autonomous 3D Characters with Social Intelligence**|Zhongang Cai et.al.|[2312.04547](http://arxiv.org/abs/2312.04547)|null|
 |**2023-12-07**|**DiffusionPhase: Motion Diffusion in Frequency Domain**|Weilin Wan et.al.|[2312.04036](http://arxiv.org/abs/2312.04036)|null|
@@ -60,7 +61,7 @@
 |**2023-12-06**|**MMM: Generative Masked Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2312.03596](http://arxiv.org/abs/2312.03596)|**[link](https://github.com/exitudio/MMM)**|
 |**2023-12-05**|**Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions**|Xu Shi et.al.|[2312.02772](http://arxiv.org/abs/2312.02772)|null|
 |**2023-12-05**|**Neural Sign Actors: A diffusion model for 3D sign language production from text**|Vasileios Baltatzis et.al.|[2312.02702](http://arxiv.org/abs/2312.02702)|null|
-|**2023-12-04**|**EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Motion Generation**|Wenyang Zhou et.al.|[2312.02256](http://arxiv.org/abs/2312.02256)|null|
+|**2024-03-14**|**EMDM: Efficient Motion Diffusion Model for Fast and High-Quality Motion Generation**|Wenyang Zhou et.al.|[2312.02256](http://arxiv.org/abs/2312.02256)|null|
 |**2023-11-29**|**MoMask: Generative Masked Modeling of 3D Human Motions**|Chuan Guo et.al.|[2312.00063](http://arxiv.org/abs/2312.00063)|**[link](https://github.com/EricGuo5513/momask-codes)**|
 |**2023-11-30**|**OmniMotionGPT: Animal Motion Generation with Limited Data**|Zhangsihao Yang et.al.|[2311.18303](http://arxiv.org/abs/2311.18303)|null|
 |**2024-01-24**|**SpeechAct: Towards Generating Whole-body Motion from Speech**|Jinsong Zhang et.al.|[2311.17425](http://arxiv.org/abs/2311.17425)|null|
@@ -69,7 +70,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -89,7 +90,7 @@
 |**2023-12-14**|**Motion Flow Matching for Human Motion Synthesis and Editing**|Vincent Tao Hu et.al.|[2312.08895](http://arxiv.org/abs/2312.08895)|null|
 |**2023-12-13**|**FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models**|Shivangi Aneja et.al.|[2312.08459](http://arxiv.org/abs/2312.08459)|**[link](https://github.com/shivangi-aneja/FaceTalk)**|
 |**2023-12-07**|**Digital Life Project: Autonomous 3D Characters with Social Intelligence**|Zhongang Cai et.al.|[2312.04547](http://arxiv.org/abs/2312.04547)|null|
-|**2023-12-04**|**EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Motion Generation**|Wenyang Zhou et.al.|[2312.02256](http://arxiv.org/abs/2312.02256)|null|
+|**2024-03-14**|**EMDM: Efficient Motion Diffusion Model for Fast and High-Quality Motion Generation**|Wenyang Zhou et.al.|[2312.02256](http://arxiv.org/abs/2312.02256)|null|
 |**2023-11-30**|**OmniMotionGPT: Animal Motion Generation with Limited Data**|Zhangsihao Yang et.al.|[2311.18303](http://arxiv.org/abs/2311.18303)|null|
 |**2023-11-30**|**Probabilistic Speech-Driven 3D Facial Motion Synthesis: New Benchmarks, Methods, and Applications**|Karren D. Yang et.al.|[2311.18168](http://arxiv.org/abs/2311.18168)|null|
 |**2023-12-12**|**TLControl: Trajectory and Language Control for Human Motion Synthesis**|Weilin Wan et.al.|[2311.17135](http://arxiv.org/abs/2311.17135)|null|
@@ -126,7 +127,64 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
+
+## HOI
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-03-12**|**Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration**|Weiying Xue et.al.|[2403.07246](http://arxiv.org/abs/2403.07246)|null|
+|**2024-03-10**|**Test-time Distribution Learning Adapter for Cross-modal Visual Reasoning**|Yi Zhang et.al.|[2403.06059](http://arxiv.org/abs/2403.06059)|null|
+|**2024-03-04**|**FreeA: Human-object Interaction Detection using Free Annotation Labels**|Yuxiao Wang et.al.|[2403.01840](http://arxiv.org/abs/2403.01840)|null|
+|**2024-01-24**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
+|**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232](http://arxiv.org/abs/2401.10232)|null|
+|**2024-01-12**|**AffordanceLLM: Grounding Affordance from Vision Language Models**|Shengyi Qian et.al.|[2401.06341](http://arxiv.org/abs/2401.06341)|null|
+|**2024-01-11**|**Exploring Self- and Cross-Triplet Correlations for Human-Object Interaction Detection**|Weibo Jiang et.al.|[2401.05676](http://arxiv.org/abs/2401.05676)|null|
+|**2024-01-07**|**RHOBIN Challenge: Reconstruction of Human Object Interaction**|Xianghui Xie et.al.|[2401.04143](http://arxiv.org/abs/2401.04143)|null|
+|**2024-01-03**|**Glance and Focus: Memory Prompting for Multi-Event Video Question Answering**|Ziyi Bai et.al.|[2401.01529](http://arxiv.org/abs/2401.01529)|**[link](https://github.com/byz0e/glance-focus)**|
+|**2023-12-19**|**UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection**|Bumsoo Kim et.al.|[2312.12664](http://arxiv.org/abs/2312.12664)|null|
+|**2023-12-17**|**Primitive-based 3D Human-Object Interaction Modelling and Programming**|Siqi Liu et.al.|[2312.10714](http://arxiv.org/abs/2312.10714)|null|
+|**2023-12-17**|**Few-Shot Learning from Augmented Label-Uncertain Queries in Bongard-HOI**|Qinqian Lei et.al.|[2312.10586](http://arxiv.org/abs/2312.10586)|null|
+|**2023-12-15**|**Ins-HOI: Instance Aware Human-Object Interactions Recovery**|Jiajun Zhang et.al.|[2312.09641](http://arxiv.org/abs/2312.09641)|**[link](https://github.com/jiajunzhang16/ins-hoi)**|
+|**2023-12-14**|**LEMON: Learning 3D Human-Object Interaction Relation from 2D Images**|Yuhang Yang et.al.|[2312.08963](http://arxiv.org/abs/2312.08963)|null|
+|**2023-12-10**|**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**|Chengfeng Zhao et.al.|[2312.08869](http://arxiv.org/abs/2312.08869)|null|
+|**2024-01-22**|**Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation**|Xianghui Xie et.al.|[2312.07063](http://arxiv.org/abs/2312.07063)|null|
+|**2023-12-11**|**EgoPlan-Bench: Benchmarking Egocentric Embodied Planning with Multimodal Large Language Models**|Yi Chen et.al.|[2312.06722](http://arxiv.org/abs/2312.06722)|**[link](https://github.com/chenyi99/egoplan)**|
+|**2024-03-15**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553](http://arxiv.org/abs/2312.06553)|null|
+|**2024-02-27**|**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models**|Jiun Tian Hoe et.al.|[2312.05849](http://arxiv.org/abs/2312.05849)|**[link](https://github.com/jiuntian/interactdiffusion)**|
+|**2023-12-07**|**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**|Yinhuai Wang et.al.|[2312.04393](http://arxiv.org/abs/2312.04393)|null|
+|**2023-12-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao et.al.|[2312.04117](http://arxiv.org/abs/2312.04117)|**[link](https://github.com/it3dego/it3dego)**|
+|**2023-12-06**|**Controllable Human-Object Interaction Synthesis**|Jiaman Li et.al.|[2312.03913](http://arxiv.org/abs/2312.03913)|null|
+|**2023-12-04**|**Disentangled Interaction Representation for One-Stage Human-Object Interaction Detection**|Xubin Zhong et.al.|[2312.01713](http://arxiv.org/abs/2312.01713)|null|
+|**2023-12-26**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552](http://arxiv.org/abs/2311.16552)|null|
+|**2023-11-26**|**Generating Human-Centric Visual Cues for Human-Object Interaction Detection via Large Vision-Language Models**|Yu-Wei Zhan et.al.|[2311.16475](http://arxiv.org/abs/2311.16475)|null|
+|**2023-11-27**|**CG-HOI: Contact-Guided 3D Human-Object Interaction Generation**|Christian Diller et.al.|[2311.16097](http://arxiv.org/abs/2311.16097)|null|
+|**2023-11-16**|**Neural-Logic Human-Object Interaction Detection**|Liulei Li et.al.|[2311.09817](http://arxiv.org/abs/2311.09817)|null|
+|**2023-11-07**|**Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models**|Yichao Cao et.al.|[2311.03799](http://arxiv.org/abs/2311.03799)|**[link](https://github.com/caoyichao/unihoi)**|
+|**2023-11-03**|**Towards a Unified Transformer-based Framework for Scene Graph Generation and Human-object Interaction Detection**|Tao He et.al.|[2311.01755](http://arxiv.org/abs/2311.01755)|null|
+|**2023-10-31**|**Object-centric Video Representation for Long-term Action Anticipation**|Ce Zhang et.al.|[2311.00180](http://arxiv.org/abs/2311.00180)|**[link](https://github.com/brown-palm/ObjectPrompt)**|
+|**2023-11-16**|**Open-Set Image Tagging with Multi-Grained Text Supervision**|Xinyu Huang et.al.|[2310.15200](http://arxiv.org/abs/2310.15200)|**[link](https://github.com/xinyu1205/recognize-anything)**|
+|**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
+|**2023-09-28**|**HOI4ABOT: Human-Object Interaction Anticipation for Human Intention Reading Collaborative roBOTs**|Esteve Valls Mascaro et.al.|[2309.16524](http://arxiv.org/abs/2309.16524)|null|
+|**2023-09-28**|**Object Motion Guided Human Motion Synthesis**|Jiaman Li et.al.|[2309.16237](http://arxiv.org/abs/2309.16237)|null|
+|**2023-09-26**|**DECO: Dense Estimation of 3D Human-Scene Contact In The Wild**|Shashank Tripathi et.al.|[2309.15273](http://arxiv.org/abs/2309.15273)|null|
+|**2023-11-27**|**ENIGMA-51: Towards a Fine-Grained Understanding of Human-Object Interactions in Industrial Scenarios**|Francesco Ragusa et.al.|[2309.14809](http://arxiv.org/abs/2309.14809)|**[link](https://github.com/moein-shariatnia/OpenAI-CLIP)**|
+|**2023-09-17**|**Detection and Localization of Firearm Carriers in Complex Scenes for Improved Safety Measures**|Arif Mahmood et.al.|[2309.09236](http://arxiv.org/abs/2309.09236)|null|
+|**2023-09-14**|**Physically Plausible Full-Body Hand-Object Interaction Synthesis**|Jona Braun et.al.|[2309.07907](http://arxiv.org/abs/2309.07907)|null|
+|**2023-09-10**|**Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels**|Bo Wan et.al.|[2309.05069](http://arxiv.org/abs/2309.05069)|**[link](https://github.com/bobwan1995/zeroshot-hoi-with-clip)**|
+|**2023-09-07**|**Efficient Adaptive Human-Object Interaction Detection with Concept-guided Memory**|Ting Lei et.al.|[2309.03696](http://arxiv.org/abs/2309.03696)|**[link](https://github.com/ltttpku/ada-cm)**|
+|**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905](http://arxiv.org/abs/2308.16905)|**[link](https://github.com/Sirui-Xu/InterDiff)**|
+|**2023-09-03**|**CHORUS: Learning Canonicalized 3D Human-Object Spatial Relations from Unbounded Synthesized Images**|Sookwan Han et.al.|[2308.12288](http://arxiv.org/abs/2308.12288)|null|
+|**2023-12-07**|**HODN: Disentangling Human-Object Feature for HOI Detection**|Shuman Fang et.al.|[2308.10158](http://arxiv.org/abs/2308.10158)|null|
+|**2023-08-18**|**RLIPv2: Fast Scaling of Relational Language-Image Pre-training**|Hangjie Yuan et.al.|[2308.09351](http://arxiv.org/abs/2308.09351)|**[link](https://github.com/jacobyuan7/rlipv2)**|
+|**2023-12-01**|**Diagnosing Human-object Interaction Detectors**|Fangrui Zhu et.al.|[2308.08529](http://arxiv.org/abs/2308.08529)|**[link](https://github.com/neu-vi/diag-hoi)**|
+|**2023-08-16**|**Agglomerative Transformer for Human-Object Interaction Detection**|Danyang Tu et.al.|[2308.08370](http://arxiv.org/abs/2308.08370)|null|
+|**2023-10-05**|**Leveraging Next-Active Objects for Context-Aware Anticipation in Egocentric Videos**|Sanket Thakur et.al.|[2308.08303](http://arxiv.org/abs/2308.08303)|null|
+|**2023-11-07**|**Exploring Predicate Visual Context in Detecting Human-Object Interactions**|Frederic Z. Zhang et.al.|[2308.06202](http://arxiv.org/abs/2308.06202)|**[link](https://github.com/fredzzhang/pvic)**|
+|**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
+|**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
+
+<p align=right>(<a href=#updated-on-20240318>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
