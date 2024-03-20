@@ -28,4 +28,6 @@ keywords:
         filters: ["Motion Synthesis", "Human Motion Synthesis"]
     "HOI":
         filters: ["HOI", "Human Object Interactions", "Human-Object Interactions", "Human-Object Interaction", "Human Object Interaction"]
+    "LOMC":
+        filters: ["overcome the limitations of motion capture datasets", "motion capture datasets", "3D motion capture is arduous", "small scale motion capture data"]
         
