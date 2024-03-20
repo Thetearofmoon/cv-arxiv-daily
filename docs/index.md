@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents**|Jieming Cui et.al.|[2403.12835](http://arxiv.org/abs/2403.12835)|null|
+|**2024-03-19**|**Shared Autonomy via Variable Impedance Control and Virtual Potential Fields for Encoding Human Demonstration**|Shail Jadav et.al.|[2403.12720](http://arxiv.org/abs/2403.12720)|null|
+|**2024-03-19**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|null|
+|**2024-03-19**|**Understanding Training-free Diffusion Guidance: Mechanisms and Limitations**|Yifei Shen et.al.|[2403.12404](http://arxiv.org/abs/2403.12404)|null|
 |**2024-03-18**|**LLM^3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**|Shu Wang et.al.|[2403.11552](http://arxiv.org/abs/2403.11552)|**[link](https://github.com/assassinws/llm-tamp)**|
 |**2024-03-17**|**Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions**|Kento Kawaharazuka et.al.|[2403.11198](http://arxiv.org/abs/2403.11198)|null|
 |**2024-03-14**|**LM2D: Lyrics- and Music-Driven Dance Synthesis**|Wenjie Yin et.al.|[2403.09407](http://arxiv.org/abs/2403.09407)|null|
@@ -71,6 +75,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|null|
 |**2024-03-18**|**Generative Motion Stylization within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
 |**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
 |**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
@@ -180,6 +185,61 @@ layout: default
 |**2023-11-07**|**Exploring Predicate Visual Context in Detecting Human-Object Interactions**|Frederic Z. Zhang et.al.|[2308.06202](http://arxiv.org/abs/2308.06202)|**[link](https://github.com/fredzzhang/pvic)**|
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
+
+## LOMC
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-06**|**Expressive Whole-Body Control for Humanoid Robots**|Xuxin Cheng et.al.|[2402.16796](http://arxiv.org/abs/2402.16796)|null|
+|**2024-01-02**|**EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Masked Audio Gesture Modeling**|Haiyang Liu et.al.|[2401.00374](http://arxiv.org/abs/2401.00374)|null|
+|**2023-12-27**|**HMP: Hand Motion Priors for Pose and Shape Estimation from Video**|Enes Duran et.al.|[2312.16737](http://arxiv.org/abs/2312.16737)|null|
+|**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636](http://arxiv.org/abs/2312.15636)|null|
+|**2023-12-19**|**MotionScript: Natural Language Descriptions for Expressive 3D Human Motions**|Payam Jome Yazdian et.al.|[2312.12634](http://arxiv.org/abs/2312.12634)|null|
+|**2023-11-03**|**SparsePoser: Real-time Full-body Motion Reconstruction from Sparse Data**|Jose Luis Ponton et.al.|[2311.02191](http://arxiv.org/abs/2311.02191)|**[link](https://github.com/UPC-ViRVIG/SparsePoser)**|
+|**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249](http://arxiv.org/abs/2310.20249)|null|
+|**2023-12-10**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729](http://arxiv.org/abs/2310.14729)|null|
+|**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583](http://arxiv.org/abs/2310.08583)|null|
+|**2024-02-15**|**ROAM: Robust and Object-Aware Motion Generation Using Neural Pose Descriptors**|Wanyue Zhang et.al.|[2308.12969](http://arxiv.org/abs/2308.12969)|null|
+|**2023-08-22**|**GRIP: Generating Interaction Poses Using Latent Consistency and Spatial Cues**|Omid Taheri et.al.|[2308.11617](http://arxiv.org/abs/2308.11617)|null|
+|**2023-08-04**|**Reconstructing Three-Dimensional Models of Interacting Humans**|Mihai Fieraru et.al.|[2308.01854](http://arxiv.org/abs/2308.01854)|**[link](https://github.com/sminchisescu-research/imar_vision_datasets_tools)**|
+|**2023-07-07**|**DE-TGN: Uncertainty-Aware Human Motion Forecasting using Deep Ensembles**|Kareem A. Eltouny et.al.|[2307.03610](http://arxiv.org/abs/2307.03610)|null|
+|**2023-07-04**|**Physics-based Motion Retargeting from Sparse Inputs**|Daniele Reda et.al.|[2307.01938](http://arxiv.org/abs/2307.01938)|null|
+|**2023-06-29**|**Representation learning of vertex heatmaps for 3D human mesh reconstruction from multi-view images**|Sungho Chun et.al.|[2306.16615](http://arxiv.org/abs/2306.16615)|null|
+|**2023-06-23**|**A Graph Neural Network Approach for Temporal Mesh Blending and Correspondence**|Aalok Gangopadhyay et.al.|[2306.13452](http://arxiv.org/abs/2306.13452)|null|
+|**2023-07-09**|**Motion Capture Dataset for Practical Use of AI-based Motion Editing and Stylization**|Makito Kobayashi et.al.|[2306.08861](http://arxiv.org/abs/2306.08861)|**[link](https://github.com/bandainamcoresearchinc/bandai-namco-research-motiondataset)**|
+|**2023-05-18**|**XFormer: Fast and Accurate Monocular 3D Body Capture**|Lihui Qian et.al.|[2305.11101](http://arxiv.org/abs/2305.11101)|null|
+|**2023-05-16**|**Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation**|Samaneh Azadi et.al.|[2305.09662](http://arxiv.org/abs/2305.09662)|null|
+|**2023-04-21**|**BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis**|Angela Castillo et.al.|[2304.11118](http://arxiv.org/abs/2304.11118)|null|
+|**2023-04-17**|**Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model**|Yuming Du et.al.|[2304.08577](http://arxiv.org/abs/2304.08577)|**[link](https://github.com/facebookresearch/agrol)**|
+|**2023-04-14**|**Text-Conditional Contextualized Avatars For Zero-Shot Personalization**|Samaneh Azadi et.al.|[2304.07410](http://arxiv.org/abs/2304.07410)|null|
+|**2023-08-28**|**Ego-Body Pose Estimation via Ego-Head Pose Estimation**|Jiaman Li et.al.|[2212.04636](http://arxiv.org/abs/2212.04636)|null|
+|**2023-03-07**|**Action-GPT: Leveraging Large-scale Language Models for Improved and Generalized Action Generation**|Sai Shashank Kalakonda et.al.|[2211.15603](http://arxiv.org/abs/2211.15603)|null|
+|**2022-10-26**|**PERGAMO: Personalized 3D Garments from Monocular Video**|Andrés Casado-Elvira et.al.|[2210.15040](http://arxiv.org/abs/2210.15040)|null|
+|**2022-09-28**|**DexTransfer: Real World Multi-fingered Dexterous Grasping with Minimal Human Demonstrations**|Zoey Qiuyu Chen et.al.|[2209.14284](http://arxiv.org/abs/2209.14284)|null|
+|**2022-07-27**|**AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing**|Jiaxi Jiang et.al.|[2207.13784](http://arxiv.org/abs/2207.13784)|**[link](https://github.com/eth-siplab/avatarposer)**|
+|**2022-07-15**|**A Dual-Masked Auto-Encoder for Robust Motion Capture with Spatial-Temporal Skeletal Token Completion**|Junkun Jiang et.al.|[2207.07381](http://arxiv.org/abs/2207.07381)|**[link](https://github.com/hkbu-vscomputing/2022_mm_dmae-mocap)**|
+|**2022-05-20**|**Analysis of Co-Laughter Gesture Relationship on RGB videos in Dyadic Conversation Contex**|Hugo Bohy et.al.|[2205.10266](http://arxiv.org/abs/2205.10266)|null|
+|**2022-05-19**|**HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers**|Yu-Wei Chao et.al.|[2205.09747](http://arxiv.org/abs/2205.09747)|null|
+|**2022-03-30**|**Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation**|Shuying Liu et.al.|[2203.16202](http://arxiv.org/abs/2203.16202)|null|
+|**2022-03-28**|**LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds**|Jialian Li et.al.|[2203.14698](http://arxiv.org/abs/2203.14698)|null|
+|**2022-09-20**|**BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis**|Haiyang Liu et.al.|[2203.05297](http://arxiv.org/abs/2203.05297)|**[link](https://github.com/PantoMatrix/BEAT)**|
+|**2021-11-01**|**Render In-between: Motion Guided Video Synthesis for Action Interpolation**|Hsuan-I Ho et.al.|[2111.01029](http://arxiv.org/abs/2111.01029)|null|
+|**2021-08-23**|**Learning Motion Priors for 4D Human Body Capture in 3D Scenes**|Siwei Zhang et.al.|[2108.10399](http://arxiv.org/abs/2108.10399)|null|
+|**2021-08-18**|**HuMoR: 3D Human Motion Model for Robust Pose Estimation**|Davis Rempe et.al.|[2105.04668](http://arxiv.org/abs/2105.04668)|**[link](https://github.com/davrempe/humor)**|
+|**2021-05-07**|**Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation**|Lincheng Li et.al.|[2104.07995](http://arxiv.org/abs/2104.07995)|**[link](https://github.com/FuxiVirtualHuman/Write-a-Speaker)**|
+|**2022-09-18**|**Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes**|Hongsuk Choi et.al.|[2104.07300](http://arxiv.org/abs/2104.07300)|**[link](https://github.com/hongsukchoi/3dcrowdnet_release)**|
+|**2021-04-07**|**Graph-based Normalizing Flow for Human Motion Generation and Reconstruction**|Wenjie Yin et.al.|[2104.03020](http://arxiv.org/abs/2104.03020)|null|
+|**2021-07-12**|**Learning Multiscale Correlations for Human Motion Prediction**|Honghong Zhou et.al.|[2103.10674](http://arxiv.org/abs/2103.10674)|null|
+|**2021-02-09**|**Robust Motion In-betweening**|Félix G. Harvey et.al.|[2102.04942](http://arxiv.org/abs/2102.04942)|**[link](https://github.com/ubisoftinc/Ubisoft-LaForge-Animation-Dataset)**|
+|**2021-01-14**|**Generating coherent spontaneous speech and gesture from text**|Simon Alexanderson et.al.|[2101.05684](http://arxiv.org/abs/2101.05684)|null|
+|**2020-11-12**|**UNOC: Understanding Occlusion for Embodied Presence in Virtual Reality**|Mathias Parger et.al.|[2012.03680](http://arxiv.org/abs/2012.03680)|null|
+|**2020-11-25**|**Generative Model-Enhanced Human Motion Prediction**|Anthony Bourached et.al.|[2010.11699](http://arxiv.org/abs/2010.11699)|**[link](https://github.com/bouracha/OoDMotion)**|
+|**2020-10-06**|**Motion Prediction Using Temporal Inception Module**|Tim Lebailly et.al.|[2010.03006](http://arxiv.org/abs/2010.03006)|**[link](https://github.com/tileb1/motion-prediction-tim)**|
+|**2020-09-27**|**Recognition and Synthesis of Object Transport Motion**|Connor Daly et.al.|[2009.12967](http://arxiv.org/abs/2009.12967)|null|
+|**2021-02-25**|**Functionality-Driven Musculature Retargeting**|Hoseok Ryu et.al.|[2007.15311](http://arxiv.org/abs/2007.15311)|null|
+|**2020-06-12**|**Realistic Physics Based Character Controller**|Joe Booth et.al.|[2006.07508](http://arxiv.org/abs/2006.07508)|**[link](https://github.com/Unity-Technologies/marathon-envs)**|
+|**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
+|**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
