@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -18,7 +18,7 @@ layout: default
 |**2024-03-19**|**Shared Autonomy via Variable Impedance Control and Virtual Potential Fields for Encoding Human Demonstration**|Shail Jadav et.al.|[2403.12720](http://arxiv.org/abs/2403.12720)|null|
 |**2024-03-19**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|null|
 |**2024-03-19**|**Understanding Training-free Diffusion Guidance: Mechanisms and Limitations**|Yifei Shen et.al.|[2403.12404](http://arxiv.org/abs/2403.12404)|null|
-|**2024-03-18**|**LLM^3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**|Shu Wang et.al.|[2403.11552](http://arxiv.org/abs/2403.11552)|**[link](https://github.com/assassinws/llm-tamp)**|
+|**2024-03-20**|**LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**|Shu Wang et.al.|[2403.11552](http://arxiv.org/abs/2403.11552)|**[link](https://github.com/assassinws/llm-tamp)**|
 |**2024-03-17**|**Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions**|Kento Kawaharazuka et.al.|[2403.11198](http://arxiv.org/abs/2403.11198)|null|
 |**2024-03-14**|**LM2D: Lyrics- and Music-Driven Dance Synthesis**|Wenjie Yin et.al.|[2403.09407](http://arxiv.org/abs/2403.09407)|null|
 |**2024-03-14**|**Dyadic Interaction Modeling for Social Behavior Generation**|Minh Tran et.al.|[2403.09069](http://arxiv.org/abs/2403.09069)|null|
@@ -240,6 +240,61 @@ layout: default
 |**2020-06-12**|**Realistic Physics Based Character Controller**|Joe Booth et.al.|[2006.07508](http://arxiv.org/abs/2006.07508)|**[link](https://github.com/Unity-Technologies/marathon-envs)**|
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
+
+## UL
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Unsupervised End-to-End Training with a Self-Defined Bio-Inspired Target**|Dongshu Liu et.al.|[2403.12116](http://arxiv.org/abs/2403.12116)|null|
+|**2024-03-18**|**DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction**|Yuxin Yao et.al.|[2403.11586](http://arxiv.org/abs/2403.11586)|null|
+|**2024-03-17**|**Neural-network density functional theory**|Yang Li et.al.|[2403.11287](http://arxiv.org/abs/2403.11287)|null|
+|**2024-03-17**|**A Dynamically Weighted Loss Function for Unsupervised Image Segmentation**|Boujemaa Guermazi et.al.|[2403.11266](http://arxiv.org/abs/2403.11266)|null|
+|**2024-03-17**|**Unsupervised Learning for Equitable DER Control**|Zhenyi Yuan et.al.|[2403.11068](http://arxiv.org/abs/2403.11068)|null|
+|**2024-03-16**|**Time Series Representation Learning with Supervised Contrastive Temporal Transformer**|Yuansan Liu et.al.|[2403.10787](http://arxiv.org/abs/2403.10787)|null|
+|**2024-03-14**|**Phase determination with and without deep learning**|Burak Çivitcioğlu et.al.|[2403.09786](http://arxiv.org/abs/2403.09786)|null|
+|**2024-03-14**|**Perspective-Equivariant Imaging: an Unsupervised Framework for Multispectral Pansharpening**|Andrew Wang et.al.|[2403.09327](http://arxiv.org/abs/2403.09327)|null|
+|**2024-03-14**|**Metadata-Driven Federated Learning of Connectional Brain Templates in Non-IID Multi-Domain Scenarios**|Geng Chen et.al.|[2403.09139](http://arxiv.org/abs/2403.09139)|null|
+|**2024-03-14**|**Spatial-temporal Memories Enhanced Graph Autoencoder for Anomaly Detection in Dynamic Graphs**|Jie Liu et.al.|[2403.09039](http://arxiv.org/abs/2403.09039)|null|
+|**2024-03-13**|**Elastic shape analysis computations for clustering left atrial appendage geometries of atrial fibrillation patients**|Zan Ahmad et.al.|[2403.08685](http://arxiv.org/abs/2403.08685)|null|
+|**2024-03-13**|**Unsupervised Learning of Hybrid Latent Dynamics: A Learn-to-Identify Framework**|Yubo Ye et.al.|[2403.08194](http://arxiv.org/abs/2403.08194)|null|
+|**2024-03-15**|**Generative deep learning-enabled ultra-large field-of-view lens-free imaging**|Ronald B. Liu et.al.|[2403.07786](http://arxiv.org/abs/2403.07786)|**[link](https://github.com/rl-arch/lensgan)**|
+|**2024-03-12**|**Knowledge Transfer across Multiple Principal Component Analysis Studies**|Zeyu Li et.al.|[2403.07431](http://arxiv.org/abs/2403.07431)|null|
+|**2024-03-11**|**On the Generalization Ability of Unsupervised Pretraining**|Yuyang Deng et.al.|[2403.06871](http://arxiv.org/abs/2403.06871)|null|
+|**2024-03-11**|**Eliminating Warping Shakes for Unsupervised Online Video Stitching**|Lang Nie et.al.|[2403.06378](http://arxiv.org/abs/2403.06378)|**[link](https://github.com/nie-lang/stabstitch)**|
+|**2024-03-08**|**Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery**|Mubashir Noman et.al.|[2403.05419](http://arxiv.org/abs/2403.05419)|**[link](https://github.com/techmn/satmae_pp)**|
+|**2024-03-07**|**Unsupervised Learning of Harmonic Analysis Based on Neural HSMM with Code Quality Templates**|Yui Uehara et.al.|[2403.04135](http://arxiv.org/abs/2403.04135)|**[link](https://github.com/yui-u/harmonic-analysis-chorales)**|
+|**2024-03-05**|**Discovering Melting Temperature Prediction Models of Inorganic Solids by Combining Supervised and Unsupervised Learning**|Vahe Gharakhanyan et.al.|[2403.03092](http://arxiv.org/abs/2403.03092)|null|
+|**2024-03-05**|**Unsupervised Learning Approaches for Identifying ICU Patient Subgroups: Do Results Generalise?**|Harry Mayne et.al.|[2403.02945](http://arxiv.org/abs/2403.02945)|**[link](https://github.com/harrymayne/icu-patient-subgroups)**|
+|**2024-03-05**|**Human Activity Recognition with Low-Resolution Infrared Array Sensor Using Semi-supervised Cross-domain Neural Networks for Indoor Environment**|Cunyi Yin et.al.|[2403.02632](http://arxiv.org/abs/2403.02632)|null|
+|**2024-03-04**|**A Scoping Review of Energy-Efficient Driving Behaviors and Applied State-of-the-Art AI Methods**|Zhipeng Ma et.al.|[2403.02053](http://arxiv.org/abs/2403.02053)|null|
+|**2024-03-04**|**PI-AstroDeconv: A Physics-Informed Unsupervised Learning Method for Astronomical Image Deconvolution**|Shulei Ni et.al.|[2403.01692](http://arxiv.org/abs/2403.01692)|null|
+|**2024-03-01**|**VisRec: A Semi-Supervised Approach to Radio Interferometric Data Reconstruction**|Ruoqi Wang et.al.|[2403.00897](http://arxiv.org/abs/2403.00897)|null|
+|**2024-02-14**|**Combating Financial Crimes with Unsupervised Learning Techniques: Clustering and Dimensionality Reduction for Anti-Money Laundering**|Ahmed N. Bakry et.al.|[2403.00777](http://arxiv.org/abs/2403.00777)|null|
+|**2024-03-01**|**Robust deep labeling of radiological emphysema subtypes using squeeze and excitation convolutional neural networks: The MESA Lung and SPIROMICS Studies**|Artur Wysoczanski et.al.|[2403.00257](http://arxiv.org/abs/2403.00257)|null|
+|**2024-02-28**|**On the Challenges and Opportunities in Generative AI**|Laura Manduchi et.al.|[2403.00025](http://arxiv.org/abs/2403.00025)|null|
+|**2024-02-29**|**MaskFi: Unsupervised Learning of WiFi and Vision Representations for Multimodal Human Activity Recognition**|Jianfei Yang et.al.|[2402.19258](http://arxiv.org/abs/2402.19258)|null|
+|**2024-02-29**|**Unsupervised Learning of High-resolution Light Field Imaging via Beam Splitter-based Hybrid Lenses**|Jianxin Lei et.al.|[2402.19020](http://arxiv.org/abs/2402.19020)|null|
+|**2024-03-05**|**Training-set-free two-stage deep learning for spectroscopic data de-noising**|Dongchen Huang et.al.|[2402.18830](http://arxiv.org/abs/2402.18830)|null|
+|**2024-02-28**|**ELA: Exploited Level Augmentation for Offline Learning in Zero-Sum Games**|Shiqi Lei et.al.|[2402.18617](http://arxiv.org/abs/2402.18617)|null|
+|**2024-02-27**|**Sequential transport maps using SoS density estimation and $α$ -divergences**|Benjamin Zanger et.al.|[2402.17943](http://arxiv.org/abs/2402.17943)|**[link](https://github.com/benjione/sequentialmeasuretransport.jl)**|
+|**2024-02-15**|**Utilizing Machine Learning for Signal Classification and Noise Reduction in Amateur Radio**|Jimi Sanchez et.al.|[2402.17771](http://arxiv.org/abs/2402.17771)|null|
+|**2024-02-24**|**Clustering in Dynamic Environments: A Framework for Benchmark Dataset Generation With Heterogeneous Changes**|Danial Yazdani et.al.|[2402.15731](http://arxiv.org/abs/2402.15731)|**[link](https://github.com/Danial-Yazdani/DDG)**|
+|**2024-02-24**|**Pruned Pivot: Correlation Clustering Algorithm for Dynamic, Parallel, and Local Computation Models**|Mina Dalirrooyfard et.al.|[2402.15668](http://arxiv.org/abs/2402.15668)|null|
+|**2024-02-23**|**On normalization-equivariance properties of supervised and unsupervised denoising methods: a survey**|Sébastien Herbreteau et.al.|[2402.15352](http://arxiv.org/abs/2402.15352)|null|
+|**2024-02-21**|**Unsupervised learning based object detection using Contrastive Learning**|Chandan Kumar et.al.|[2402.13465](http://arxiv.org/abs/2402.13465)|null|
+|**2024-02-25**|**Hierarchical Bayes Approach to Personalized Federated Unsupervised Learning**|Kaan Ozkara et.al.|[2402.12537](http://arxiv.org/abs/2402.12537)|**[link](https://github.com/kazkara/adept)**|
+|**2024-02-19**|**Neuro-mimetic Task-free Unsupervised Online Learning with Continual Self-Organizing Maps**|Hitesh Vaidya et.al.|[2402.12465](http://arxiv.org/abs/2402.12465)|null|
+|**2024-02-18**|**Impact of the La2NiO4+δ oxygen content on the synaptic properties of the TiN/La2NiO4+δ/Pt memristive devices**|Aleksandra Koroleva et.al.|[2402.11612](http://arxiv.org/abs/2402.11612)|null|
+|**2024-02-08**|**Unsupervised learning based end-to-end delayless generative fixed-filter active noise control**|Zhengding Luo et.al.|[2402.09460](http://arxiv.org/abs/2402.09460)|null|
+|**2024-02-14**|**Learning Interpretable Policies in Hindsight-Observable POMDPs through Partially Supervised Reinforcement Learning**|Michael Lanier et.al.|[2402.09290](http://arxiv.org/abs/2402.09290)|null|
+|**2024-02-14**|**Robust Training of Temporal GNNs using Nearest Neighbours based Hard Negatives**|Shubham Gupta et.al.|[2402.09239](http://arxiv.org/abs/2402.09239)|null|
+|**2024-02-21**|**Punctuation Restoration Improves Structure Understanding without Supervision**|Junghyun Min et.al.|[2402.08382](http://arxiv.org/abs/2402.08382)|null|
+|**2024-02-12**|**Unsupervised Discovery of Object-Centric Neural Fields**|Rundong Luo et.al.|[2402.07376](http://arxiv.org/abs/2402.07376)|null|
+|**2024-02-10**|**Semi-Supervised Learning for Bilingual Lexicon Induction**|Paul Garnier et.al.|[2402.07028](http://arxiv.org/abs/2402.07028)|**[link](https://github.com/gguinet/semisupervised-alignement)**|
+|**2024-02-10**|**Clustering Techniques Selection for a Hybrid Regression Model: A Case Study Based on a Solar Thermal System**|María Teresa García-Ordás et.al.|[2402.06921](http://arxiv.org/abs/2402.06921)|null|
+|**2024-02-08**|**Graph Neural Networks for Physical-Layer Security in Multi-User Flexible-Duplex Networks**|Tharaka Perera et.al.|[2402.05378](http://arxiv.org/abs/2402.05378)|null|
+|**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
+|**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
