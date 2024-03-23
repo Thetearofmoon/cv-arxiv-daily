@@ -7,14 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.22
+## Updated on 2024.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-20**|**Motion Generation from Fine-grained Textual Descriptions**|Kunhang Li et.al.|[2403.13518](http://arxiv.org/abs/2403.13518)|null|
+|**2024-03-20**|**CoMo: Controllable Motion Generation through Language Guided Pose Code Editing**|Yiming Huang et.al.|[2403.13900](http://arxiv.org/abs/2403.13900)|null|
+|**2024-03-20**|**Motion Generation from Fine-grained Textual Descriptions**|Kunhang Li et.al.|[2403.13518](http://arxiv.org/abs/2403.13518)|**[link](https://github.com/kunhangl/finemotiondiffuse)**|
 |**2024-03-21**|**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**|Peishan Cong et.al.|[2403.13307](http://arxiv.org/abs/2403.13307)|null|
 |**2024-03-19**|**AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents**|Jieming Cui et.al.|[2403.12835](http://arxiv.org/abs/2403.12835)|null|
 |**2024-03-19**|**Shared Autonomy via Variable Impedance Control and Virtual Potential Fields for Encoding Human Demonstration**|Shail Jadav et.al.|[2403.12720](http://arxiv.org/abs/2403.12720)|null|
@@ -247,6 +248,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**More than Just Statistical Recurrence: Human and Machine Unsupervised Learning of Māori Word Segmentation across Morphological Processes**|Ashvini Varatharaj et.al.|[2403.14444](http://arxiv.org/abs/2403.14444)|null|
+|**2024-03-21**|**Unsupervised Audio-Visual Segmentation with Modality Alignment**|Swapnil Bhosale et.al.|[2403.14203](http://arxiv.org/abs/2403.14203)|null|
 |**2024-03-20**|**Unsupervised learning in particle physics**|Jai Bardhan et.al.|[2403.13676](http://arxiv.org/abs/2403.13676)|null|
 |**2024-03-19**|**Hybrid Unsupervised Learning Strategy for Monitoring Industrial Batch Processes**|Christian W. Frey et.al.|[2403.13032](http://arxiv.org/abs/2403.13032)|null|
 |**2024-03-18**|**Unsupervised End-to-End Training with a Self-Defined Bio-Inspired Target**|Dongshu Liu et.al.|[2403.12116](http://arxiv.org/abs/2403.12116)|null|
