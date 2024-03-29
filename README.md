@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
+|**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-03-26**|**MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors**|He Zhang et.al.|[2403.17610](http://arxiv.org/abs/2403.17610)|null|
 |**2024-03-25**|**Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects**|Zicong Fan et.al.|[2403.16428](http://arxiv.org/abs/2403.16428)|null|
 |**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
@@ -86,12 +88,14 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## Motion Synthesis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
+|**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
 |**2024-03-21**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|null|
 |**2024-03-18**|**Generative Motion Stylization within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
@@ -116,6 +120,7 @@
 |**2024-03-26**|**ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions**|Anindita Ghosh et.al.|[2311.17057](http://arxiv.org/abs/2311.17057)|null|
 |**2023-11-28**|**A Unified Framework for Multimodal, Multi-Part Human Motion Synthesis**|Zixiang Zhou et.al.|[2311.16471](http://arxiv.org/abs/2311.16471)|null|
 |**2023-11-28**|**AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond**|Zixiang Zhou et.al.|[2311.16468](http://arxiv.org/abs/2311.16468)|null|
+|**2024-03-27**|**InterControl: Generate Human Motion Interactions by Controlling Every Joint**|Zhenzhi Wang et.al.|[2311.15864](http://arxiv.org/abs/2311.15864)|**[link](https://github.com/zhenzhiwang/intercontrol)**|
 |**2023-11-22**|**PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics**|Tianyi Xie et.al.|[2311.12198](http://arxiv.org/abs/2311.12198)|null|
 |**2023-11-13**|**Story-to-Motion: Synthesizing Infinite and Controllable Character Animation from Long Text**|Zhongfei Qing et.al.|[2311.07446](http://arxiv.org/abs/2311.07446)|null|
 |**2023-11-02**|**Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs**|Peng Jin et.al.|[2311.01015](http://arxiv.org/abs/2311.01015)|null|
@@ -146,7 +151,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## HOI
 
@@ -207,7 +212,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## LOMC
 
@@ -264,12 +269,13 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Higher order multi-dimension reduction methods via Einstein-product**|Alaeddine Zahir et.al.|[2403.18171](http://arxiv.org/abs/2403.18171)|null|
 |**2024-03-26**|**Variational Graph Auto-Encoder Based Inductive Learning Method for Semi-Supervised Classification**|Hanxuan Yang et.al.|[2403.17500](http://arxiv.org/abs/2403.17500)|null|
 |**2024-03-26**|**Unsupervised Learning for Joint Beamforming Design in RIS-aided ISAC Systems**|Junjie Ye et.al.|[2403.17324](http://arxiv.org/abs/2403.17324)|null|
 |**2024-03-25**|**Rethinking the Representation in Federated Unsupervised Learning with Non-IID Data**|Xinting Liao et.al.|[2403.16398](http://arxiv.org/abs/2403.16398)|null|
@@ -331,7 +337,7 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240329>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
