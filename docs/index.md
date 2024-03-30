@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.29
+## Updated on 2024.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
+|**2024-03-28**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435](http://arxiv.org/abs/2403.19435)|null|
 |**2024-03-27**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-03-26**|**MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors**|He Zhang et.al.|[2403.17610](http://arxiv.org/abs/2403.17610)|null|
@@ -85,6 +87,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion**|Xinyu Zhan et.al.|[2403.19417](http://arxiv.org/abs/2403.19417)|null|
 |**2024-03-27**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
@@ -146,6 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-03-22**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612](http://arxiv.org/abs/2403.15612)|null|
 |**2024-03-17**|**FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction**|Xiaohan Zhang et.al.|[2403.11237](http://arxiv.org/abs/2403.11237)|null|
 |**2024-03-17**|**THOR: Text to Human-Object Interaction Diffusion via Relation Intervention**|Qianyang Wu et.al.|[2403.11208](http://arxiv.org/abs/2403.11208)|null|
@@ -206,7 +210,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-06**|**Expressive Whole-Body Control for Humanoid Robots**|Xuxin Cheng et.al.|[2402.16796](http://arxiv.org/abs/2402.16796)|null|
-|**2024-03-27**|**EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling**|Haiyang Liu et.al.|[2401.00374](http://arxiv.org/abs/2401.00374)|**[link](https://github.com/PantoMatrix/PantoMatrix/tree/main/scripts/EMAGE_2024)**|
+|**2024-03-27**|**EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling**|Haiyang Liu et.al.|[2401.00374](http://arxiv.org/abs/2401.00374)|**[link](https://github.com/PantoMatrix/PantoMatrix)**|
 |**2023-12-27**|**HMP: Hand Motion Priors for Pose and Shape Estimation from Video**|Enes Duran et.al.|[2312.16737](http://arxiv.org/abs/2312.16737)|null|
 |**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636](http://arxiv.org/abs/2312.15636)|null|
 |**2023-12-19**|**MotionScript: Natural Language Descriptions for Expressive 3D Human Motions**|Payam Jome Yazdian et.al.|[2312.12634](http://arxiv.org/abs/2312.12634)|null|
@@ -237,7 +241,7 @@ layout: default
 |**2022-05-19**|**HandoverSim: A Simulation Framework and Benchmark for Human-to-Robot Object Handovers**|Yu-Wei Chao et.al.|[2205.09747](http://arxiv.org/abs/2205.09747)|null|
 |**2022-03-30**|**Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation**|Shuying Liu et.al.|[2203.16202](http://arxiv.org/abs/2203.16202)|null|
 |**2022-03-28**|**LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds**|Jialian Li et.al.|[2203.14698](http://arxiv.org/abs/2203.14698)|null|
-|**2022-09-20**|**BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis**|Haiyang Liu et.al.|[2203.05297](http://arxiv.org/abs/2203.05297)|**[link](https://github.com/PantoMatrix/PantoMatrix/tree/main/scripts/BEAT_2022)**|
+|**2022-09-20**|**BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis**|Haiyang Liu et.al.|[2203.05297](http://arxiv.org/abs/2203.05297)|**[link](https://github.com/PantoMatrix/PantoMatrix)**|
 |**2021-11-01**|**Render In-between: Motion Guided Video Synthesis for Action Interpolation**|Hsuan-I Ho et.al.|[2111.01029](http://arxiv.org/abs/2111.01029)|null|
 |**2021-08-23**|**Learning Motion Priors for 4D Human Body Capture in 3D Scenes**|Siwei Zhang et.al.|[2108.10399](http://arxiv.org/abs/2108.10399)|null|
 |**2021-08-18**|**HuMoR: 3D Human Motion Model for Robust Pose Estimation**|Davis Rempe et.al.|[2105.04668](http://arxiv.org/abs/2105.04668)|**[link](https://github.com/davrempe/humor)**|
