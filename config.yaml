@@ -32,3 +32,5 @@ keywords:
         filters: ["overcome the limitations of motion capture datasets", "motion capture datasets", "3D motion capture is arduous", "small scale motion capture data"]
     "UL":
         filters: ["Unsupervised Learning", "Unsupervised learning algorithm"]
+    "IS":
+        filters: ["Image Synthesis"]
