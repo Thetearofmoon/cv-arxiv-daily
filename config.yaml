@@ -33,4 +33,4 @@ keywords:
     "UL":
         filters: ["Unsupervised Learning", "Unsupervised learning algorithm"]
     "IS":
-        filters: ["Image Synthesis"]
+        filters: ["Image Synthesis", "image generation"]
