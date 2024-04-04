@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700](http://arxiv.org/abs/2404.01700)|null|
+|**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
+|**2024-04-02**|**Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**|Junuk Cha et.al.|[2404.00562](http://arxiv.org/abs/2404.00562)|null|
+|**2024-03-30**|**Towards Variable and Coordinated Holistic Co-Speech Motion Generation**|Yifei Liu et.al.|[2404.00368](http://arxiv.org/abs/2404.00368)|null|
+|**2024-03-26**|**Choreographing the Digital Canvas: A Machine Learning Approach to Artistic Performance**|Siyuan Peng et.al.|[2404.00054](http://arxiv.org/abs/2404.00054)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-04-01**|**BAMM: Bidirectional Autoregressive Motion Model**|Ekkasit Pinyoanuntapong et.al.|[2403.19435](http://arxiv.org/abs/2403.19435)|**[link](https://github.com/exitudio/bamm-page)**|
 |**2024-03-27**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
@@ -28,7 +33,7 @@ layout: default
 |**2024-03-21**|**LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment**|Peishan Cong et.al.|[2403.13307](http://arxiv.org/abs/2403.13307)|null|
 |**2024-03-19**|**AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents**|Jieming Cui et.al.|[2403.12835](http://arxiv.org/abs/2403.12835)|null|
 |**2024-03-19**|**Shared Autonomy via Variable Impedance Control and Virtual Potential Fields for Encoding Human Demonstration**|Shail Jadav et.al.|[2403.12720](http://arxiv.org/abs/2403.12720)|null|
-|**2024-03-21**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|null|
+|**2024-03-21**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|**[link](https://github.com/library87/OpenRoboExp)**|
 |**2024-03-19**|**Understanding Training-free Diffusion Guidance: Mechanisms and Limitations**|Yifei Shen et.al.|[2403.12404](http://arxiv.org/abs/2403.12404)|null|
 |**2024-03-20**|**LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**|Shu Wang et.al.|[2403.11552](http://arxiv.org/abs/2403.11552)|**[link](https://github.com/assassinws/llm-tamp)**|
 |**2024-03-17**|**Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions**|Kento Kawaharazuka et.al.|[2403.11198](http://arxiv.org/abs/2403.11198)|null|
@@ -87,11 +92,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**CT respiratory motion synthesis using joint supervised and adversarial learning**|Yi-Heng Cao et.al.|[2404.00163](http://arxiv.org/abs/2404.00163)|null|
 |**2024-03-28**|**OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion**|Xinyu Zhan et.al.|[2403.19417](http://arxiv.org/abs/2403.19417)|null|
 |**2024-03-27**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
-|**2024-03-21**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|null|
+|**2024-03-21**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|**[link](https://github.com/library87/OpenRoboExp)**|
 |**2024-03-18**|**Generative Motion Stylization within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
 |**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
 |**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
@@ -149,6 +155,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|null|
+|**2024-04-02**|**HOI-M3:Capture Multiple Humans and Objects Interaction within Contextual Environment**|Juze Zhang et.al.|[2404.00299](http://arxiv.org/abs/2404.00299)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-03-22**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612](http://arxiv.org/abs/2403.15612)|null|
 |**2024-03-17**|**FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction**|Xiaohan Zhang et.al.|[2403.11237](http://arxiv.org/abs/2403.11237)|null|
@@ -264,6 +272,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks**|Gabriela Sejnova et.al.|[2404.01932](http://arxiv.org/abs/2404.01932)|**[link](https://github.com/gabinsane/multi-vaes-in-robotics)**|
+|**2024-04-02**|**Preventing Model Collapse in Gaussian Process Latent Variable Models**|Ying Li et.al.|[2404.01697](http://arxiv.org/abs/2404.01697)|null|
+|**2024-04-01**|**Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation**|Ming Xu et.al.|[2404.01518](http://arxiv.org/abs/2404.01518)|**[link](https://github.com/mingu6/action_seg_ot)**|
+|**2024-04-01**|**CLIPtone: Unsupervised Learning for Text-based Image Tone Adjustment**|Hyeongmin Lee et.al.|[2404.01123](http://arxiv.org/abs/2404.01123)|null|
+|**2024-03-30**|**Leveraging Pre-trained and Transformer-derived Embeddings from EHRs to Characterize Heterogeneity Across Alzheimer's Disease and Related Dementias**|Matthew West et.al.|[2404.00464](http://arxiv.org/abs/2404.00464)|null|
+|**2024-03-29**|**CT respiratory motion synthesis using joint supervised and adversarial learning**|Yi-Heng Cao et.al.|[2404.00163](http://arxiv.org/abs/2404.00163)|null|
+|**2024-03-25**|**UAlign: Pushing the Limit of Template-free Retrosynthesis Prediction with Unsupervised SMILES Alignment**|Kaipeng Zeng et.al.|[2404.00044](http://arxiv.org/abs/2404.00044)|**[link](https://github.com/zengkaipeng/UAlign)**|
 |**2024-03-29**|**On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem**|Yimeng Min et.al.|[2403.20212](http://arxiv.org/abs/2403.20212)|null|
 |**2024-03-29**|**A Signature Based Approach Towards Global Channel Charting with Ultra Low Complexity**|Longhai Zhao et.al.|[2403.20091](http://arxiv.org/abs/2403.20091)|null|
 |**2024-03-29**|**Best Subset Solution Path for Linear Dimension Reduction Models using Continuous Optimization**|Benoit Liquet et.al.|[2403.20007](http://arxiv.org/abs/2403.20007)|null|
@@ -333,12 +348,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
+|**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
+|**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
+|**2024-04-02**|**Real, fake and synthetic faces -- does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
+|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|null|
+|**2024-04-01**|**PlayFutures: Imagining Civic Futures with AI and Puppets**|Supratim Pait et.al.|[2404.01527](http://arxiv.org/abs/2404.01527)|null|
+|**2024-04-01**|**Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data**|Matthias Gerstgrasser et.al.|[2404.01413](http://arxiv.org/abs/2404.01413)|null|
+|**2024-04-01**|**Condition-Aware Neural Network for Controlled Image Generation**|Han Cai et.al.|[2404.01143](http://arxiv.org/abs/2404.01143)|null|
+|**2024-04-01**|**HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach**|Maxim Nikolaev et.al.|[2404.01094](http://arxiv.org/abs/2404.01094)|**[link](https://github.com/airi-institute/hairfastgan)**|
+|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089](http://arxiv.org/abs/2404.01089)|null|
+|**2024-04-01**|**Action Detection via an Image Diffusion Process**|Lin Geng Foo et.al.|[2404.01051](http://arxiv.org/abs/2404.01051)|null|
+|**2024-04-02**|**Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation**|Yixin Wan et.al.|[2404.01030](http://arxiv.org/abs/2404.01030)|null|
+|**2024-04-01**|**Towards Label-Efficient Human Matting: A Simple Baseline for Weakly Semi-Supervised Trimap-Free Human Matting**|Beomyoung Kim et.al.|[2404.00921](http://arxiv.org/abs/2404.00921)|null|
+|**2024-04-01**|**Model-Agnostic Human Preference Inversion in Diffusion Models**|Jeeyung Kim et.al.|[2404.00879](http://arxiv.org/abs/2404.00879)|null|
+|**2024-03-31**|**Towards Realistic Scene Generation with LiDAR Diffusion Models**|Haoxi Ran et.al.|[2404.00815](http://arxiv.org/abs/2404.00815)|**[link](https://github.com/hancyran/lidar-diffusion)**|
+|**2024-03-31**|**IPT-V2: Efficient Image Processing Transformer using Hierarchical Attentions**|Zhijun Tu et.al.|[2404.00633](http://arxiv.org/abs/2404.00633)|null|
+|**2024-03-31**|**GAN with Skip Patch Discriminator for Biological Electron Microscopy Image Generation**|Nishith Ranjon Roy et.al.|[2404.00558](http://arxiv.org/abs/2404.00558)|null|
+|**2024-03-31**|**Convergence of Continuous Normalizing Flows for Learning Probability Distributions**|Yuan Gao et.al.|[2404.00551](http://arxiv.org/abs/2404.00551)|null|
+|**2024-04-02**|**CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization**|Yao Ni et.al.|[2404.00521](http://arxiv.org/abs/2404.00521)|null|
+|**2024-03-30**|**Dependability Evaluation of Stable Diffusion with Soft Errors on the Model Parameters**|Zhen Gao et.al.|[2404.00352](http://arxiv.org/abs/2404.00352)|null|
+|**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349](http://arxiv.org/abs/2404.00349)|null|
+|**2024-03-30**|**MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text**|Takayuki Hara et.al.|[2404.00345](http://arxiv.org/abs/2404.00345)|null|
+|**2024-03-30**|**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**|Pancheng Zhao et.al.|[2404.00292](http://arxiv.org/abs/2404.00292)|null|
+|**2024-03-30**|**Grid Diffusion Models for Text-to-Video Generation**|Taegyeong Lee et.al.|[2404.00234](http://arxiv.org/abs/2404.00234)|null|
+|**2024-03-30**|**Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space**|Zheling Meng et.al.|[2404.00230](http://arxiv.org/abs/2404.00230)|null|
+|**2024-03-29**|**Deepfake Sentry: Harnessing Ensemble Intelligence for Resilient Detection and Generalisation**|Liviu-Daniel Ştefan et.al.|[2404.00114](http://arxiv.org/abs/2404.00114)|null|
 |**2024-03-29**|**Benchmarking Counterfactual Image Generation**|Thomas Melistas et.al.|[2403.20287](http://arxiv.org/abs/2403.20287)|**[link](https://github.com/gulnazaki/counterfactual-benchmark)**|
 |**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105](http://arxiv.org/abs/2403.20105)|null|
 |**2024-03-29**|**SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image**|Yunhao Li et.al.|[2403.20018](http://arxiv.org/abs/2403.20018)|**[link](https://github.com/wu-cvgl/scinerf)**|
 |**2024-04-02**|**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**|Robik Shrestha et.al.|[2403.19964](http://arxiv.org/abs/2403.19964)|null|
 |**2024-03-28**|**Vision-Language Synthetic Data Enhances Echocardiography Downstream Tasks**|Pooria Ashrafian et.al.|[2403.19880](http://arxiv.org/abs/2403.19880)|**[link](https://github.com/pooria90/diffecho)**|
-|**2024-03-28**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/abs/2403.19866)|null|
+|**2024-04-02**|**Is Synthetic Image Useful for Transfer Learning? An Investigation into Data Generation, Volume, and Utilization**|Yuhang Li et.al.|[2403.19866](http://arxiv.org/abs/2403.19866)|null|
 |**2024-03-28**|**CLoRA: A Contrastive Approach to Compose Multiple LoRA Models**|Tuna Han Salih Meral et.al.|[2403.19776](http://arxiv.org/abs/2403.19776)|null|
 |**2024-03-27**|**Capability-aware Prompt Reformulation Learning for Text-to-Image Generation**|Jingtao Zhan et.al.|[2403.19716](http://arxiv.org/abs/2403.19716)|**[link](https://github.com/jingtaozhan/promptreformulate)**|
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
