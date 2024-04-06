@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.05
+## Updated on 2024.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -96,7 +96,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240406>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -161,7 +161,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240406>back to top</a>)</p>
 
 ## HOI
 
@@ -225,7 +225,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240406>back to top</a>)</p>
 
 ## LOMC
 
@@ -282,12 +282,14 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240406>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**GPT-DETOX: An In-Context Learning-Based Paraphraser for Text Detoxification**|Ali Pesaranghader et.al.|[2404.03052](http://arxiv.org/abs/2404.03052)|null|
+|**2024-03-31**|**An Unsupervised Adversarial Autoencoder for Cyber Attack Detection in Power Distribution Grids**|Mehdi Jabbari Zideh et.al.|[2404.02923](http://arxiv.org/abs/2404.02923)|null|
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
 |**2024-04-02**|**Remote sensing framework for geological mapping via stacked autoencoders and clustering**|Sandeep Nagar et.al.|[2404.02180](http://arxiv.org/abs/2404.02180)|null|
 |**2024-04-02**|**Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks**|Gabriela Sejnova et.al.|[2404.01932](http://arxiv.org/abs/2404.01932)|**[link](https://github.com/gabinsane/multi-vaes-in-robotics)**|
@@ -362,12 +364,21 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240406>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|null|
+|**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
+|**2024-04-04**|**Robust Concept Erasure Using Task Vectors**|Minh Pham et.al.|[2404.03631](http://arxiv.org/abs/2404.03631)|null|
+|**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
+|**2024-04-04**|**Would Deep Generative Models Amplify Bias in Future Models?**|Tianwei Chen et.al.|[2404.03242](http://arxiv.org/abs/2404.03242)|null|
+|**2024-04-04**|**Diverse and Tailored Image Generation for Zero-shot Multi-label Classification**|Kaixin Zhang et.al.|[2404.03144](http://arxiv.org/abs/2404.03144)|null|
+|**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
+|**2024-04-03**|**Many-to-many Image Generation with Auto-regressive Diffusion Models**|Ying Shen et.al.|[2404.03109](http://arxiv.org/abs/2404.03109)|null|
+|**2024-04-02**|**Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models**|Jiachen Ma et.al.|[2404.02928](http://arxiv.org/abs/2404.02928)|null|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905](http://arxiv.org/abs/2404.02905)|**[link](https://github.com/FoundationVision/VAR)**|
 |**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
 |**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
@@ -501,7 +512,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

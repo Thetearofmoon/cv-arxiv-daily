@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.05
+## Updated on 2024.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -272,6 +272,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**GPT-DETOX: An In-Context Learning-Based Paraphraser for Text Detoxification**|Ali Pesaranghader et.al.|[2404.03052](http://arxiv.org/abs/2404.03052)|null|
+|**2024-03-31**|**An Unsupervised Adversarial Autoencoder for Cyber Attack Detection in Power Distribution Grids**|Mehdi Jabbari Zideh et.al.|[2404.02923](http://arxiv.org/abs/2404.02923)|null|
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
 |**2024-04-02**|**Remote sensing framework for geological mapping via stacked autoencoders and clustering**|Sandeep Nagar et.al.|[2404.02180](http://arxiv.org/abs/2404.02180)|null|
 |**2024-04-02**|**Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks**|Gabriela Sejnova et.al.|[2404.01932](http://arxiv.org/abs/2404.01932)|**[link](https://github.com/gabinsane/multi-vaes-in-robotics)**|
@@ -350,6 +352,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|null|
+|**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
+|**2024-04-04**|**Robust Concept Erasure Using Task Vectors**|Minh Pham et.al.|[2404.03631](http://arxiv.org/abs/2404.03631)|null|
+|**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
+|**2024-04-04**|**Would Deep Generative Models Amplify Bias in Future Models?**|Tianwei Chen et.al.|[2404.03242](http://arxiv.org/abs/2404.03242)|null|
+|**2024-04-04**|**Diverse and Tailored Image Generation for Zero-shot Multi-label Classification**|Kaixin Zhang et.al.|[2404.03144](http://arxiv.org/abs/2404.03144)|null|
+|**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
+|**2024-04-03**|**Many-to-many Image Generation with Auto-regressive Diffusion Models**|Ying Shen et.al.|[2404.03109](http://arxiv.org/abs/2404.03109)|null|
+|**2024-04-02**|**Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models**|Jiachen Ma et.al.|[2404.02928](http://arxiv.org/abs/2404.02928)|null|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905](http://arxiv.org/abs/2404.02905)|**[link](https://github.com/FoundationVision/VAR)**|
 |**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
 |**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
