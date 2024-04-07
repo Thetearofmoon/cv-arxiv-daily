@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.06
+## Updated on 2024.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-03**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700](http://arxiv.org/abs/2404.01700)|null|
 |**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
-|**2024-04-02**|**Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**|Junuk Cha et.al.|[2404.00562](http://arxiv.org/abs/2404.00562)|null|
+|**2024-04-02**|**Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**|Junuk Cha et.al.|[2404.00562](http://arxiv.org/abs/2404.00562)|**[link](https://github.com/junukcha/text2hoi)**|
 |**2024-03-30**|**Towards Variable and Coordinated Holistic Co-Speech Motion Generation**|Yifei Liu et.al.|[2404.00368](http://arxiv.org/abs/2404.00368)|null|
 |**2024-03-26**|**Choreographing the Digital Canvas: A Machine Learning Approach to Artistic Performance**|Siyuan Peng et.al.|[2404.00054](http://arxiv.org/abs/2404.00054)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
@@ -155,7 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|null|
+|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|**[link](https://github.com/xingaoli/dp-hoi)**|
 |**2024-04-02**|**HOI-M3:Capture Multiple Humans and Objects Interaction within Contextual Environment**|Juze Zhang et.al.|[2404.00299](http://arxiv.org/abs/2404.00299)|null|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
 |**2024-03-22**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612](http://arxiv.org/abs/2403.15612)|null|
@@ -372,7 +372,7 @@ layout: default
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
 |**2024-04-02**|**Bi-LORA: A Vision-Language Approach for Synthetic Image Detection**|Mamadou Keita et.al.|[2404.01959](http://arxiv.org/abs/2404.01959)|null|
 |**2024-04-02**|**Real, fake and synthetic faces -- does the coin have three sides?**|Shahzeb Naeem et.al.|[2404.01878](http://arxiv.org/abs/2404.01878)|null|
-|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|null|
+|**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|**[link](https://github.com/xingaoli/dp-hoi)**|
 |**2024-04-01**|**PlayFutures: Imagining Civic Futures with AI and Puppets**|Supratim Pait et.al.|[2404.01527](http://arxiv.org/abs/2404.01527)|null|
 |**2024-04-01**|**Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data**|Matthias Gerstgrasser et.al.|[2404.01413](http://arxiv.org/abs/2404.01413)|null|
 |**2024-04-01**|**Condition-Aware Neural Network for Controlled Image Generation**|Han Cai et.al.|[2404.01143](http://arxiv.org/abs/2404.01143)|null|
