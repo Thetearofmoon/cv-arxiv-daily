@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.07
+## Updated on 2024.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-03**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700](http://arxiv.org/abs/2404.01700)|null|
+|**2024-04-03**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700](http://arxiv.org/abs/2404.01700)|**[link](https://github.com/OpenMotionLab/MotionChain)**|
 |**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
 |**2024-04-02**|**Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**|Junuk Cha et.al.|[2404.00562](http://arxiv.org/abs/2404.00562)|**[link](https://github.com/junukcha/text2hoi)**|
 |**2024-03-30**|**Towards Variable and Coordinated Holistic Co-Speech Motion Generation**|Yifei Liu et.al.|[2404.00368](http://arxiv.org/abs/2404.00368)|null|
@@ -96,7 +96,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -111,7 +111,7 @@
 |**2024-03-18**|**Generative Motion Stylization within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
 |**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
 |**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
-|**2024-02-11**|**Self-Correcting Self-Consuming Loops for Generative Model Training**|Nate Gillman et.al.|[2402.07087](http://arxiv.org/abs/2402.07087)|**[link](https://github.com/nate-gillman/self-correcting-self-consuming)**|
+|**2024-04-05**|**Self-Correcting Self-Consuming Loops for Generative Model Training**|Nate Gillman et.al.|[2402.07087](http://arxiv.org/abs/2402.07087)|**[link](https://github.com/nate-gillman/self-correcting-self-consuming)**|
 |**2024-02-01**|**IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition**|Zikang Leng et.al.|[2402.01049](http://arxiv.org/abs/2402.01049)|null|
 |**2024-01-16**|**EgoGen: An Egocentric Synthetic Data Generator**|Gen Li et.al.|[2401.08739](http://arxiv.org/abs/2401.08739)|null|
 |**2024-01-16**|**Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**|Mathis Petrovich et.al.|[2401.08559](http://arxiv.org/abs/2401.08559)|null|
@@ -161,7 +161,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## HOI
 
@@ -225,7 +225,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## LOMC
 
@@ -282,7 +282,7 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## UL
 
@@ -291,7 +291,7 @@
 |**2024-04-03**|**GPT-DETOX: An In-Context Learning-Based Paraphraser for Text Detoxification**|Ali Pesaranghader et.al.|[2404.03052](http://arxiv.org/abs/2404.03052)|null|
 |**2024-03-31**|**An Unsupervised Adversarial Autoencoder for Cyber Attack Detection in Power Distribution Grids**|Mehdi Jabbari Zideh et.al.|[2404.02923](http://arxiv.org/abs/2404.02923)|null|
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
-|**2024-04-02**|**Remote sensing framework for geological mapping via stacked autoencoders and clustering**|Sandeep Nagar et.al.|[2404.02180](http://arxiv.org/abs/2404.02180)|null|
+|**2024-04-02**|**Remote sensing framework for geological mapping via stacked autoencoders and clustering**|Sandeep Nagar et.al.|[2404.02180](http://arxiv.org/abs/2404.02180)|**[link](https://github.com/sydney-machine-learning/autoencoders_remotesensing)**|
 |**2024-04-02**|**Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks**|Gabriela Sejnova et.al.|[2404.01932](http://arxiv.org/abs/2404.01932)|**[link](https://github.com/gabinsane/multi-vaes-in-robotics)**|
 |**2024-04-02**|**Preventing Model Collapse in Gaussian Process Latent Variable Models**|Ying Li et.al.|[2404.01697](http://arxiv.org/abs/2404.01697)|null|
 |**2024-04-04**|**Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation**|Ming Xu et.al.|[2404.01518](http://arxiv.org/abs/2404.01518)|**[link](https://github.com/mingu6/action_seg_ot)**|
@@ -301,10 +301,10 @@
 |**2024-03-25**|**UAlign: Pushing the Limit of Template-free Retrosynthesis Prediction with Unsupervised SMILES Alignment**|Kaipeng Zeng et.al.|[2404.00044](http://arxiv.org/abs/2404.00044)|**[link](https://github.com/zengkaipeng/UAlign)**|
 |**2024-03-29**|**On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem**|Yimeng Min et.al.|[2403.20212](http://arxiv.org/abs/2403.20212)|null|
 |**2024-03-29**|**A Signature Based Approach Towards Global Channel Charting with Ultra Low Complexity**|Longhai Zhao et.al.|[2403.20091](http://arxiv.org/abs/2403.20091)|null|
-|**2024-03-29**|**Best Subset Solution Path for Linear Dimension Reduction Models using Continuous Optimization**|Benoit Liquet et.al.|[2403.20007](http://arxiv.org/abs/2403.20007)|null|
+|**2024-03-29**|**Best Subset Solution Path for Linear Dimension Reduction Models using Continuous Optimization**|Benoit Liquet et.al.|[2403.20007](http://arxiv.org/abs/2403.20007)|**[link](https://github.com/benoit-liquet/bss-pca-pls)**|
 |**2024-03-30**|**Higher order multi-dimension reduction methods via Einstein-product**|Alaeddine Zahir et.al.|[2403.18171](http://arxiv.org/abs/2403.18171)|null|
 |**2024-03-26**|**Variational Graph Auto-Encoder Based Inductive Learning Method for Semi-Supervised Classification**|Hanxuan Yang et.al.|[2403.17500](http://arxiv.org/abs/2403.17500)|null|
-|**2024-03-26**|**Unsupervised Learning for Joint Beamforming Design in RIS-aided ISAC Systems**|Junjie Ye et.al.|[2403.17324](http://arxiv.org/abs/2403.17324)|null|
+|**2024-03-26**|**Unsupervised Learning for Joint Beamforming Design in RIS-aided ISAC Systems**|Junjie Ye et.al.|[2403.17324](http://arxiv.org/abs/2403.17324)|**[link](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)**|
 |**2024-03-25**|**Rethinking the Representation in Federated Unsupervised Learning with Non-IID Data**|Xinting Liao et.al.|[2403.16398](http://arxiv.org/abs/2403.16398)|null|
 |**2024-03-26**|**Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models**|Minchan Kim et.al.|[2403.16167](http://arxiv.org/abs/2403.16167)|null|
 |**2024-03-22**|**Multiple-Input Auto-Encoder Guided Feature Selection for IoT Intrusion Detection Systems**|Phai Vu Dinh et.al.|[2403.15511](http://arxiv.org/abs/2403.15511)|null|
@@ -364,13 +364,13 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|null|
+|**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**Reference-Based 3D-Aware Image Editing with Triplane**|Bahri Batuhan Bilecen et.al.|[2404.03632](http://arxiv.org/abs/2404.03632)|null|
 |**2024-04-04**|**Robust Concept Erasure Using Task Vectors**|Minh Pham et.al.|[2404.03631](http://arxiv.org/abs/2404.03631)|null|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
@@ -383,7 +383,7 @@
 |**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
 |**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
 |**2024-04-03**|**MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation**|Petru-Daniel Tudosiu et.al.|[2404.02790](http://arxiv.org/abs/2404.02790)|null|
-|**2024-04-03**|**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2404.02733](http://arxiv.org/abs/2404.02733)|**[link](https://github.com/instantstyle/instantstyle)**|
+|**2024-04-04**|**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2404.02733](http://arxiv.org/abs/2404.02733)|**[link](https://github.com/instantstyle/instantstyle)**|
 |**2024-04-03**|**Model-agnostic Origin Attribution of Generated Images with Few-shot Examples**|Fengyuan Liu et.al.|[2404.02697](http://arxiv.org/abs/2404.02697)|null|
 |**2024-04-03**|**Severity Controlled Text-to-Image Generative Model Bias Manipulation**|Jordan Vice et.al.|[2404.02530](http://arxiv.org/abs/2404.02530)|null|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
@@ -512,7 +512,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
