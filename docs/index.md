@@ -422,7 +422,7 @@ layout: default
 |**2024-03-30**|**Dependability Evaluation of Stable Diffusion with Soft Errors on the Model Parameters**|Zhen Gao et.al.|[2404.00352](http://arxiv.org/abs/2404.00352)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349](http://arxiv.org/abs/2404.00349)|null|
 |**2024-03-30**|**MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text**|Takayuki Hara et.al.|[2404.00345](http://arxiv.org/abs/2404.00345)|null|
-|**2024-04-07**|**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**|Pancheng Zhao et.al.|[2404.00292](http://arxiv.org/abs/2404.00292)|null|
+|**2024-04-07**|**LAKE-RED: Camouflaged Images Generation by Latent Background Knowledge Retrieval-Augmented Diffusion**|Pancheng Zhao et.al.|[2404.00292](http://arxiv.org/abs/2404.00292)|**[link](https://github.com/panchengzhao/lake-red)**|
 |**2024-03-30**|**Grid Diffusion Models for Text-to-Video Generation**|Taegyeong Lee et.al.|[2404.00234](http://arxiv.org/abs/2404.00234)|null|
 |**2024-03-30**|**Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space**|Zheling Meng et.al.|[2404.00230](http://arxiv.org/abs/2404.00230)|null|
 |**2024-03-29**|**Deepfake Sentry: Harnessing Ensemble Intelligence for Resilient Detection and Generalisation**|Liviu-Daniel Ştefan et.al.|[2404.00114](http://arxiv.org/abs/2404.00114)|null|
@@ -436,7 +436,7 @@ layout: default
 |**2024-03-27**|**Capability-aware Prompt Reformulation Learning for Text-to-Image Generation**|Jingtao Zhan et.al.|[2403.19716](http://arxiv.org/abs/2403.19716)|**[link](https://github.com/jingtaozhan/promptreformulate)**|
 |**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
 |**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
-|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620](http://arxiv.org/abs/2403.19620)|null|
+|**2024-03-28**|**Collaborative Interactive Evolution of Art in the Latent Space of Deep Generative Models**|Ole Hall et.al.|[2403.19620](http://arxiv.org/abs/2403.19620)|**[link](https://github.com/omhall/collaborativeart)**|
 |**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600](http://arxiv.org/abs/2403.19600)|**[link](https://github.com/zhicaiwww/diff-mix)**|
 |**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593](http://arxiv.org/abs/2403.19593)|null|
 |**2024-03-28**|**Imperceptible Protection against Style Imitation from Diffusion Models**|Namhyuk Ahn et.al.|[2403.19254](http://arxiv.org/abs/2403.19254)|null|
@@ -484,7 +484,7 @@ layout: default
 |**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
 |**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
 |**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
-|**2024-03-21**|**LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models**|Hantao Zhang et.al.|[2403.14066](http://arxiv.org/abs/2403.14066)|null|
+|**2024-03-21**|**LeFusion: Synthesizing Myocardial Pathology on Cardiac MRI via Lesion-Focus Diffusion Models**|Hantao Zhang et.al.|[2403.14066](http://arxiv.org/abs/2403.14066)|**[link](https://github.com/m3dv/lefusion)**|
 |**2024-03-20**|**Enhancing Fingerprint Image Synthesis with GANs, Diffusion Models, and Style Transfer Techniques**|W. Tang et.al.|[2403.13916](http://arxiv.org/abs/2403.13916)|null|
 |**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890](http://arxiv.org/abs/2403.13890)|**[link](https://github.com/richardobi/ccnet)**|
 |**2024-03-20**|**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis**|Feng Liu et.al.|[2403.13378](http://arxiv.org/abs/2403.13378)|**[link](https://github.com/ader47/jittor-jieke-semantic_images_synthesis)**|
