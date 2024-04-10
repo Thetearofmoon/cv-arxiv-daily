@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Learning Prehensile Dexterity by Imitating and Emulating State-only Observations**|Yunhai Han et.al.|[2404.05582](http://arxiv.org/abs/2404.05582)|null|
+|**2024-04-06**|**A self-attention model for robust rigid slice-to-volume registration of functional MRI**|Samah Khawaled et.al.|[2404.04546](http://arxiv.org/abs/2404.04546)|null|
 |**2024-04-03**|**MotionChain: Conversational Motion Controllers via Multimodal Prompts**|Biao Jiang et.al.|[2404.01700](http://arxiv.org/abs/2404.01700)|**[link](https://github.com/OpenMotionLab/MotionChain)**|
 |**2024-04-01**|**Large Motion Model for Unified Multi-Modal Motion Generation**|Mingyuan Zhang et.al.|[2404.01284](http://arxiv.org/abs/2404.01284)|null|
 |**2024-04-02**|**Text2HOI: Text-guided 3D Motion Generation for Hand-Object Interaction**|Junuk Cha et.al.|[2404.00562](http://arxiv.org/abs/2404.00562)|**[link](https://github.com/junukcha/text2hoi)**|
@@ -272,6 +274,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**OPSD: an Offensive Persian Social media Dataset and its baseline evaluations**|Mehran Safayani et.al.|[2404.05540](http://arxiv.org/abs/2404.05540)|null|
+|**2024-04-08**|**Hamiltonian Learning using Machine Learning Models Trained with Continuous Measurements**|Kris Tucker et.al.|[2404.05526](http://arxiv.org/abs/2404.05526)|null|
+|**2024-04-08**|**Tangling-Untangling Cycle for Efficient Learning**|Xin Li et.al.|[2404.05484](http://arxiv.org/abs/2404.05484)|null|
+|**2024-04-08**|**Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation**|Hong Ye Tan et.al.|[2404.05445](http://arxiv.org/abs/2404.05445)|null|
+|**2024-04-07**|**Reconstructing Retinal Visual Images from 3T fMRI Data Enhanced by Unsupervised Learning**|Yujian Xiong et.al.|[2404.05107](http://arxiv.org/abs/2404.05107)|null|
+|**2024-04-07**|**Scalable and Efficient Hierarchical Visual Topological Mapping**|Saravanabalagi Ramachandran et.al.|[2404.05023](http://arxiv.org/abs/2404.05023)|**[link](https://github.com/saravanabalagi/htmap_gt_loops)**|
+|**2024-04-05**|**Dynamic Switch Layers For Unsupervised Learning**|Haiguang Li et.al.|[2404.04405](http://arxiv.org/abs/2404.04405)|null|
 |**2024-04-05**|**DiffOp-net: A Differential Operator-based Fully Convolutional Network for Unsupervised Deformable Image Registration**|Jiong Wu et.al.|[2404.04244](http://arxiv.org/abs/2404.04244)|null|
 |**2024-04-03**|**GPT-DETOX: An In-Context Learning-Based Paraphraser for Text Detoxification**|Ali Pesaranghader et.al.|[2404.03052](http://arxiv.org/abs/2404.03052)|null|
 |**2024-03-31**|**An Unsupervised Adversarial Autoencoder for Cyber Attack Detection in Power Distribution Grids**|Mehdi Jabbari Zideh et.al.|[2404.02923](http://arxiv.org/abs/2404.02923)|null|
@@ -353,6 +362,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing**|Jing Gu et.al.|[2404.05717](http://arxiv.org/abs/2404.05717)|null|
+|**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
+|**2024-04-08**|**Automatic Controllable Colorization via Imagination**|Xiaoyan Cong et.al.|[2404.05661](http://arxiv.org/abs/2404.05661)|null|
+|**2024-04-08**|**UniFL: Improve Stable Diffusion via Unified Feedback Learning**|Jiacheng Zhang et.al.|[2404.05595](http://arxiv.org/abs/2404.05595)|null|
+|**2024-04-08**|**Mind-to-Image: Projecting Visual Mental Imagination of the Brain from fMRI**|Hugo Caselles-Dupré et.al.|[2404.05468](http://arxiv.org/abs/2404.05468)|null|
+|**2024-04-08**|**Mask-ControlNet: Higher-Quality Image Generation with An Additional Mask Prompt**|Zhiqi Huang et.al.|[2404.05331](http://arxiv.org/abs/2404.05331)|null|
+|**2024-04-08**|**MC $^2$ : Multi-concept Guidance for Customized Multi-concept Generation**|Jiaxiu Jiang et.al.|[2404.05268](http://arxiv.org/abs/2404.05268)|null|
+|**2024-04-08**|**Text-to-Image Synthesis for Any Artistic Styles: Advancements in Personalized Artistic Image Generation via Subdivision and Dual Binding**|Junseo Park et.al.|[2404.05256](http://arxiv.org/abs/2404.05256)|null|
+|**2024-04-08**|**A secure and private ensemble matcher using multi-vault obfuscated templates**|Babak Poorebrahim Gilkalaye et.al.|[2404.05205](http://arxiv.org/abs/2404.05205)|null|
+|**2024-04-08**|**Improving Deep Learning Predictions with Simulated Images, and Vice Versa**|Nazifa Azam Khan et.al.|[2404.05128](http://arxiv.org/abs/2404.05128)|null|
+|**2024-04-07**|**Data Conditioning for Subsurface Models with Single-Image Generative Adversarial Network (SinGAN)**|Lei Liu et.al.|[2404.05068](http://arxiv.org/abs/2404.05068)|null|
+|**2024-04-07**|**Contextual Chart Generation for Cyber Deception**|David D. Nguyen et.al.|[2404.04854](http://arxiv.org/abs/2404.04854)|null|
+|**2024-04-07**|**ShoeModel: Learning to Wear on the User-specified Shoes via Diffusion Model**|Binghui Chen et.al.|[2404.04833](http://arxiv.org/abs/2404.04833)|null|
+|**2024-04-07**|**Strictly-ID-Preserved and Controllable Accessory Advertising Image Generation**|Youze Xue et.al.|[2404.04828](http://arxiv.org/abs/2404.04828)|null|
+|**2024-04-06**|**D $^3$ : Scaling Up Deepfake Detection by Learning from Discrepancy**|Yongqi Yang et.al.|[2404.04584](http://arxiv.org/abs/2404.04584)|null|
+|**2024-04-06**|**Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models**|Zhengcong Fei et.al.|[2404.04478](http://arxiv.org/abs/2404.04478)|**[link](https://github.com/feizc/diffusion-rwkv)**|
+|**2024-04-05**|**Pixel-wise RL on Diffusion Models: Reinforcement Learning from Rich Feedback**|Mo Kordzanganeh et.al.|[2404.04356](http://arxiv.org/abs/2404.04356)|null|
 |**2024-04-04**|**No "Zero-Shot" Without Exponential Data: Pretraining Concept Frequency Determines Multimodal Model Performance**|Vishaal Udandarao et.al.|[2404.04125](http://arxiv.org/abs/2404.04125)|**[link](https://github.com/bethgelab/frequency_determines_performance)**|
 |**2024-04-05**|**3D Facial Expressions through Analysis-by-Neural-Synthesis**|George Retsinas et.al.|[2404.04104](http://arxiv.org/abs/2404.04104)|null|
 |**2024-04-05**|**Dynamic Prompt Optimizing for Text-to-Image Generation**|Wenyi Mo et.al.|[2404.04095](http://arxiv.org/abs/2404.04095)|**[link](https://github.com/mowenyii/pae)**|
@@ -383,7 +409,7 @@ layout: default
 |**2024-04-01**|**Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data**|Matthias Gerstgrasser et.al.|[2404.01413](http://arxiv.org/abs/2404.01413)|null|
 |**2024-04-01**|**Condition-Aware Neural Network for Controlled Image Generation**|Han Cai et.al.|[2404.01143](http://arxiv.org/abs/2404.01143)|null|
 |**2024-04-01**|**HairFastGAN: Realistic and Robust Hair Transfer with a Fast Encoder-Based Approach**|Maxim Nikolaev et.al.|[2404.01094](http://arxiv.org/abs/2404.01094)|**[link](https://github.com/airi-institute/hairfastgan)**|
-|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089](http://arxiv.org/abs/2404.01089)|null|
+|**2024-04-01**|**Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On**|Xu Yang et.al.|[2404.01089](http://arxiv.org/abs/2404.01089)|**[link](https://github.com/gal4way/tpd)**|
 |**2024-04-01**|**Action Detection via an Image Diffusion Process**|Lin Geng Foo et.al.|[2404.01051](http://arxiv.org/abs/2404.01051)|null|
 |**2024-04-02**|**Survey of Bias In Text-to-Image Generation: Definition, Evaluation, and Mitigation**|Yixin Wan et.al.|[2404.01030](http://arxiv.org/abs/2404.01030)|null|
 |**2024-04-01**|**Towards Label-Efficient Human Matting: A Simple Baseline for Weakly Semi-Supervised Trimap-Free Human Matting**|Beomyoung Kim et.al.|[2404.00921](http://arxiv.org/abs/2404.00921)|null|
