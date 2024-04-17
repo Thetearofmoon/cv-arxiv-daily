@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Learning Human Motion from Monocular Videos via Cross-Modal Manifold Alignment**|Shuaiying Hou et.al.|[2404.09499](http://arxiv.org/abs/2404.09499)|null|
+|**2024-04-15**|**Exploring Text-to-Motion Generation with Human Preference**|Jenny Sheng et.al.|[2404.09445](http://arxiv.org/abs/2404.09445)|null|
 |**2024-04-09**|**Adaptable Recovery Behaviors in Robotics: A Behavior Trees and Motion Generators(BTMG) Approach for Failure Management**|Faseeh Ahmad et.al.|[2404.06129](http://arxiv.org/abs/2404.06129)|null|
 |**2024-02-14**|**Canonical Temperature Control by Molecular Dynamics**|William Graham Hoover et.al.|[2404.05731](http://arxiv.org/abs/2404.05731)|null|
 |**2024-04-12**|**Learning Prehensile Dexterity by Imitating and Emulating State-only Observations**|Yunhai Han et.al.|[2404.05582](http://arxiv.org/abs/2404.05582)|null|
@@ -100,7 +102,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -165,7 +167,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## HOI
 
@@ -213,7 +215,7 @@
 |**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
 |**2024-04-08**|**HOI4ABOT: Human-Object Interaction Anticipation for Human Intention Reading Collaborative roBOTs**|Esteve Valls Mascaro et.al.|[2309.16524](http://arxiv.org/abs/2309.16524)|null|
 |**2023-09-28**|**Object Motion Guided Human Motion Synthesis**|Jiaman Li et.al.|[2309.16237](http://arxiv.org/abs/2309.16237)|null|
-|**2023-09-26**|**DECO: Dense Estimation of 3D Human-Scene Contact In The Wild**|Shashank Tripathi et.al.|[2309.15273](http://arxiv.org/abs/2309.15273)|null|
+|**2023-09-26**|**DECO: Dense Estimation of 3D Human-Scene Contact In The Wild**|Shashank Tripathi et.al.|[2309.15273](http://arxiv.org/abs/2309.15273)|**[link](https://github.com/sha2nkt/deco)**|
 |**2023-11-27**|**ENIGMA-51: Towards a Fine-Grained Understanding of Human-Object Interactions in Industrial Scenarios**|Francesco Ragusa et.al.|[2309.14809](http://arxiv.org/abs/2309.14809)|**[link](https://github.com/moein-shariatnia/OpenAI-CLIP)**|
 |**2023-09-17**|**Detection and Localization of Firearm Carriers in Complex Scenes for Improved Safety Measures**|Arif Mahmood et.al.|[2309.09236](http://arxiv.org/abs/2309.09236)|null|
 |**2023-09-14**|**Physically Plausible Full-Body Hand-Object Interaction Synthesis**|Jona Braun et.al.|[2309.07907](http://arxiv.org/abs/2309.07907)|null|
@@ -230,7 +232,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## LOMC
 
@@ -287,12 +289,13 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Can Contrastive Learning Refine Embeddings**|Lihui Liu et.al.|[2404.08701](http://arxiv.org/abs/2404.08701)|null|
 |**2024-04-10**|**Bayesian Model Selection with Latent Group-Based Effects and Variances with the R Package slgf**|Thomas A. Metzger et.al.|[2404.06698](http://arxiv.org/abs/2404.06698)|**[link](https://github.com/metzger181osu/slgf)**|
 |**2024-04-08**|**OPSD: an Offensive Persian Social media Dataset and its baseline evaluations**|Mehran Safayani et.al.|[2404.05540](http://arxiv.org/abs/2404.05540)|null|
 |**2024-04-08**|**Hamiltonian Learning using Machine Learning Models Trained with Continuous Measurements**|Kris Tucker et.al.|[2404.05526](http://arxiv.org/abs/2404.05526)|null|
@@ -378,12 +381,22 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
+|**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633](http://arxiv.org/abs/2404.09633)|null|
+|**2024-04-15**|**Magic Clothing: Controllable Garment-Driven Image Synthesis**|Weifeng Chen et.al.|[2404.09512](http://arxiv.org/abs/2404.09512)|**[link](https://github.com/shinechen1024/magicclothing)**|
+|**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401](http://arxiv.org/abs/2404.09401)|null|
+|**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227](http://arxiv.org/abs/2404.09227)|null|
+|**2024-04-13**|**InverseVis: Revealing the Hidden with Curved Sphere Tracing**|Kai Lawonn et.al.|[2404.09092](http://arxiv.org/abs/2404.09092)|null|
+|**2024-04-13**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926](http://arxiv.org/abs/2404.08926)|null|
+|**2024-04-16**|**E3: Ensemble of Expert Embedders for Adapting Synthetic Image Detectors to New Generators Using Limited Data**|Aref Azizpour et.al.|[2404.08814](http://arxiv.org/abs/2404.08814)|**[link](https://github.com/arefaz/e3-ensemble-of-expert-embedders-cvprwmf24)**|
+|**2024-04-12**|**Semantic Approach to Quantifying the Consistency of Diffusion Model Image Generation**|Brinnae Bent et.al.|[2404.08799](http://arxiv.org/abs/2404.08799)|null|
+|**2024-04-11**|**Synthetic Brain Images: Bridging the Gap in Brain Mapping With Generative Adversarial Model**|Drici Mourad et.al.|[2404.08703](http://arxiv.org/abs/2404.08703)|null|
 |**2024-04-12**|**Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**|Yang Li et.al.|[2404.08341](http://arxiv.org/abs/2404.08341)|**[link](https://github.com/yangli-lab/artifact-eraser)**|
 |**2024-04-11**|**Latent Guard: a Safety Framework for Text-to-image Generation**|Runtao Liu et.al.|[2404.08031](http://arxiv.org/abs/2404.08031)|**[link](https://github.com/rt219/latentguard)**|
 |**2024-04-11**|**Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models**|Mazda Moayeri et.al.|[2404.08030](http://arxiv.org/abs/2404.08030)|null|
@@ -400,7 +413,7 @@
 |**2024-04-10**|**Fine color guidance in diffusion models and its application to image compression at extremely low bitrates**|Tom Bordin et.al.|[2404.06865](http://arxiv.org/abs/2404.06865)|null|
 |**2024-04-10**|**UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion**|Junsheng Zhou et.al.|[2404.06851](http://arxiv.org/abs/2404.06851)|null|
 |**2024-04-10**|**MedRG: Medical Report Grounding with Multi-modal Large Language Model**|Ke Zou et.al.|[2404.06798](http://arxiv.org/abs/2404.06798)|null|
-|**2024-04-10**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|
+|**2024-04-16**|**Deep Generative Data Assimilation in Multimodal Setting**|Yongquan Qu et.al.|[2404.06665](http://arxiv.org/abs/2404.06665)|**[link](https://github.com/yongquan-qu/slams)**|
 |**2024-04-09**|**GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis**|Srikumar Sastry et.al.|[2404.06637](http://arxiv.org/abs/2404.06637)|**[link](https://github.com/mvrl/geosynth)**|
 |**2024-04-09**|**High Noise Scheduling is a Must**|Mahmut S. Gokmen et.al.|[2404.06353](http://arxiv.org/abs/2404.06353)|null|
 |**2024-04-09**|**Hyperparameter-Free Medical Image Synthesis for Sharing Data and Improving Site-Specific Segmentation**|Alexander Chebykin et.al.|[2404.06240](http://arxiv.org/abs/2404.06240)|**[link](https://github.com/awesomelemon/hyfree-s3)**|
@@ -411,7 +424,7 @@
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
 |**2024-04-08**|**Automatic Controllable Colorization via Imagination**|Xiaoyan Cong et.al.|[2404.05661](http://arxiv.org/abs/2404.05661)|null|
 |**2024-04-08**|**UniFL: Improve Stable Diffusion via Unified Feedback Learning**|Jiacheng Zhang et.al.|[2404.05595](http://arxiv.org/abs/2404.05595)|null|
-|**2024-04-15**|**Mind-to-Image: Projecting Visual Mental Imagination of the Brain from fMRI**|Hugo Caselles-Dupré et.al.|[2404.05468](http://arxiv.org/abs/2404.05468)|null|
+|**2024-04-16**|**Mind-to-Image: Projecting Visual Mental Imagination of the Brain from fMRI**|Hugo Caselles-Dupré et.al.|[2404.05468](http://arxiv.org/abs/2404.05468)|null|
 |**2024-04-08**|**Mask-ControlNet: Higher-Quality Image Generation with An Additional Mask Prompt**|Zhiqi Huang et.al.|[2404.05331](http://arxiv.org/abs/2404.05331)|null|
 |**2024-04-12**|**MC $^2$ : Multi-concept Guidance for Customized Multi-concept Generation**|Jiaxiu Jiang et.al.|[2404.05268](http://arxiv.org/abs/2404.05268)|**[link](https://github.com/jiangjiaxiu/mc-2)**|
 |**2024-04-08**|**Text-to-Image Synthesis for Any Artistic Styles: Advancements in Personalized Artistic Image Generation via Subdivision and Dual Binding**|Junseo Park et.al.|[2404.05256](http://arxiv.org/abs/2404.05256)|null|
@@ -571,7 +584,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
