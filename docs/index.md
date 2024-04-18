@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Generating Human Interaction Motions in Scenes with Text Control**|Hongwei Yi et.al.|[2404.10685](http://arxiv.org/abs/2404.10685)|null|
+|**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140](http://arxiv.org/abs/2404.10140)|null|
+|**2024-04-15**|**in2IN: Leveraging individual Information to Generate Human INteractions**|Pablo Ruiz Ponce et.al.|[2404.09988](http://arxiv.org/abs/2404.09988)|null|
 |**2024-04-15**|**Learning Human Motion from Monocular Videos via Cross-Modal Manifold Alignment**|Shuaiying Hou et.al.|[2404.09499](http://arxiv.org/abs/2404.09499)|null|
 |**2024-04-15**|**Exploring Text-to-Motion Generation with Human Preference**|Jenny Sheng et.al.|[2404.09445](http://arxiv.org/abs/2404.09445)|null|
 |**2024-04-09**|**Adaptable Recovery Behaviors in Robotics: A Behavior Trees and Motion Generators(BTMG) Approach for Failure Management**|Faseeh Ahmad et.al.|[2404.06129](http://arxiv.org/abs/2404.06129)|null|
@@ -161,6 +164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Generating Human Interaction Motions in Scenes with Text Control**|Hongwei Yi et.al.|[2404.10685](http://arxiv.org/abs/2404.10685)|null|
 |**2024-04-10**|**Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**|Ting Lei et.al.|[2404.06194](http://arxiv.org/abs/2404.06194)|**[link](https://github.com/ltttpku/cmd-se-release)**|
 |**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|**[link](https://github.com/xingaoli/dp-hoi)**|
 |**2024-04-02**|**HOI-M3:Capture Multiple Humans and Objects Interaction within Contextual Environment**|Juze Zhang et.al.|[2404.00299](http://arxiv.org/abs/2404.00299)|null|
@@ -185,7 +189,7 @@ layout: default
 |**2024-03-31**|**LEMON: Learning 3D Human-Object Interaction Relation from 2D Images**|Yuhang Yang et.al.|[2312.08963](http://arxiv.org/abs/2312.08963)|null|
 |**2024-03-30**|**I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions**|Chengfeng Zhao et.al.|[2312.08869](http://arxiv.org/abs/2312.08869)|null|
 |**2024-04-06**|**Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation**|Xianghui Xie et.al.|[2312.07063](http://arxiv.org/abs/2312.07063)|null|
-|**2023-12-11**|**EgoPlan-Bench: Benchmarking Egocentric Embodied Planning with Multimodal Large Language Models**|Yi Chen et.al.|[2312.06722](http://arxiv.org/abs/2312.06722)|**[link](https://github.com/chenyi99/egoplan)**|
+|**2024-04-17**|**EgoPlan-Bench: Benchmarking Egocentric Embodied Planning with Multimodal Large Language Models**|Yi Chen et.al.|[2312.06722](http://arxiv.org/abs/2312.06722)|**[link](https://github.com/chenyi99/egoplan)**|
 |**2024-03-15**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553](http://arxiv.org/abs/2312.06553)|null|
 |**2024-02-27**|**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models**|Jiun Tian Hoe et.al.|[2312.05849](http://arxiv.org/abs/2312.05849)|**[link](https://github.com/jiuntian/interactdiffusion)**|
 |**2023-12-07**|**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**|Yinhuai Wang et.al.|[2312.04393](http://arxiv.org/abs/2312.04393)|null|
@@ -224,6 +228,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Generating Human Interaction Motions in Scenes with Text Control**|Hongwei Yi et.al.|[2404.10685](http://arxiv.org/abs/2404.10685)|null|
 |**2024-03-06**|**Expressive Whole-Body Control for Humanoid Robots**|Xuxin Cheng et.al.|[2402.16796](http://arxiv.org/abs/2402.16796)|null|
 |**2024-03-30**|**EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling**|Haiyang Liu et.al.|[2401.00374](http://arxiv.org/abs/2401.00374)|**[link](https://github.com/PantoMatrix/PantoMatrix)**|
 |**2023-12-27**|**HMP: Hand Motion Priors for Pose and Shape Estimation from Video**|Enes Duran et.al.|[2312.16737](http://arxiv.org/abs/2312.16737)|null|
@@ -369,13 +374,28 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?**|Yuchi Wang et.al.|[2404.10763](http://arxiv.org/abs/2404.10763)|**[link](https://github.com/wangyuchi369/ladic)**|
+|**2024-04-16**|**Adversarial Identity Injection for Semantic Face Image Synthesis**|Giuseppe Tarollo et.al.|[2404.10408](http://arxiv.org/abs/2404.10408)|null|
+|**2024-04-16**|**Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery**|Payal Varshney et.al.|[2404.10356](http://arxiv.org/abs/2404.10356)|null|
+|**2024-04-16**|**CanvasPic: An Interactive Tool for Freely Generating Facial Images Based on Spatial Layout**|Jiafu Wei et.al.|[2404.10352](http://arxiv.org/abs/2404.10352)|null|
+|**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312](http://arxiv.org/abs/2404.10312)|null|
+|**2024-04-16**|**OneActor: Consistent Character Generation via Cluster-Conditioned Guidance**|Jiahao Wang et.al.|[2404.10267](http://arxiv.org/abs/2404.10267)|null|
+|**2024-04-16**|**Diffusion assisted image reconstruction in optoacoustic tomography**|M. G. González et.al.|[2404.10239](http://arxiv.org/abs/2404.10239)|null|
+|**2024-04-15**|**Multi-objective evolutionary GAN for tabular data synthesis**|Nian Ran et.al.|[2404.10176](http://arxiv.org/abs/2404.10176)|**[link](https://github.com/huskynian/smo_egan_pytorch)**|
+|**2024-04-15**|**ANCHOR: LLM-driven News Subject Conditioning for Text-to-Image Synthesis**|Aashish Anantha Ramakrishnan et.al.|[2404.10141](http://arxiv.org/abs/2404.10141)|**[link](https://github.com/aashish2000/anchor)**|
+|**2024-04-15**|**MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models**|Nithin Gopalakrishnan Nair et.al.|[2404.09977](http://arxiv.org/abs/2404.09977)|null|
+|**2024-04-15**|**Diffscaler: Enhancing the Generative Prowess of Diffusion Transformers**|Nithin Gopalakrishnan Nair et.al.|[2404.09976](http://arxiv.org/abs/2404.09976)|null|
+|**2024-04-15**|**Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model**|Han Lin et.al.|[2404.09967](http://arxiv.org/abs/2404.09967)|null|
+|**2024-04-15**|**Scalable photonic diffractive generators through sampling noises from scattering medium**|Ziyu Zhan et.al.|[2404.09948](http://arxiv.org/abs/2404.09948)|null|
+|**2024-04-15**|**Zero-shot detection of buildings in mobile LiDAR using Language Vision Model**|June Moh Goo et.al.|[2404.09931](http://arxiv.org/abs/2404.09931)|null|
+|**2024-04-15**|**EdgeRelight360: Text-Conditioned 360-Degree HDR Image Generation for Real-Time On-Device Video Portrait Relighting**|Min-Hui Lin et.al.|[2404.09918](http://arxiv.org/abs/2404.09918)|null|
 |**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
 |**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633](http://arxiv.org/abs/2404.09633)|null|
 |**2024-04-15**|**Magic Clothing: Controllable Garment-Driven Image Synthesis**|Weifeng Chen et.al.|[2404.09512](http://arxiv.org/abs/2404.09512)|**[link](https://github.com/shinechen1024/magicclothing)**|
 |**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401](http://arxiv.org/abs/2404.09401)|null|
 |**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227](http://arxiv.org/abs/2404.09227)|null|
 |**2024-04-13**|**InverseVis: Revealing the Hidden with Curved Sphere Tracing**|Kai Lawonn et.al.|[2404.09092](http://arxiv.org/abs/2404.09092)|null|
-|**2024-04-13**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926](http://arxiv.org/abs/2404.08926)|null|
+|**2024-04-17**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926](http://arxiv.org/abs/2404.08926)|null|
 |**2024-04-16**|**E3: Ensemble of Expert Embedders for Adapting Synthetic Image Detectors to New Generators Using Limited Data**|Aref Azizpour et.al.|[2404.08814](http://arxiv.org/abs/2404.08814)|**[link](https://github.com/arefaz/e3-ensemble-of-expert-embedders-cvprwmf24)**|
 |**2024-04-12**|**Semantic Approach to Quantifying the Consistency of Diffusion Model Image Generation**|Brinnae Bent et.al.|[2404.08799](http://arxiv.org/abs/2404.08799)|null|
 |**2024-04-11**|**Synthetic Brain Images: Bridging the Gap in Brain Mapping With Generative Adversarial Model**|Drici Mourad et.al.|[2404.08703](http://arxiv.org/abs/2404.08703)|null|
