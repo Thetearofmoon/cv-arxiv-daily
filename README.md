@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.21
+## Updated on 2024.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -108,7 +108,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -173,7 +173,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## HOI
 
@@ -239,7 +239,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## LOMC
 
@@ -298,7 +298,7 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## UL
 
@@ -326,7 +326,7 @@
 |**2024-04-01**|**CLIPtone: Unsupervised Learning for Text-based Image Tone Adjustment**|Hyeongmin Lee et.al.|[2404.01123](http://arxiv.org/abs/2404.01123)|null|
 |**2024-03-30**|**Leveraging Pre-trained and Transformer-derived Embeddings from EHRs to Characterize Heterogeneity Across Alzheimer's Disease and Related Dementias**|Matthew West et.al.|[2404.00464](http://arxiv.org/abs/2404.00464)|null|
 |**2024-03-29**|**CT respiratory motion synthesis using joint supervised and adversarial learning**|Yi-Heng Cao et.al.|[2404.00163](http://arxiv.org/abs/2404.00163)|null|
-|**2024-03-25**|**UAlign: Pushing the Limit of Template-free Retrosynthesis Prediction with Unsupervised SMILES Alignment**|Kaipeng Zeng et.al.|[2404.00044](http://arxiv.org/abs/2404.00044)|**[link](https://github.com/zengkaipeng/UAlign)**|
+|**2024-04-19**|**UAlign: Pushing the Limit of Template-free Retrosynthesis Prediction with Unsupervised SMILES Alignment**|Kaipeng Zeng et.al.|[2404.00044](http://arxiv.org/abs/2404.00044)|**[link](https://github.com/zengkaipeng/UAlign)**|
 |**2024-03-29**|**On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem**|Yimeng Min et.al.|[2403.20212](http://arxiv.org/abs/2403.20212)|null|
 |**2024-03-29**|**A Signature Based Approach Towards Global Channel Charting with Ultra Low Complexity**|Longhai Zhao et.al.|[2403.20091](http://arxiv.org/abs/2403.20091)|null|
 |**2024-03-29**|**Best Subset Solution Path for Linear Dimension Reduction Models using Continuous Optimization**|Benoit Liquet et.al.|[2403.20007](http://arxiv.org/abs/2403.20007)|**[link](https://github.com/benoit-liquet/bss-pca-pls)**|
@@ -392,7 +392,7 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## IS
 
@@ -431,7 +431,7 @@
 |**2024-04-15**|**Photo-Realistic Image Restoration in the Wild with Controlled Vision-Language Models**|Ziwei Luo et.al.|[2404.09732](http://arxiv.org/abs/2404.09732)|**[link](https://github.com/algolzw/daclip-uir)**|
 |**2024-04-15**|**In-Context Translation: Towards Unifying Image Recognition, Processing, and Generation**|Han Xue et.al.|[2404.09633](http://arxiv.org/abs/2404.09633)|null|
 |**2024-04-15**|**Magic Clothing: Controllable Garment-Driven Image Synthesis**|Weifeng Chen et.al.|[2404.09512](http://arxiv.org/abs/2404.09512)|**[link](https://github.com/shinechen1024/magicclothing)**|
-|**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401](http://arxiv.org/abs/2404.09401)|null|
+|**2024-04-19**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401](http://arxiv.org/abs/2404.09401)|null|
 |**2024-04-14**|**DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling**|Xuening Yuan et.al.|[2404.09227](http://arxiv.org/abs/2404.09227)|null|
 |**2024-04-13**|**InverseVis: Revealing the Hidden with Curved Sphere Tracing**|Kai Lawonn et.al.|[2404.09092](http://arxiv.org/abs/2404.09092)|null|
 |**2024-04-17**|**Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives**|Yidan Liu et.al.|[2404.08926](http://arxiv.org/abs/2404.08926)|null|
@@ -625,7 +625,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
