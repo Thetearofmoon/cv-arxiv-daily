@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.26
+## Updated on 2024.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Site-Specific Ground Motion Generative Model for Crustal Earthquakes in Japan Based on Generative Adversarial Networks**|Yuma Matsumoto et.al.|[2404.15640](http://arxiv.org/abs/2404.15640)|null|
 |**2024-04-23**|**WANDR: Intention-guided Human Motion Generation**|Markos Diomataris et.al.|[2404.15383](http://arxiv.org/abs/2404.15383)|null|
 |**2024-04-22**|**GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**|Hongyun Yu et.al.|[2404.14037](http://arxiv.org/abs/2404.14037)|null|
 |**2024-04-19**|**Purposer: Putting Human Motion Generation in Context**|Nicolas Ugrinovic et.al.|[2404.12942](http://arxiv.org/abs/2404.12942)|null|
@@ -111,7 +112,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -177,7 +178,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
 
 ## HOI
 
@@ -244,7 +245,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
 
 ## LOMC
 
@@ -303,12 +304,14 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Interpretable Clustering with the Distinguishability Criterion**|Ali Turfah et.al.|[2404.15967](http://arxiv.org/abs/2404.15967)|null|
+|**2024-04-24**|**Beyond ESM2: Graph-Enhanced Protein Sequence Modeling with Efficient Clustering**|Shujian Jiao et.al.|[2404.15805](http://arxiv.org/abs/2404.15805)|null|
 |**2024-04-08**|**EB-GAME: A Game-Changer in ECG Heartbeat Anomaly Detection**|JuneYoung Park et.al.|[2404.15333](http://arxiv.org/abs/2404.15333)|null|
 |**2024-04-23**|**All You Need is Resistance: On the Equivalence of Effective Resistance and Certain Optimal Transport Problems on Graphs**|Sawyer Robertson et.al.|[2404.15261](http://arxiv.org/abs/2404.15261)|null|
 |**2024-04-23**|**Predictive Intent Maintenance with Intent Drift Detection in Next Generation Network**|Chukwuemeka Muonagor et.al.|[2404.15091](http://arxiv.org/abs/2404.15091)|null|
@@ -405,12 +408,24 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|null|
+|**2024-04-25**|**Denoising: from classical methods to deep CNNs**|Jean-Eric Campagne et.al.|[2404.16617](http://arxiv.org/abs/2404.16617)|null|
+|**2024-04-25**|**MuseumMaker: Continual Style Customization without Catastrophic Forgetting**|Chenxi Liu et.al.|[2404.16612](http://arxiv.org/abs/2404.16612)|null|
+|**2024-04-25**|**Conditional Distribution Modelling for Few-Shot Image Synthesis with Diffusion Models**|Parul Gupta et.al.|[2404.16556](http://arxiv.org/abs/2404.16556)|null|
+|**2024-04-25**|**OpenDlign: Enhancing Open-World 3D Learning with Depth-Aligned Images**|Ye Mao et.al.|[2404.16538](http://arxiv.org/abs/2404.16538)|null|
+|**2024-04-25**|**Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series**|Aimi Okabayashi et.al.|[2404.16409](http://arxiv.org/abs/2404.16409)|**[link](https://github.com/aimiokab/misr-s2)**|
+|**2024-04-24**|**Guardians of the Quantum GAN**|Archisman Ghosh et.al.|[2404.16156](http://arxiv.org/abs/2404.16156)|null|
+|**2024-04-24**|**Spinning solar jets explained through the interplay between plasma sheets and vortex columns**|Sahel Dey et.al.|[2404.16096](http://arxiv.org/abs/2404.16096)|null|
+|**2024-04-24**|**PuLID: Pure and Lightning ID Customization via Contrastive Alignment**|Zinan Guo et.al.|[2404.16022](http://arxiv.org/abs/2404.16022)|null|
+|**2024-04-24**|**Beyond Deepfake Images: Detecting AI-Generated Videos**|Danial Samadi Vahdati et.al.|[2404.15955](http://arxiv.org/abs/2404.15955)|null|
+|**2024-04-24**|**Sketch2Human: Deep Human Generation with Disentangled Geometry and Appearance Control**|Linzi Qu et.al.|[2404.15889](http://arxiv.org/abs/2404.15889)|null|
+|**2024-04-24**|**DeepFeatureX Net: Deep Features eXtractors based Network for discriminating synthetic from real images**|Orazio Pontorno et.al.|[2404.15697](http://arxiv.org/abs/2404.15697)|null|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
 |**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
@@ -667,7 +682,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240427>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
