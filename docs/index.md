@@ -362,7 +362,7 @@ layout: default
 |**2024-03-11**|**Eliminating Warping Shakes for Unsupervised Online Video Stitching**|Lang Nie et.al.|[2403.06378](http://arxiv.org/abs/2403.06378)|**[link](https://github.com/nie-lang/stabstitch)**|
 |**2024-03-08**|**Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery**|Mubashir Noman et.al.|[2403.05419](http://arxiv.org/abs/2403.05419)|**[link](https://github.com/techmn/satmae_pp)**|
 |**2024-03-07**|**Unsupervised Learning of Harmonic Analysis Based on Neural HSMM with Code Quality Templates**|Yui Uehara et.al.|[2403.04135](http://arxiv.org/abs/2403.04135)|**[link](https://github.com/yui-u/harmonic-analysis-chorales)**|
-|**2024-03-05**|**Discovering Melting Temperature Prediction Models of Inorganic Solids by Combining Supervised and Unsupervised Learning**|Vahe Gharakhanyan et.al.|[2403.03092](http://arxiv.org/abs/2403.03092)|null|
+|**2024-03-05**|**Discovering Melting Temperature Prediction Models of Inorganic Solids by Combining Supervised and Unsupervised Learning**|Vahe Gharakhanyan et.al.|[2403.03092](http://arxiv.org/abs/2403.03092)|**[link](https://github.com/atomisticnet/melting)**|
 |**2024-03-05**|**Unsupervised Learning Approaches for Identifying ICU Patient Subgroups: Do Results Generalise?**|Harry Mayne et.al.|[2403.02945](http://arxiv.org/abs/2403.02945)|**[link](https://github.com/harrymayne/icu-patient-subgroups)**|
 |**2024-03-05**|**Human Activity Recognition with Low-Resolution Infrared Array Sensor Using Semi-supervised Cross-domain Neural Networks for Indoor Environment**|Cunyi Yin et.al.|[2403.02632](http://arxiv.org/abs/2403.02632)|null|
 |**2024-03-04**|**A Scoping Review of Energy-Efficient Driving Behaviors and Applied State-of-the-Art AI Methods**|Zhipeng Ma et.al.|[2403.02053](http://arxiv.org/abs/2403.02053)|null|
@@ -490,7 +490,7 @@ layout: default
 |**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949](http://arxiv.org/abs/2404.07949)|**[link](https://github.com/chengzhag/panfusion)**|
 |**2024-04-11**|**Generating Synthetic Satellite Imagery With Deep-Learning Text-to-Image Models -- Technical Challenges and Implications for Monitoring and Verification**|Tuong Vy Nguyen et.al.|[2404.07754](http://arxiv.org/abs/2404.07754)|null|
 |**2024-04-11**|**Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models**|Tuomas Kynkäänniemi et.al.|[2404.07724](http://arxiv.org/abs/2404.07724)|null|
-|**2024-04-11**|**Model-based Cleaning of the QUILT-1M Pathology Dataset for Text-Conditional Image Synthesis**|Marc Aubreville et.al.|[2404.07676](http://arxiv.org/abs/2404.07676)|null|
+|**2024-04-11**|**Model-based Cleaning of the QUILT-1M Pathology Dataset for Text-Conditional Image Synthesis**|Marc Aubreville et.al.|[2404.07676](http://arxiv.org/abs/2404.07676)|**[link](https://github.com/deepmicroscopy/quiltcleaner)**|
 |**2024-04-11**|**Implicit and Explicit Language Guidance for Diffusion-based Visual Perception**|Hefeng Wang et.al.|[2404.07600](http://arxiv.org/abs/2404.07600)|null|
 |**2024-04-11**|**ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation**|Stanislav Frolov et.al.|[2404.07564](http://arxiv.org/abs/2404.07564)|null|
 |**2024-04-11**|**CAT: Contrastive Adapter Training for Personalized Image Generation**|Jae Wan Park et.al.|[2404.07554](http://arxiv.org/abs/2404.07554)|**[link](https://github.com/OnomaAi101/CAT)**|
