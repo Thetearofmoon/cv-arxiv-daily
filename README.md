@@ -499,7 +499,7 @@
 |**2024-04-29**|**SIDBench: A Python Framework for Reliably Assessing Synthetic Image Detection Methods**|Manos Schinas et.al.|[2404.18552](http://arxiv.org/abs/2404.18552)|**[link](https://github.com/mever-team/sidbench)**|
 |**2024-04-29**|**Towards Image Synthesis with Photon Counting Stellar Intensity Interferometry**|Alessia Spolon et.al.|[2404.18507](http://arxiv.org/abs/2404.18507)|null|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
-|**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409](http://arxiv.org/abs/2404.18409)|null|
+|**2024-04-29**|**PKU-AIGIQA-4K: A Perceptual Quality Assessment Database for Both Text-to-Image and Image-to-Image AI-Generated Images**|Jiquan Yuan et.al.|[2404.18409](http://arxiv.org/abs/2404.18409)|**[link](https://github.com/jiquan123/aigiqa4k)**|
 |**2024-04-30**|**Equivalence: An analysis of artists' roles with Image Generative AI from Conceptual Art perspective through an interactive installation design practice**|Yixuan Li et.al.|[2404.18385](http://arxiv.org/abs/2404.18385)|null|
 |**2024-04-29**|**G-Refine: A General Quality Refiner for Text-to-Image Generation**|Chunyi Li et.al.|[2404.18343](http://arxiv.org/abs/2404.18343)|**[link](https://github.com/q-future/q-refine)**|
 |**2024-04-28**|**Fisher Information Improved Training-Free Conditional Diffusion Model**|Kaiyu Song et.al.|[2404.18252](http://arxiv.org/abs/2404.18252)|null|
