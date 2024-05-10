@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**|Yiheng Huang et.al.|[2405.05691](http://arxiv.org/abs/2405.05691)|null|
 |**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803](http://arxiv.org/abs/2405.03803)|null|
 |**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
 |**2024-05-05**|**Efficient Text-driven Motion Generation via Latent Consistency Training**|Mengxian Hu et.al.|[2405.02791](http://arxiv.org/abs/2405.02791)|null|
@@ -303,8 +304,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**SMARTINI3: Systematic Parametrization of Realistic Multi-Scale Membrane Models via Unsupervised Learning and Multi-Objective Evolutionary Algorithms**|Alireza Soleimani et.al.|[2405.05864](http://arxiv.org/abs/2405.05864)|null|
+|**2024-05-09**|**Learning to Slice Wi-Fi Networks: A State-Augmented Primal-Dual Approach**|Yiğit Berkay Uslu et.al.|[2405.05748](http://arxiv.org/abs/2405.05748)|null|
+|**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990](http://arxiv.org/abs/2405.04990)|**[link](https://github.com/kbaja/unsupervisedhi)**|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
 |**2024-05-07**|**Cross-IQA: Unsupervised Learning for Image Quality Assessment**|Zhen Zhang et.al.|[2405.04311](http://arxiv.org/abs/2405.04311)|null|
-|**2024-05-08**|**A View on Out-of-Distribution Identification from a Statistical Testing Theory Perspective**|Alberto Caron et.al.|[2405.03052](http://arxiv.org/abs/2405.03052)|null|
+|**2024-05-08**|**A View on Out-of-Distribution Identification from a Statistical Testing Theory Perspective**|Alberto Caron et.al.|[2405.03052](http://arxiv.org/abs/2405.03052)|**[link](https://github.com/albicaron/ood_test)**|
 |**2024-05-01**|**A Comprehensive Approach to Carbon Dioxide Emission Analysis in High Human Development Index Countries using Statistical and Machine Learning Techniques**|Hamed Khosravi et.al.|[2405.02340](http://arxiv.org/abs/2405.02340)|null|
 |**2024-05-03**|**A semantic loss for ontology classification**|Simon Flügel et.al.|[2405.02083](http://arxiv.org/abs/2405.02083)|**[link](https://github.com/cheb-ai/python-chebai)**|
 |**2024-05-03**|**A Mutual Information Perspective on Federated Contrastive Learning**|Christos Louizos et.al.|[2405.02081](http://arxiv.org/abs/2405.02081)|null|
@@ -418,6 +423,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|null|
+|**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
+|**2024-05-09**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806](http://arxiv.org/abs/2405.05806)|null|
+|**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|null|
+|**2024-05-09**|**End-to-End Generative Semantic Communication Powered by Shared Semantic Knowledge Base**|Shuling Li et.al.|[2405.05738](http://arxiv.org/abs/2405.05738)|null|
+|**2024-05-09**|**VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis**|Zhihan Ju et.al.|[2405.05667](http://arxiv.org/abs/2405.05667)|null|
+|**2024-05-09**|**A Survey on Personalized Content Synthesis with Diffusion Models**|Xulu Zhang et.al.|[2405.05538](http://arxiv.org/abs/2405.05538)|null|
+|**2024-05-08**|**Cross-Modality Translation with Generative Adversarial Networks to Unveil Alzheimer's Disease Biomarkers**|Reihaneh Hassanzadeh et.al.|[2405.05462](http://arxiv.org/abs/2405.05462)|null|
+|**2024-05-08**|**DrawL: Understanding the Effects of Non-Mainstream Dialects in Prompted Image Generation**|Joshua N. Williams et.al.|[2405.05382](http://arxiv.org/abs/2405.05382)|null|
+|**2024-05-07**|**A Study on Cognitive Effects of Canvas Size for Augmenting Drawing Skill**|Jize Wang et.al.|[2405.05284](http://arxiv.org/abs/2405.05284)|null|
+|**2024-05-08**|**Diffusion-HMC: Parameter Inference with Diffusion Model driven Hamiltonian Monte Carlo**|Nayantara Mudur et.al.|[2405.05255](http://arxiv.org/abs/2405.05255)|**[link](https://github.com/nmudur/diffusion-hmc)**|
+|**2024-05-08**|**Discrepancy-based Diffusion Models for Lesion Detection in Brain MRI**|Keqiang Fan et.al.|[2405.04974](http://arxiv.org/abs/2405.04974)|null|
+|**2024-05-08**|**HAGAN: Hybrid Augmented Generative Adversarial Network for Medical Image Synthesis**|Zhihan Ju et.al.|[2405.04902](http://arxiv.org/abs/2405.04902)|null|
+|**2024-05-08**|**FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation**|Xuehai He et.al.|[2405.04834](http://arxiv.org/abs/2405.04834)|null|
+|**2024-05-07**|**TexControl: Sketch-Based Two-Stage Fashion Image Generation Using Diffusion Model**|Yongming Zhang et.al.|[2405.04675](http://arxiv.org/abs/2405.04675)|null|
+|**2024-05-07**|**ResNCT: A Deep Learning Model for the Synthesis of Nephrographic Phase Images in CT Urography**|Syed Jamal Safdar Gardezi et.al.|[2405.04629](http://arxiv.org/abs/2405.04629)|null|
 |**2024-05-07**|**Towards Geographic Inclusion in the Evaluation of Text-to-Image Models**|Melissa Hall et.al.|[2405.04457](http://arxiv.org/abs/2405.04457)|null|
 |**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356](http://arxiv.org/abs/2405.04356)|null|
 |**2024-05-08**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
@@ -428,7 +449,7 @@ layout: default
 |**2024-05-05**|**Data-Efficient Molecular Generation with Hierarchical Textual Inversion**|Seojin Kim et.al.|[2405.02845](http://arxiv.org/abs/2405.02845)|null|
 |**2024-05-05**|**ImageInWords: Unlocking Hyper-Detailed Image Descriptions**|Roopal Garg et.al.|[2405.02793](http://arxiv.org/abs/2405.02793)|**[link](https://github.com/google/imageinwords)**|
 |**2024-05-04**|**U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**|Yuchuan Tian et.al.|[2405.02730](http://arxiv.org/abs/2405.02730)|null|
-|**2024-05-03**|**Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI**|Minhui Yu et.al.|[2405.02504](http://arxiv.org/abs/2405.02504)|null|
+|**2024-05-08**|**Functional Imaging Constrained Diffusion for Brain PET Synthesis from Structural MRI**|Minhui Yu et.al.|[2405.02504](http://arxiv.org/abs/2405.02504)|null|
 |**2024-04-26**|**Efficient Exploration of Image Classifier Failures with Bayesian Optimization and Text-to-Image Models**|Adrien Le Coz et.al.|[2405.02332](http://arxiv.org/abs/2405.02332)|null|
 |**2024-05-03**|**Multi-method Integration with Confidence-based Weighting for Zero-shot Image Classification**|Siqi Yin et.al.|[2405.02155](http://arxiv.org/abs/2405.02155)|null|
 |**2024-05-03**|**AI-generated art perceptions with GenFrame -- an image-generating picture frame**|Peter Kun et.al.|[2405.01901](http://arxiv.org/abs/2405.01901)|null|
