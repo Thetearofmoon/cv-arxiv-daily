@@ -7,13 +7,17 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Generating Human Motion in 3D Scenes from Text Descriptions**|Zhi Cen et.al.|[2405.07784](http://arxiv.org/abs/2405.07784)|null|
+|**2024-05-13**|**Establishing a Unified Evaluation Framework for Human Motion Generation: A Comparative Analysis of Metrics**|Ali Ismail-Fawaz et.al.|[2405.07680](http://arxiv.org/abs/2405.07680)|null|
+|**2024-05-10**|**Shape Conditioned Human Motion Generation with Diffusion Model**|Kebing Xue et.al.|[2405.06778](http://arxiv.org/abs/2405.06778)|null|
+|**2024-03-20**|**On-the-fly Learning to Transfer Motion Style with Diffusion Models: A Semantic Guidance Approach**|Lei Hu et.al.|[2405.06646](http://arxiv.org/abs/2405.06646)|null|
 |**2024-05-10**|**Robotic Stroke Motion Following the Shape of the Human Back: Motion Generation and Psychological Effects**|Akishige Yuguchi et.al.|[2405.06588](http://arxiv.org/abs/2405.06588)|null|
 |**2024-05-09**|**StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework**|Yiheng Huang et.al.|[2405.05691](http://arxiv.org/abs/2405.05691)|null|
 |**2024-05-06**|**MoDiPO: text-to-motion alignment via AI-feedback-driven Direct Preference Optimization**|Massimiliano Pappa et.al.|[2405.03803](http://arxiv.org/abs/2405.03803)|null|
@@ -117,6 +121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Shape Conditioned Human Motion Generation with Diffusion Model**|Kebing Xue et.al.|[2405.06778](http://arxiv.org/abs/2405.06778)|null|
 |**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886](http://arxiv.org/abs/2404.12886)|null|
 |**2024-03-29**|**CT respiratory motion synthesis using joint supervised and adversarial learning**|Yi-Heng Cao et.al.|[2404.00163](http://arxiv.org/abs/2404.00163)|null|
 |**2024-03-28**|**OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion**|Xinyu Zhan et.al.|[2403.19417](http://arxiv.org/abs/2403.19417)|null|
@@ -305,6 +310,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Integrating supervised and unsupervised learning approaches to unveil critical process inputs**|Paris Papavasileiou et.al.|[2405.07751](http://arxiv.org/abs/2405.07751)|null|
+|**2024-05-13**|**RESTAD: REconstruction and Similarity based Transformer for time series Anomaly Detection**|Ramin Ghorbani et.al.|[2405.07509](http://arxiv.org/abs/2405.07509)|**[link](https://github.com/raminghorbanii/restad)**|
+|**2024-05-13**|**Motion Keyframe Interpolation for Any Human Skeleton via Temporally Consistent Point Cloud Sampling and Reconstruction**|Clinton Mo et.al.|[2405.07444](http://arxiv.org/abs/2405.07444)|null|
+|**2024-05-10**|**Tunable Spike-Timing-Dependent Plasticity in Magnetic Skyrmion Manipulation Chambers**|Zulfidin Khodzhaev et.al.|[2405.06791](http://arxiv.org/abs/2405.06791)|null|
 |**2024-05-09**|**SMARTINI3: Systematic Parametrization of Realistic Multi-Scale Membrane Models via Unsupervised Learning and Multi-Objective Evolutionary Algorithms**|Alireza Soleimani et.al.|[2405.05864](http://arxiv.org/abs/2405.05864)|null|
 |**2024-05-09**|**Learning to Slice Wi-Fi Networks: A State-Augmented Primal-Dual Approach**|Yiğit Berkay Uslu et.al.|[2405.05748](http://arxiv.org/abs/2405.05748)|null|
 |**2024-05-08**|**Health Index Estimation Through Integration of General Knowledge with Unsupervised Learning**|Kristupas Bajarunas et.al.|[2405.04990](http://arxiv.org/abs/2405.04990)|**[link](https://github.com/kbaja/unsupervisedhi)**|
@@ -424,8 +433,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913](http://arxiv.org/abs/2405.07913)|null|
+|**2024-05-13**|**SAR Image Synthesis with Diffusion Models**|Denisa Qosja et.al.|[2405.07776](http://arxiv.org/abs/2405.07776)|null|
+|**2024-05-12**|**Understanding and Evaluating Human Preferences for AI Generated Images with Instruction Tuning**|Jiarui Wang et.al.|[2405.07346](http://arxiv.org/abs/2405.07346)|null|
+|**2024-05-12**|**Stable Signature is Unstable: Removing Image Watermark from Diffusion Models**|Yuepeng Hu et.al.|[2405.07145](http://arxiv.org/abs/2405.07145)|null|
+|**2024-05-12**|**MAxPrototyper: A Multi-Agent Generation System for Interactive User Interface Prototyping**|Mingyue Yuan et.al.|[2405.07131](http://arxiv.org/abs/2405.07131)|null|
+|**2024-05-11**|**Semantic Guided Large Scale Factor Remote Sensing Image Super-resolution with Generative Diffusion Prior**|Ce Wang et.al.|[2405.07044](http://arxiv.org/abs/2405.07044)|**[link](https://github.com/wwangcece/sgdm)**|
+|**2024-05-11**|**Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation**|Shengyuan Liu et.al.|[2405.06948](http://arxiv.org/abs/2405.06948)|null|
+|**2024-05-10**|**Deep MMD Gradient Flow without adversarial training**|Alexandre Galashov et.al.|[2405.06780](http://arxiv.org/abs/2405.06780)|null|
 |**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
-|**2024-05-10**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
+|**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
 |**2024-05-09**|**Photonic quantum generative adversarial networks for classical data**|Tigran Sedrakyan et.al.|[2405.06023](http://arxiv.org/abs/2405.06023)|null|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|null|
 |**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
