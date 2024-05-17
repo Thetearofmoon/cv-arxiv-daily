@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -311,6 +311,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**A Hierarchically Feature Reconstructed Autoencoder for Unsupervised Anomaly Detection**|Honghui Chen et.al.|[2405.09148](http://arxiv.org/abs/2405.09148)|null|
+|**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
 |**2024-05-14**|**Tackling Prevalent Conditions in Unsupervised Combinatorial Optimization: Cardinality, Minimum, Covering, and More**|Fanchen Bu et.al.|[2405.08424](http://arxiv.org/abs/2405.08424)|null|
 |**2024-05-14**|**ICO learning as a measure of transient chaos in PT-symmetric Liénard systems**|J. P. Deka et.al.|[2405.08414](http://arxiv.org/abs/2405.08414)|null|
 |**2024-05-13**|**Integrating supervised and unsupervised learning approaches to unveil critical process inputs**|Paris Papavasileiou et.al.|[2405.07751](http://arxiv.org/abs/2405.07751)|null|
@@ -436,6 +438,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Global-Local Image Perceptual Score (GLIPS): Evaluating Photorealistic Quality of AI-Generated Images**|Memoona Aziz et.al.|[2405.09426](http://arxiv.org/abs/2405.09426)|null|
+|**2024-05-15**|**DeCoDEx: Confounder Detector Guidance for Improved Diffusion-based Counterfactual Explanations**|Nima Fathi et.al.|[2405.09288](http://arxiv.org/abs/2405.09288)|**[link](https://github.com/nimafathi/decodex)**|
 |**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
 |**2024-05-15**|**Similarity Metrics for MR Image-To-Image Translation**|Melanie Dohmen et.al.|[2405.08431](http://arxiv.org/abs/2405.08431)|null|
 |**2024-05-14**|**Compositional Text-to-Image Generation with Dense Blob Representations**|Weili Nie et.al.|[2405.08246](http://arxiv.org/abs/2405.08246)|null|
