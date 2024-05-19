@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -315,7 +315,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-15**|**A Hierarchically Feature Reconstructed Autoencoder for Unsupervised Anomaly Detection**|Honghui Chen et.al.|[2405.09148](http://arxiv.org/abs/2405.09148)|null|
 |**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
-|**2024-05-14**|**Tackling Prevalent Conditions in Unsupervised Combinatorial Optimization: Cardinality, Minimum, Covering, and More**|Fanchen Bu et.al.|[2405.08424](http://arxiv.org/abs/2405.08424)|null|
+|**2024-05-14**|**Tackling Prevalent Conditions in Unsupervised Combinatorial Optimization: Cardinality, Minimum, Covering, and More**|Fanchen Bu et.al.|[2405.08424](http://arxiv.org/abs/2405.08424)|**[link](https://github.com/bokveizen/unsupervised-CO-ucom2)**|
 |**2024-05-14**|**ICO learning as a measure of transient chaos in PT-symmetric Liénard systems**|J. P. Deka et.al.|[2405.08414](http://arxiv.org/abs/2405.08414)|null|
 |**2024-05-13**|**Integrating supervised and unsupervised learning approaches to unveil critical process inputs**|Paris Papavasileiou et.al.|[2405.07751](http://arxiv.org/abs/2405.07751)|null|
 |**2024-05-13**|**RESTAD: REconstruction and Similarity based Transformer for time series Anomaly Detection**|Ramin Ghorbani et.al.|[2405.07509](http://arxiv.org/abs/2405.07509)|**[link](https://github.com/raminghorbanii/restad)**|
