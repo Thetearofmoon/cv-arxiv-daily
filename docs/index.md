@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -315,7 +315,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-21**|**A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**|Meng Shang et.al.|[2405.12711](http://arxiv.org/abs/2405.12711)|null|
+|**2024-05-23**|**PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning**|Chengyang Ying et.al.|[2405.14073](http://arxiv.org/abs/2405.14073)|null|
+|**2024-05-22**|**Addressing the Non-perturbative Regime of the Quantum Anharmonic Oscillator by Physics-Informed Neural Networks**|Lorenzo Brevi et.al.|[2405.13442](http://arxiv.org/abs/2405.13442)|null|
+|**2024-05-21**|**Unsupervised Searches for Cosmological Parity Violation: Improving Detection Power with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2405.13083](http://arxiv.org/abs/2405.13083)|null|
+|**2024-05-22**|**A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**|Meng Shang et.al.|[2405.12711](http://arxiv.org/abs/2405.12711)|null|
 |**2024-05-20**|**Using Unsupervised Learning to Explore Robot-Pedestrian Interactions in Urban Environments**|Sebastian Zug et.al.|[2405.12098](http://arxiv.org/abs/2405.12098)|null|
 |**2024-05-19**|**Reproducibility Study of CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification**|Manan Shah et.al.|[2405.11574](http://arxiv.org/abs/2405.11574)|**[link](https://github.com/cs-mshah/CDUL)**|
 |**2024-05-18**|**Unveiling Key Aspects of Fine-Tuning in Sentence Embeddings: A Representation Rank Analysis**|Euna Jung et.al.|[2405.11297](http://arxiv.org/abs/2405.11297)|null|
@@ -450,6 +453,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
+|**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
+|**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
+|**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
+|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|null|
+|**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|
+|**2024-05-23**|**RetAssist: Facilitating Vocabulary Learners with Generative Images in Story Retelling Practices**|Qiaoyi Chen et.al.|[2405.14794](http://arxiv.org/abs/2405.14794)|null|
+|**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
+|**2024-05-23**|**Learning Multi-dimensional Human Preference for Text-to-Image Generation**|Sixian Zhang et.al.|[2405.14705](http://arxiv.org/abs/2405.14705)|null|
+|**2024-05-23**|**RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance**|Zhicheng Sun et.al.|[2405.14677](http://arxiv.org/abs/2405.14677)|null|
+|**2024-05-23**|**Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models**|Jingyi Chen et.al.|[2405.14632](http://arxiv.org/abs/2405.14632)|null|
+|**2024-05-23**|**LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models**|Seyedmorteza Sadat et.al.|[2405.14477](http://arxiv.org/abs/2405.14477)|null|
+|**2024-05-23**|**Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation**|Linghao Feng et.al.|[2405.14474](http://arxiv.org/abs/2405.14474)|null|
+|**2024-05-23**|**Exposure Diffusion: HDR Image Generation by Consistent LDR denoising**|Mojtaba Bemana et.al.|[2405.14304](http://arxiv.org/abs/2405.14304)|null|
+|**2024-05-23**|**Diffusion models for Gaussian distributions: Exact solutions and Wasserstein errors**|Emile Pierret et.al.|[2405.14250](http://arxiv.org/abs/2405.14250)|null|
+|**2024-05-23**|**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**|Yao Teng et.al.|[2405.14224](http://arxiv.org/abs/2405.14224)|null|
+|**2024-05-23**|**LG-VQ: Language-Guided Codebook Learning**|Guotao Liang et.al.|[2405.14206](http://arxiv.org/abs/2405.14206)|null|
+|**2024-05-23**|**FreeTuner: Any Subject in Any Style with Training-free Diffusion**|Youcan Xu et.al.|[2405.14201](http://arxiv.org/abs/2405.14201)|null|
+|**2024-05-22**|**I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling**|Omer F. Atli et.al.|[2405.14022](http://arxiv.org/abs/2405.14022)|null|
+|**2024-05-22**|**A Study of Posterior Stability for Time-Series Latent Diffusion**|Yangming Li et.al.|[2405.14021](http://arxiv.org/abs/2405.14021)|null|
+|**2024-05-22**|**FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition**|Ganggui Ding et.al.|[2405.13870](http://arxiv.org/abs/2405.13870)|null|
+|**2024-05-22**|**Hybrid Quantum-Classical Normalizing Flow**|Anlei Zhang et.al.|[2405.13808](http://arxiv.org/abs/2405.13808)|null|
+|**2024-05-22**|**Robust Disaster Assessment from Aerial Imagery Using Text-to-Image Synthetic Data**|Tarun Kalluri et.al.|[2405.13779](http://arxiv.org/abs/2405.13779)|null|
+|**2024-05-22**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
+|**2024-05-22**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Zhiping Yu et.al.|[2405.13570](http://arxiv.org/abs/2405.13570)|null|
+|**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
+|**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|null|
+|**2024-05-22**|**How to Trace Latent Generative Model Generated Images without Artificial Watermark?**|Zhenting Wang et.al.|[2405.13360](http://arxiv.org/abs/2405.13360)|null|
+|**2024-05-21**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
 |**2024-05-21**|**Personalized Residuals for Concept-Driven Text-to-Image Generation**|Cusuh Ham et.al.|[2405.12978](http://arxiv.org/abs/2405.12978)|null|
 |**2024-05-21**|**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation**|Zhiyu Tan et.al.|[2405.12914](http://arxiv.org/abs/2405.12914)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
