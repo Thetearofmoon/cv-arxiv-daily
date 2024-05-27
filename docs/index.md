@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -134,12 +134,13 @@ layout: default
 |**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
 |**2024-03-21**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|**[link](https://github.com/library87/OpenRoboExp)**|
 |**2024-03-18**|**Generative Motion Stylization within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
-|**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
+|**2024-05-24**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
 |**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
 |**2024-04-05**|**Self-Correcting Self-Consuming Loops for Generative Model Training**|Nate Gillman et.al.|[2402.07087](http://arxiv.org/abs/2402.07087)|**[link](https://github.com/nate-gillman/self-correcting-self-consuming)**|
+|**2024-05-23**|**Constrained Synthesis with Projected Diffusion Models**|Jacob K Christopher et.al.|[2402.03559](http://arxiv.org/abs/2402.03559)|null|
 |**2024-02-01**|**IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition**|Zikang Leng et.al.|[2402.01049](http://arxiv.org/abs/2402.01049)|null|
 |**2024-04-11**|**EgoGen: An Egocentric Synthetic Data Generator**|Gen Li et.al.|[2401.08739](http://arxiv.org/abs/2401.08739)|null|
-|**2024-01-16**|**Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**|Mathis Petrovich et.al.|[2401.08559](http://arxiv.org/abs/2401.08559)|null|
+|**2024-05-24**|**Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**|Mathis Petrovich et.al.|[2401.08559](http://arxiv.org/abs/2401.08559)|null|
 |**2023-12-02**|**AAMDM: Accelerated Auto-regressive Motion Diffusion Model**|Tianyu Li et.al.|[2401.06146](http://arxiv.org/abs/2401.06146)|null|
 |**2024-01-06**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
@@ -196,7 +197,7 @@ layout: default
 |**2024-05-14**|**CinePile: A Long Video Question Answering Dataset and Benchmark**|Ruchit Rawal et.al.|[2405.08813](http://arxiv.org/abs/2405.08813)|null|
 |**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
 |**2024-05-01**|**Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs**|Nicolas Gorlo et.al.|[2405.00552](http://arxiv.org/abs/2405.00552)|**[link](https://github.com/mit-spark/lp2)**|
-|**2024-05-06**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al.|[2404.12678](http://arxiv.org/abs/2404.12678)|null|
+|**2024-05-24**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al.|[2404.12678](http://arxiv.org/abs/2404.12678)|null|
 |**2024-04-16**|**Generating Human Interaction Motions in Scenes with Text Control**|Hongwei Yi et.al.|[2404.10685](http://arxiv.org/abs/2404.10685)|null|
 |**2024-04-10**|**Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**|Ting Lei et.al.|[2404.06194](http://arxiv.org/abs/2404.06194)|**[link](https://github.com/ltttpku/cmd-se-release)**|
 |**2024-04-02**|**Disentangled Pre-training for Human-Object Interaction Detection**|Zhuolong Li et.al.|[2404.01725](http://arxiv.org/abs/2404.01725)|**[link](https://github.com/xingaoli/dp-hoi)**|
@@ -331,7 +332,7 @@ layout: default
 |**2024-05-07**|**Detecting 5G Signal Jammers Using Spectrograms with Supervised and Unsupervised Learning**|Matteo Varotto et.al.|[2405.10331](http://arxiv.org/abs/2405.10331)|null|
 |**2024-05-15**|**A Hierarchically Feature Reconstructed Autoencoder for Unsupervised Anomaly Detection**|Honghui Chen et.al.|[2405.09148](http://arxiv.org/abs/2405.09148)|null|
 |**2024-05-15**|**Deep Learning in Earthquake Engineering: A Comprehensive Review**|Yazhou Xie et.al.|[2405.09021](http://arxiv.org/abs/2405.09021)|null|
-|**2024-05-14**|**Tackling Prevalent Conditions in Unsupervised Combinatorial Optimization: Cardinality, Minimum, Covering, and More**|Fanchen Bu et.al.|[2405.08424](http://arxiv.org/abs/2405.08424)|**[link](https://github.com/bokveizen/unsupervised-CO-ucom2)**|
+|**2024-05-24**|**Tackling Prevalent Conditions in Unsupervised Combinatorial Optimization: Cardinality, Minimum, Covering, and More**|Fanchen Bu et.al.|[2405.08424](http://arxiv.org/abs/2405.08424)|**[link](https://github.com/bokveizen/unsupervised-CO-ucom2)**|
 |**2024-05-14**|**ICO learning as a measure of transient chaos in PT-symmetric Liénard systems**|J. P. Deka et.al.|[2405.08414](http://arxiv.org/abs/2405.08414)|null|
 |**2024-05-13**|**Integrating supervised and unsupervised learning approaches to unveil critical process inputs**|Paris Papavasileiou et.al.|[2405.07751](http://arxiv.org/abs/2405.07751)|null|
 |**2024-05-13**|**RESTAD: REconstruction and Similarity based Transformer for time series Anomaly Detection**|Ramin Ghorbani et.al.|[2405.07509](http://arxiv.org/abs/2405.07509)|**[link](https://github.com/raminghorbanii/restad)**|
@@ -456,11 +457,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-23**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
+|**2024-05-24**|**Improved Distribution Matching Distillation for Fast Image Synthesis**|Tianwei Yin et.al.|[2405.14867](http://arxiv.org/abs/2405.14867)|null|
 |**2024-05-23**|**Semantica: An Adaptable Image-Conditioned Diffusion Model**|Manoj Kumar et.al.|[2405.14857](http://arxiv.org/abs/2405.14857)|null|
 |**2024-05-23**|**TerDiT: Ternary Diffusion Models with Transformers**|Xudong Lu et.al.|[2405.14854](http://arxiv.org/abs/2405.14854)|**[link](https://github.com/Lucky-Lance/TerDiT)**|
 |**2024-05-23**|**Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models**|Katherine Xu et.al.|[2405.14828](http://arxiv.org/abs/2405.14828)|null|
-|**2024-05-23**|**Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|null|
+|**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|
 |**2024-05-23**|**RetAssist: Facilitating Vocabulary Learners with Generative Images in Story Retelling Practices**|Qiaoyi Chen et.al.|[2405.14794](http://arxiv.org/abs/2405.14794)|null|
 |**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
@@ -479,12 +480,12 @@ layout: default
 |**2024-05-22**|**FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition**|Ganggui Ding et.al.|[2405.13870](http://arxiv.org/abs/2405.13870)|null|
 |**2024-05-22**|**Hybrid Quantum-Classical Normalizing Flow**|Anlei Zhang et.al.|[2405.13808](http://arxiv.org/abs/2405.13808)|null|
 |**2024-05-22**|**Robust Disaster Assessment from Aerial Imagery Using Text-to-Image Synthetic Data**|Tarun Kalluri et.al.|[2405.13779](http://arxiv.org/abs/2405.13779)|null|
-|**2024-05-22**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
+|**2024-05-24**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
 |**2024-05-22**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Zhiping Yu et.al.|[2405.13570](http://arxiv.org/abs/2405.13570)|null|
 |**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
 |**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**How to Trace Latent Generative Model Generated Images without Artificial Watermark?**|Zhenting Wang et.al.|[2405.13360](http://arxiv.org/abs/2405.13360)|null|
-|**2024-05-21**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
+|**2024-05-24**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
 |**2024-05-21**|**Personalized Residuals for Concept-Driven Text-to-Image Generation**|Cusuh Ham et.al.|[2405.12978](http://arxiv.org/abs/2405.12978)|null|
 |**2024-05-21**|**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation**|Zhiyu Tan et.al.|[2405.12914](http://arxiv.org/abs/2405.12914)|**[link](https://github.com/llm-conditioned-diffusion/llm-conditioned-diffusion.github.io)**|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
