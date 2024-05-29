@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
 |**2024-05-24**|**FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**|Ke Fan et.al.|[2405.15763](http://arxiv.org/abs/2405.15763)|null|
 |**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
 |**2024-05-24**|**Learning Generalizable Human Motion Generator with Reinforcement Learning**|Yunyao Mao et.al.|[2405.15541](http://arxiv.org/abs/2405.15541)|null|
@@ -148,7 +149,7 @@ layout: default
 |**2024-04-11**|**EgoGen: An Egocentric Synthetic Data Generator**|Gen Li et.al.|[2401.08739](http://arxiv.org/abs/2401.08739)|null|
 |**2024-05-24**|**Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation**|Mathis Petrovich et.al.|[2401.08559](http://arxiv.org/abs/2401.08559)|null|
 |**2023-12-02**|**AAMDM: Accelerated Auto-regressive Motion Diffusion Model**|Tianyu Li et.al.|[2401.06146](http://arxiv.org/abs/2401.06146)|null|
-|**2024-01-06**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|null|
+|**2024-01-06**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|**[link](https://github.com/xuehao-gao/guess)**|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
 |**2023-12-21**|**Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos**|Keqiang Sun et.al.|[2312.13604](http://arxiv.org/abs/2312.13604)|null|
 |**2023-12-18**|**Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model**|Zhenyu Xie et.al.|[2312.10960](http://arxiv.org/abs/2312.10960)|null|
@@ -468,22 +469,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-27**|**Prompt Optimization with Human Feedback**|Xiaoqiang Lin et.al.|[2405.17346](http://arxiv.org/abs/2405.17346)|null|
+|**2024-05-27**|**Prompt Optimization with Human Feedback**|Xiaoqiang Lin et.al.|[2405.17346](http://arxiv.org/abs/2405.17346)|**[link](https://github.com/xqlin98/apohf)**|
 |**2024-05-27**|**From Text to Blueprint: Leveraging Text-to-Image Tools for Floor Plan Creation**|Xiaoyu Li et.al.|[2405.17236](http://arxiv.org/abs/2405.17236)|null|
 |**2024-05-27**|**Training-free Editioning of Text-to-Image Models**|Jinqi Wang et.al.|[2405.17069](http://arxiv.org/abs/2405.17069)|null|
 |**2024-05-27**|**The Poisson Midpoint Method for Langevin Dynamics: Provably Efficient Discretization for Diffusion Models**|Saravanan Kandasamy et.al.|[2405.17068](http://arxiv.org/abs/2405.17068)|null|
 |**2024-05-27**|**Glauber Generative Model: Discrete Diffusion Models via Binary Classification**|Harshit Varma et.al.|[2405.17035](http://arxiv.org/abs/2405.17035)|null|
 |**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
-|**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|null|
+|**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
 |**2024-05-27**|**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection**|Gihyun Kwon et.al.|[2405.16823](http://arxiv.org/abs/2405.16823)|null|
 |**2024-05-27**|**TIE: Revolutionizing Text-based Image Editing for Complex-Prompt Following and High-Fidelity Editing**|Xinyu Zhang et.al.|[2405.16803](http://arxiv.org/abs/2405.16803)|null|
 |**2024-05-27**|**PromptFix: You Prompt and We Fix the Photo**|Yongsheng Yu et.al.|[2405.16785](http://arxiv.org/abs/2405.16785)|null|
-|**2024-05-26**|**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**|Minseon Kim et.al.|[2405.16567](http://arxiv.org/abs/2405.16567)|null|
-|**2024-05-26**|**User-Friendly Customized Generation with Multi-Modal Prompts**|Linhao Zhong et.al.|[2405.16501](http://arxiv.org/abs/2405.16501)|null|
+|**2024-05-28**|**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**|Minseon Kim et.al.|[2405.16567](http://arxiv.org/abs/2405.16567)|null|
+|**2024-05-26**|**User-Friendly Customized Generation with Multi-Modal Prompts**|Linhao Zhong et.al.|[2405.16501](http://arxiv.org/abs/2405.16501)|**[link](https://github.com/zhongzero/multi-modal-prompt)**|
 |**2024-05-25**|**Enhancing Consistency-Based Image Generation via Adversarialy-Trained Classification and Energy-Based Discrimination**|Shelly Golan et.al.|[2405.16260](http://arxiv.org/abs/2405.16260)|null|
 |**2024-05-25**|**Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier**|Shuaixin Liu et.al.|[2405.16214](http://arxiv.org/abs/2405.16214)|null|
 |**2024-05-25**|**Method and Software Tool for Generating Artificial Databases of Biomedical Images Based on Deep Neural Networks**|Oleh Berezsky et.al.|[2405.16119](http://arxiv.org/abs/2405.16119)|null|
-|**2024-05-25**|**Lateralization MLP: A Simple Brain-inspired Architecture for Diffusion**|Zizhao Hu et.al.|[2405.16098](http://arxiv.org/abs/2405.16098)|null|
+|**2024-05-25**|**Lateralization MLP: A Simple Brain-inspired Architecture for Diffusion**|Zizhao Hu et.al.|[2405.16098](http://arxiv.org/abs/2405.16098)|**[link](https://github.com/zizhao-hu/l-mlp)**|
 |**2024-05-25**|**PTQ4DiT: Post-training Quantization for Diffusion Transformers**|Junyi Wu et.al.|[2405.16005](http://arxiv.org/abs/2405.16005)|null|
 |**2024-05-24**|**Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation**|Shentong Mo et.al.|[2405.15881](http://arxiv.org/abs/2405.15881)|null|
 |**2024-05-24**|**Learning to Discretize Denoising Diffusion ODEs**|Vinh Tong et.al.|[2405.15506](http://arxiv.org/abs/2405.15506)|null|
@@ -504,7 +505,7 @@ layout: default
 |**2024-05-24**|**Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation**|Hongxu Jiang et.al.|[2405.14802](http://arxiv.org/abs/2405.14802)|**[link](https://github.com/mirthai/fast-ddpm)**|
 |**2024-05-23**|**Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy**|Shengfang Zhai et.al.|[2405.14800](http://arxiv.org/abs/2405.14800)|null|
 |**2024-05-23**|**RetAssist: Facilitating Vocabulary Learners with Generative Images in Story Retelling Practices**|Qiaoyi Chen et.al.|[2405.14794](http://arxiv.org/abs/2405.14794)|null|
-|**2024-05-23**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
+|**2024-05-28**|**OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**|Shuheng Ge et.al.|[2405.14709](http://arxiv.org/abs/2405.14709)|null|
 |**2024-05-23**|**Learning Multi-dimensional Human Preference for Text-to-Image Generation**|Sixian Zhang et.al.|[2405.14705](http://arxiv.org/abs/2405.14705)|null|
 |**2024-05-23**|**RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance**|Zhicheng Sun et.al.|[2405.14677](http://arxiv.org/abs/2405.14677)|**[link](https://github.com/feifeiobama/RectifID)**|
 |**2024-05-23**|**Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models**|Jingyi Chen et.al.|[2405.14632](http://arxiv.org/abs/2405.14632)|null|
