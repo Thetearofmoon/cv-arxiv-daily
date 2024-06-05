@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -21,7 +21,7 @@ layout: default
 |**2024-05-28**|**DanceGen: Supporting Choreography Ideation and Prototyping with Generative AI**|Yimeng Liu et.al.|[2405.17827](http://arxiv.org/abs/2405.17827)|null|
 |**2024-05-28**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
 |**2024-05-24**|**FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**|Ke Fan et.al.|[2405.15763](http://arxiv.org/abs/2405.15763)|null|
-|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
+|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|**[link](https://github.com/regenmacher22/SMART)**|
 |**2024-05-24**|**Learning Generalizable Human Motion Generator with Reinforcement Learning**|Yunyao Mao et.al.|[2405.15541](http://arxiv.org/abs/2405.15541)|null|
 |**2024-05-24**|**Text-guided 3D Human Motion Generation with Keyframe-based Parallel Skip Transformer**|Zichen Geng et.al.|[2405.15439](http://arxiv.org/abs/2405.15439)|null|
 |**2024-05-24**|**Dynamic Planning for Sequential Whole-body Mobile Manipulation**|Zhitian Li et.al.|[2405.15377](http://arxiv.org/abs/2405.15377)|null|
@@ -334,7 +334,7 @@ layout: default
 |**2024-05-31**|**An iterated learning model of language change that mixes supervised and unsupervised learning**|Jack Bunyan et.al.|[2405.20818](http://arxiv.org/abs/2405.20818)|null|
 |**2024-05-31**|**Searching for internal symbols underlying deep learning**|Jung H. Lee et.al.|[2405.20605](http://arxiv.org/abs/2405.20605)|null|
 |**2024-05-30**|**ESG-FTSE: A corpus of news articles with ESG relevance labels and use cases**|Mariya Pavlova et.al.|[2405.20218](http://arxiv.org/abs/2405.20218)|null|
-|**2024-06-03**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799](http://arxiv.org/abs/2405.19799)|null|
+|**2024-06-03**|**Unsupervised Mutual Learning of Dialogue Discourse Parsing and Topic Segmentation**|Jiahui Xu et.al.|[2405.19799](http://arxiv.org/abs/2405.19799)|**[link](https://github.com/jeff-sue/urt)**|
 |**2024-05-21**|**NERULA: A Dual-Pathway Self-Supervised Learning Framework for Electrocardiogram Signal Analysis**|Gouthamaan Manimaran et.al.|[2405.19348](http://arxiv.org/abs/2405.19348)|null|
 |**2024-05-30**|**Deep Latent Variable Modeling of Physiological Signals**|Khuong Vo et.al.|[2405.19277](http://arxiv.org/abs/2405.19277)|**[link](https://github.com/khuongav/neurocognitive_vae)**|
 |**2024-05-29**|**EventZoom: A Progressive Approach to Event-Based Data Augmentation for Enhanced Neuromorphic Vision**|Yiting Dong et.al.|[2405.18880](http://arxiv.org/abs/2405.18880)|null|
