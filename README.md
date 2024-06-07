@@ -103,7 +103,7 @@
 |**2024-02-23**|**An Analysis of the Evolution Equations for a Generalized Bioconvective Flow**|J. L. Boldrini et.al.|[2402.15210](http://arxiv.org/abs/2402.15210)|null|
 |**2024-02-22**|**Quadratic Spinor Polynomials with Infinitely Many Factorizations**|Zijia Li et.al.|[2402.14347](http://arxiv.org/abs/2402.14347)|null|
 |**2024-02-21**|**RealDex: Towards Human-like Grasping for Robotic Dexterous Hand**|Yumeng Liu et.al.|[2402.13853](http://arxiv.org/abs/2402.13853)|null|
-|**2024-02-06**|**Bidirectional Autoregressive Diffusion Model for Dance Generation**|Canyu Zhang et.al.|[2402.04356](http://arxiv.org/abs/2402.04356)|null|
+|**2024-02-06**|**Bidirectional Autoregressive Diffusion Model for Dance Generation**|Canyu Zhang et.al.|[2402.04356](http://arxiv.org/abs/2402.04356)|**[link](https://github.com/czzhang179/badm)**|
 |**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
 |**2024-01-30**|**Casting manipulation of unknown string by robot arm**|Kenta Tabata et.al.|[2401.17082](http://arxiv.org/abs/2401.17082)|null|
 |**2024-01-24**|**MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation**|Nhat M. Hoang et.al.|[2401.11115](http://arxiv.org/abs/2401.11115)|**[link](https://github.com/NhatHoang2002/MotionMix)**|
@@ -940,7 +940,7 @@
 |**2024-03-28**|**Purposeful remixing with generative AI: Constructing designer voice in multimodal composing**|Xiao Tan et.al.|[2403.19095](http://arxiv.org/abs/2403.19095)|null|
 |**2024-03-27**|**TextCraftor: Your Text Encoder Can be Image Quality Controller**|Yanyu Li et.al.|[2403.18978](http://arxiv.org/abs/2403.18978)|null|
 |**2024-03-27**|**CPR: Retrieval Augmented Generation for Copyright Protection**|Aditya Golatkar et.al.|[2403.18920](http://arxiv.org/abs/2403.18920)|null|
-|**2024-03-27**|**Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching**|Jannis Chemseddine et.al.|[2403.18705](http://arxiv.org/abs/2403.18705)|null|
+|**2024-03-27**|**Conditional Wasserstein Distances with Applications in Bayesian OT Flow Matching**|Jannis Chemseddine et.al.|[2403.18705](http://arxiv.org/abs/2403.18705)|**[link](https://github.com/jchemseddine/conditional_wasserstein_distances)**|
 |**2024-03-27**|**Attention Calibration for Disentangled Text-to-Image Personalization**|Yanbing Zhang et.al.|[2403.18551](http://arxiv.org/abs/2403.18551)|**[link](https://github.com/monalissaa/disendiff)**|
 |**2024-03-27**|**DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis**|Zhongxi Chen et.al.|[2403.18471](http://arxiv.org/abs/2403.18471)|**[link](https://github.com/rapisurazurite/diffface)**|
 |**2024-03-27**|**U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models**|Ilias Mitsouras et.al.|[2403.18425](http://arxiv.org/abs/2403.18425)|null|
