@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -145,7 +145,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -216,7 +216,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## HOI
 
@@ -258,7 +258,7 @@
 |**2024-03-15**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553](http://arxiv.org/abs/2312.06553)|null|
 |**2024-02-27**|**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models**|Jiun Tian Hoe et.al.|[2312.05849](http://arxiv.org/abs/2312.05849)|**[link](https://github.com/jiuntian/interactdiffusion)**|
 |**2023-12-07**|**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**|Yinhuai Wang et.al.|[2312.04393](http://arxiv.org/abs/2312.04393)|null|
-|**2023-12-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao et.al.|[2312.04117](http://arxiv.org/abs/2312.04117)|**[link](https://github.com/it3dego/it3dego)**|
+|**2024-06-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao et.al.|[2312.04117](http://arxiv.org/abs/2312.04117)|**[link](https://github.com/it3dego/it3dego)**|
 |**2023-12-06**|**Controllable Human-Object Interaction Synthesis**|Jiaman Li et.al.|[2312.03913](http://arxiv.org/abs/2312.03913)|null|
 |**2023-12-04**|**Disentangled Interaction Representation for One-Stage Human-Object Interaction Detection**|Xubin Zhong et.al.|[2312.01713](http://arxiv.org/abs/2312.01713)|null|
 |**2023-12-26**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552](http://arxiv.org/abs/2311.16552)|null|
@@ -289,7 +289,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## LOMC
 
@@ -348,7 +348,7 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## UL
 
@@ -512,7 +512,7 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 ## IS
 
@@ -526,7 +526,7 @@
 |**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|**[link](https://github.com/GGorMM1/QIREN)**|
 |**2024-06-06**|**Semantic Similarity Score for Measuring Visual Similarity at Semantic Level**|Senran Fan et.al.|[2406.03865](http://arxiv.org/abs/2406.03865)|null|
 |**2024-06-06**|**Malware Classification Based on Image Segmentation**|Wanhu Nie et.al.|[2406.03831](http://arxiv.org/abs/2406.03831)|null|
-|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744](http://arxiv.org/abs/2406.03744)|null|
+|**2024-06-07**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744](http://arxiv.org/abs/2406.03744)|null|
 |**2024-06-05**|**Understanding the Limitations of Diffusion Concept Algebra Through Food**|E. Zhixuan Zeng et.al.|[2406.03582](http://arxiv.org/abs/2406.03582)|null|
 |**2024-06-05**|**Enhancing Traffic Sign Recognition with Tailored Data Augmentation: Addressing Class Imbalance and Instance Scarcity**|Ulan Alsiyeu et.al.|[2406.03576](http://arxiv.org/abs/2406.03576)|null|
 |**2024-06-05**|**Tackling GenAI Copyright Issues: Originality Estimation and Genericization**|Hiroaki Chiba-Okabe et.al.|[2406.03341](http://arxiv.org/abs/2406.03341)|null|
@@ -1034,7 +1034,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

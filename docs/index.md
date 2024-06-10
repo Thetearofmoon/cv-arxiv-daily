@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.09
+## Updated on 2024.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -246,7 +246,7 @@ layout: default
 |**2024-03-15**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553](http://arxiv.org/abs/2312.06553)|null|
 |**2024-02-27**|**InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models**|Jiun Tian Hoe et.al.|[2312.05849](http://arxiv.org/abs/2312.05849)|**[link](https://github.com/jiuntian/interactdiffusion)**|
 |**2023-12-07**|**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**|Yinhuai Wang et.al.|[2312.04393](http://arxiv.org/abs/2312.04393)|null|
-|**2023-12-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao et.al.|[2312.04117](http://arxiv.org/abs/2312.04117)|**[link](https://github.com/it3dego/it3dego)**|
+|**2024-06-07**|**Instance Tracking in 3D Scenes from Egocentric Videos**|Yunhan Zhao et.al.|[2312.04117](http://arxiv.org/abs/2312.04117)|**[link](https://github.com/it3dego/it3dego)**|
 |**2023-12-06**|**Controllable Human-Object Interaction Synthesis**|Jiaman Li et.al.|[2312.03913](http://arxiv.org/abs/2312.03913)|null|
 |**2023-12-04**|**Disentangled Interaction Representation for One-Stage Human-Object Interaction Detection**|Xubin Zhong et.al.|[2312.01713](http://arxiv.org/abs/2312.01713)|null|
 |**2023-12-26**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552](http://arxiv.org/abs/2311.16552)|null|
@@ -508,7 +508,7 @@ layout: default
 |**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|**[link](https://github.com/GGorMM1/QIREN)**|
 |**2024-06-06**|**Semantic Similarity Score for Measuring Visual Similarity at Semantic Level**|Senran Fan et.al.|[2406.03865](http://arxiv.org/abs/2406.03865)|null|
 |**2024-06-06**|**Malware Classification Based on Image Segmentation**|Wanhu Nie et.al.|[2406.03831](http://arxiv.org/abs/2406.03831)|null|
-|**2024-06-06**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744](http://arxiv.org/abs/2406.03744)|null|
+|**2024-06-07**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744](http://arxiv.org/abs/2406.03744)|null|
 |**2024-06-05**|**Understanding the Limitations of Diffusion Concept Algebra Through Food**|E. Zhixuan Zeng et.al.|[2406.03582](http://arxiv.org/abs/2406.03582)|null|
 |**2024-06-05**|**Enhancing Traffic Sign Recognition with Tailored Data Augmentation: Addressing Class Imbalance and Instance Scarcity**|Ulan Alsiyeu et.al.|[2406.03576](http://arxiv.org/abs/2406.03576)|null|
 |**2024-06-05**|**Tackling GenAI Copyright Issues: Originality Estimation and Genericization**|Hiroaki Chiba-Okabe et.al.|[2406.03341](http://arxiv.org/abs/2406.03341)|null|
