@@ -7,17 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance**|Qijun Gan et.al.|[2406.09326](http://arxiv.org/abs/2406.09326)|null|
+|**2024-06-12**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
+|**2024-06-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
 |**2024-06-11**|**RecMoDiffuse: Recurrent Flow Diffusion for Human Motion Generation**|Mirgahney Mohamed et.al.|[2406.07169](http://arxiv.org/abs/2406.07169)|null|
 |**2024-06-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|null|
 |**2024-06-06**|**An investigation of anisotropy in the bubbly turbulent flow via direct numerical simulations**|Xuanwei Zhang et.al.|[2406.04019](http://arxiv.org/abs/2406.04019)|null|
-|**2024-06-05**|**Task and Motion Planning for Execution in the Real**|Tianyang Pan et.al.|[2406.03641](http://arxiv.org/abs/2406.03641)|null|
+|**2024-06-13**|**Task and Motion Planning for Execution in the Real**|Tianyang Pan et.al.|[2406.03641](http://arxiv.org/abs/2406.03641)|null|
 |**2024-06-04**|**MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by Adversarial Training**|Kengo Uchida et.al.|[2406.01867](http://arxiv.org/abs/2406.01867)|null|
 |**2024-06-04**|**Towards Practical Single-shot Motion Synthesis**|Konstantinos Roditakis et.al.|[2406.01136](http://arxiv.org/abs/2406.01136)|null|
 |**2024-06-02**|**T2LM: Long-Term 3D Human Motion Generation from Multiple Sentences**|Taeryung Lee et.al.|[2406.00636](http://arxiv.org/abs/2406.00636)|null|
@@ -343,6 +346,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
+|**2024-06-12**|**A Comprehensive Survey on Machine Learning Driven Material Defect Detection: Challenges, Solutions, and Future Prospects**|Jun Bai et.al.|[2406.07880](http://arxiv.org/abs/2406.07880)|null|
+|**2024-06-11**|**Back to the Color: Learning Depth to Specific Color Transformation for Unsupervised Depth Estimation**|Yufan Zhu et.al.|[2406.07741](http://arxiv.org/abs/2406.07741)|**[link](https://github.com/BlueEg/back2color)**|
 |**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255](http://arxiv.org/abs/2406.07255)|null|
 |**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482](http://arxiv.org/abs/2406.06482)|null|
 |**2024-06-09**|**RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation**|Kiseung Kim et.al.|[2406.05794](http://arxiv.org/abs/2406.05794)|null|
@@ -511,6 +517,31 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416](http://arxiv.org/abs/2406.09416)|null|
+|**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
+|**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358](http://arxiv.org/abs/2406.09358)|null|
+|**2024-06-13**|**Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in VR Apps**|Shuqing Li et.al.|[2406.09313](http://arxiv.org/abs/2406.09313)|null|
+|**2024-06-13**|**Toffee: Efficient Million-Scale Dataset Construction for Subject-Driven Text-to-Image Generation**|Yufan Zhou et.al.|[2406.09305](http://arxiv.org/abs/2406.09305)|null|
+|**2024-06-13**|**StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning**|Giuseppe Vecchio et.al.|[2406.09293](http://arxiv.org/abs/2406.09293)|null|
+|**2024-06-13**|**EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts**|Yucheng Han et.al.|[2406.09162](http://arxiv.org/abs/2406.09162)|null|
+|**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
+|**2024-06-13**|**EquiPrompt: Debiasing Diffusion Models via Iterative Bootstrapping in Chain of Thoughts**|Zahraa Al Sahili et.al.|[2406.09070](http://arxiv.org/abs/2406.09070)|null|
+|**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|null|
+|**2024-06-12**|**TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation**|Weixi Feng et.al.|[2406.08656](http://arxiv.org/abs/2406.08656)|null|
+|**2024-06-12**|**FakeInversion: Learning to Detect Images from Unseen Text-to-Image Models by Inverting Stable Diffusion**|George Cazenavette et.al.|[2406.08603](http://arxiv.org/abs/2406.08603)|null|
+|**2024-06-12**|**DiTFastAttn: Attention Compression for Diffusion Transformer Models**|Zhihang Yuan et.al.|[2406.08552](http://arxiv.org/abs/2406.08552)|null|
+|**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
+|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
+|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|null|
+|**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431](http://arxiv.org/abs/2406.08431)|null|
+|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|**[link](https://github.com/opengvlab/visionllm)**|
+|**2024-06-12**|**FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation**|Xinzhi Mu et.al.|[2406.08392](http://arxiv.org/abs/2406.08392)|null|
+|**2024-06-12**|**WMAdapter: Adding WaterMark Control to Latent Diffusion Models**|Hai Ci et.al.|[2406.08337](http://arxiv.org/abs/2406.08337)|null|
+|**2024-06-12**|**CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models**|Hyungjin Chung et.al.|[2406.08070](http://arxiv.org/abs/2406.08070)|null|
+|**2024-06-12**|**Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models**|Arman Zarei et.al.|[2406.07844](http://arxiv.org/abs/2406.07844)|**[link](https://github.com/ArmanZarei/Mitigating-T2I-Comp-Issues)**|
+|**2024-06-11**|**CUPID: Contextual Understanding of Prompt-conditioned Image Distributions**|Yayan Zhao et.al.|[2406.07699](http://arxiv.org/abs/2406.07699)|null|
+|**2024-06-11**|**AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation**|Kai Wang et.al.|[2406.07686](http://arxiv.org/abs/2406.07686)|null|
+|**2024-06-13**|**Progress Towards Decoding Visual Imagery via fNIRS**|Michel Adamic et.al.|[2406.07662](http://arxiv.org/abs/2406.07662)|null|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548](http://arxiv.org/abs/2406.07548)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
 |**2024-06-11**|**Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?**|Xingyu Fu et.al.|[2406.07546](http://arxiv.org/abs/2406.07546)|null|
 |**2024-06-11**|**Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance**|Kuan Heng Lin et.al.|[2406.07540](http://arxiv.org/abs/2406.07540)|null|
@@ -518,9 +549,9 @@ layout: default
 |**2024-06-11**|**Instant 3D Human Avatar Generation using Image Diffusion Models**|Nikos Kolotouros et.al.|[2406.07516](http://arxiv.org/abs/2406.07516)|null|
 |**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506](http://arxiv.org/abs/2406.07506)|**[link](https://github.com/visual-words/visual-words)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
-|**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500](http://arxiv.org/abs/2406.07500)|null|
+|**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500](http://arxiv.org/abs/2406.07500)|**[link](https://github.com/vpulab/spin)**|
 |**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435](http://arxiv.org/abs/2406.07435)|null|
-|**2024-06-12**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251](http://arxiv.org/abs/2406.07251)|null|
+|**2024-06-12**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251](http://arxiv.org/abs/2406.07251)|**[link](https://github.com/thanos-db/pixelsmith)**|
 |**2024-06-11**|**MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance**|X. Wang et.al.|[2406.07209](http://arxiv.org/abs/2406.07209)|**[link](https://github.com/MS-Diffusion/MS-Diffusion)**|
 |**2024-06-11**|**Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models**|Sooyeon Go et.al.|[2406.07008](http://arxiv.org/abs/2406.07008)|null|
 |**2024-06-08**|**Rapid Review of Generative AI in Smart Medical Applications**|Yuan Sun et.al.|[2406.06627](http://arxiv.org/abs/2406.06627)|null|
@@ -532,7 +563,7 @@ layout: default
 |**2024-06-12**|**MLCM: Multistep Consistency Distillation of Latent Diffusion Model**|Qingsong Xie et.al.|[2406.05768](http://arxiv.org/abs/2406.05768)|null|
 |**2024-06-09**|**Can Prompt Modifiers Control Bias? A Comparative Analysis of Text-to-Image Generative Models**|Philip Wootaek Shin et.al.|[2406.05602](http://arxiv.org/abs/2406.05602)|null|
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
-|**2024-06-08**|**Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis**|Zanlin Ni et.al.|[2406.05478](http://arxiv.org/abs/2406.05478)|null|
+|**2024-06-08**|**Revisiting Non-Autoregressive Transformers for Efficient Image Synthesis**|Zanlin Ni et.al.|[2406.05478](http://arxiv.org/abs/2406.05478)|**[link](https://github.com/leaplabthu/improvednat)**|
 |**2024-06-08**|**Regularized Training with Generated Datasets for Name-Only Transfer of Vision-Language Models**|Minho Park et.al.|[2406.05432](http://arxiv.org/abs/2406.05432)|null|
 |**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|**[link](https://github.com/Arksyd96/synthesis-with-slice-based-ldm)**|
 |**2024-06-07**|**Optimal Eye Surgeon: Finding Image Priors through Sparse Generators at Initialization**|Avrajit Ghosh et.al.|[2406.05288](http://arxiv.org/abs/2406.05288)|**[link](https://github.com/avra98/optimal-eye-surgeon)**|
