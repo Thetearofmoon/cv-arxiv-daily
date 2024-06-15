@@ -537,7 +537,7 @@
 |---|---|---|---|---|
 |**2024-06-13**|**Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models**|Qihao Liu et.al.|[2406.09416](http://arxiv.org/abs/2406.09416)|null|
 |**2024-06-13**|**An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels**|Duy-Kien Nguyen et.al.|[2406.09415](http://arxiv.org/abs/2406.09415)|null|
-|**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358](http://arxiv.org/abs/2406.09358)|null|
+|**2024-06-13**|**Understanding Hallucinations in Diffusion Models through Mode Interpolation**|Sumukh K Aithal et.al.|[2406.09358](http://arxiv.org/abs/2406.09358)|**[link](https://github.com/locuslab/diffusion-model-hallucination)**|
 |**2024-06-13**|**Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in VR Apps**|Shuqing Li et.al.|[2406.09313](http://arxiv.org/abs/2406.09313)|null|
 |**2024-06-13**|**Toffee: Efficient Million-Scale Dataset Construction for Subject-Driven Text-to-Image Generation**|Yufan Zhou et.al.|[2406.09305](http://arxiv.org/abs/2406.09305)|null|
 |**2024-06-13**|**StableMaterials: Enhancing Diversity in Material Generation via Semi-Supervised Learning**|Giuseppe Vecchio et.al.|[2406.09293](http://arxiv.org/abs/2406.09293)|null|
@@ -545,7 +545,7 @@
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
 |**2024-06-13**|**EquiPrompt: Debiasing Diffusion Models via Iterative Bootstrapping in Chain of Thoughts**|Zahraa Al Sahili et.al.|[2406.09070](http://arxiv.org/abs/2406.09070)|null|
 |**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|null|
-|**2024-06-12**|**TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation**|Weixi Feng et.al.|[2406.08656](http://arxiv.org/abs/2406.08656)|null|
+|**2024-06-12**|**TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation**|Weixi Feng et.al.|[2406.08656](http://arxiv.org/abs/2406.08656)|**[link](https://github.com/weixi-feng/tc-bench)**|
 |**2024-06-12**|**FakeInversion: Learning to Detect Images from Unseen Text-to-Image Models by Inverting Stable Diffusion**|George Cazenavette et.al.|[2406.08603](http://arxiv.org/abs/2406.08603)|null|
 |**2024-06-12**|**DiTFastAttn: Attention Compression for Diffusion Transformer Models**|Zhihang Yuan et.al.|[2406.08552](http://arxiv.org/abs/2406.08552)|null|
 |**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
@@ -601,7 +601,7 @@
 |**2024-06-06**|**Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis**|Marianna Ohanyan et.al.|[2406.04032](http://arxiv.org/abs/2406.04032)|**[link](https://github.com/picsart-ai-research/zero-painter)**|
 |**2024-06-06**|**Quantum Implicit Neural Representations**|Jiaming Zhao et.al.|[2406.03873](http://arxiv.org/abs/2406.03873)|**[link](https://github.com/GGorMM1/QIREN)**|
 |**2024-06-06**|**Semantic Similarity Score for Measuring Visual Similarity at Semantic Level**|Senran Fan et.al.|[2406.03865](http://arxiv.org/abs/2406.03865)|null|
-|**2024-06-06**|**Malware Classification Based on Image Segmentation**|Wanhu Nie et.al.|[2406.03831](http://arxiv.org/abs/2406.03831)|null|
+|**2024-06-06**|**Malware Classification Based on Image Segmentation**|Wanhu Nie et.al.|[2406.03831](http://arxiv.org/abs/2406.03831)|**[link](https://github.com/Wanhu-Nie/Malware-Classification-Based-on-Image-Segmentation)**|
 |**2024-06-07**|**ReDistill: Residual Encoded Distillation for Peak Memory Reduction**|Fang Chen et.al.|[2406.03744](http://arxiv.org/abs/2406.03744)|null|
 |**2024-06-05**|**Understanding the Limitations of Diffusion Concept Algebra Through Food**|E. Zhixuan Zeng et.al.|[2406.03582](http://arxiv.org/abs/2406.03582)|null|
 |**2024-06-05**|**Enhancing Traffic Sign Recognition with Tailored Data Augmentation: Addressing Class Imbalance and Instance Scarcity**|Ulan Alsiyeu et.al.|[2406.03576](http://arxiv.org/abs/2406.03576)|null|
