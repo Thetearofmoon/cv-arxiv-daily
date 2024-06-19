@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Minimal Self in Humanoid Robot "Alter3" Driven by Large Language Model**|Takahide Yoshida et.al.|[2406.11420](http://arxiv.org/abs/2406.11420)|null|
+|**2024-06-17**|**Holistic-Motion2D: Scalable Whole-body Human Motion Generation in 2D Space**|Yuan Wang et.al.|[2406.11253](http://arxiv.org/abs/2406.11253)|null|
 |**2024-06-13**|**PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance**|Qijun Gan et.al.|[2406.09326](http://arxiv.org/abs/2406.09326)|null|
 |**2024-06-17**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
 |**2024-06-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
@@ -31,7 +33,7 @@ layout: default
 |**2024-05-28**|**DanceGen: Supporting Choreography Ideation and Prototyping with Generative AI**|Yimeng Liu et.al.|[2405.17827](http://arxiv.org/abs/2405.17827)|null|
 |**2024-05-28**|**MotionLLM: Multimodal Motion-Language Learning with Large Language Models**|Qi Wu et.al.|[2405.17013](http://arxiv.org/abs/2405.17013)|null|
 |**2024-05-24**|**FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**|Ke Fan et.al.|[2405.15763](http://arxiv.org/abs/2405.15763)|null|
-|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|**[link](https://github.com/regenmacher22/SMART)**|
+|**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
 |**2024-05-24**|**Learning Generalizable Human Motion Generator with Reinforcement Learning**|Yunyao Mao et.al.|[2405.15541](http://arxiv.org/abs/2405.15541)|null|
 |**2024-05-24**|**Text-guided 3D Human Motion Generation with Keyframe-based Parallel Skip Transformer**|Zichen Geng et.al.|[2405.15439](http://arxiv.org/abs/2405.15439)|null|
 |**2024-05-24**|**Dynamic Planning for Sequential Whole-body Mobile Manipulation**|Zhitian Li et.al.|[2405.15377](http://arxiv.org/abs/2405.15377)|null|
@@ -146,6 +148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-15**|**FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models**|Zhikai Zhang et.al.|[2406.10740](http://arxiv.org/abs/2406.10740)|null|
 |**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
 |**2024-06-04**|**Towards Practical Single-shot Motion Synthesis**|Konstantinos Roditakis et.al.|[2406.01136](http://arxiv.org/abs/2406.01136)|null|
@@ -347,6 +350,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**|Kobi Rahimi et.al.|[2406.11703](http://arxiv.org/abs/2406.11703)|null|
+|**2024-06-17**|**Making Old Things New: A Unified Algorithm for Differentially Private Clustering**|Max Dupré la Tour et.al.|[2406.11649](http://arxiv.org/abs/2406.11649)|null|
+|**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
+|**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-06-14**|**InstructRL4Pix: Training Diffusion for Image Editing by Reinforcement Learning**|Tiancheng Li et.al.|[2406.09973](http://arxiv.org/abs/2406.09973)|null|
 |**2024-06-13**|**Protein-Nucleic Acid Complex Modeling with Frame Averaging Transformer**|Tinglin Huang et.al.|[2406.09586](http://arxiv.org/abs/2406.09586)|null|
 |**2024-06-11**|**Exploring Traffic Crash Narratives in Jordan Using Text Mining Analytics**|Shadi Jaradat et.al.|[2406.09438](http://arxiv.org/abs/2406.09438)|null|
@@ -521,6 +528,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|null|
+|**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837](http://arxiv.org/abs/2406.11837)|**[link](https://github.com/zh460045050/vqgan-lc)**|
+|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
+|**2024-06-17**|**PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**|Fanqing Meng et.al.|[2406.11802](http://arxiv.org/abs/2406.11802)|**[link](https://github.com/opengvlab/phybench)**|
+|**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659](http://arxiv.org/abs/2406.11659)|null|
+|**2024-06-17**|**GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation**|Shihao Cai et.al.|[2406.11503](http://arxiv.org/abs/2406.11503)|null|
+|**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
+|**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100](http://arxiv.org/abs/2406.11100)|null|
+|**2024-06-16**|**STAR: Scale-wise Text-to-image generation via Auto-Regressive representations**|Xiaoxiao Ma et.al.|[2406.10797](http://arxiv.org/abs/2406.10797)|**[link](https://github.com/krennic999/STAR)**|
+|**2024-06-15**|**MINT: a Multi-modal Image and Narrative Text Dubbing Dataset for Foley Audio Content Planning and Generation**|Ruibo Fu et.al.|[2406.10591](http://arxiv.org/abs/2406.10591)|**[link](https://github.com/borisfrb/MINT)**|
+|**2024-06-14**|**Consistency-diversity-realism Pareto fronts of conditional image generative models**|Pietro Astolfi et.al.|[2406.10429](http://arxiv.org/abs/2406.10429)|null|
 |**2024-06-14**|**Make It Count: Text-to-Image Generation with an Accurate Number of Objects**|Lital Binyamin et.al.|[2406.10210](http://arxiv.org/abs/2406.10210)|null|
 |**2024-06-14**|**Crafting Parts for Expressive Object Composition**|Harsh Rangwani et.al.|[2406.10197](http://arxiv.org/abs/2406.10197)|null|
 |**2024-06-14**|**High-efficiency generation of vectorial holograms with metasurfaces**|Tong Liu et.al.|[2406.10072](http://arxiv.org/abs/2406.10072)|null|
@@ -536,12 +554,12 @@ layout: default
 |**2024-06-13**|**EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts**|Yucheng Han et.al.|[2406.09162](http://arxiv.org/abs/2406.09162)|null|
 |**2024-06-13**|**Complex Image-Generative Diffusion Transformer for Audio Denoising**|Junhui Li et.al.|[2406.09161](http://arxiv.org/abs/2406.09161)|null|
 |**2024-06-13**|**EquiPrompt: Debiasing Diffusion Models via Iterative Bootstrapping in Chain of Thoughts**|Zahraa Al Sahili et.al.|[2406.09070](http://arxiv.org/abs/2406.09070)|null|
-|**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|null|
+|**2024-06-13**|**Batch-Instructed Gradient for Prompt Evolution:Systematic Prompt Optimization for Enhanced Text-to-Image Synthesis**|Xinrui Yang et.al.|[2406.08713](http://arxiv.org/abs/2406.08713)|**[link](https://github.com/slark-prime/maai_optimizer)**|
 |**2024-06-12**|**TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation**|Weixi Feng et.al.|[2406.08656](http://arxiv.org/abs/2406.08656)|**[link](https://github.com/weixi-feng/tc-bench)**|
 |**2024-06-12**|**FakeInversion: Learning to Detect Images from Unseen Text-to-Image Models by Inverting Stable Diffusion**|George Cazenavette et.al.|[2406.08603](http://arxiv.org/abs/2406.08603)|null|
 |**2024-06-12**|**DiTFastAttn: Attention Compression for Diffusion Transformer Models**|Zhihang Yuan et.al.|[2406.08552](http://arxiv.org/abs/2406.08552)|null|
 |**2024-06-12**|**Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation**|Raphael Tang et.al.|[2406.08482](http://arxiv.org/abs/2406.08482)|null|
-|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
+|**2024-06-18**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
 |**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|null|
 |**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431](http://arxiv.org/abs/2406.08431)|null|
 |**2024-06-14**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|**[link](https://github.com/opengvlab/visionllm)**|
