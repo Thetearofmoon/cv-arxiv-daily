@@ -454,7 +454,7 @@ layout: default
 |**2024-04-03**|**Unsupervised Learning of Effective Actions in Robotics**|Marko Zaric et.al.|[2404.02728](http://arxiv.org/abs/2404.02728)|**[link](https://github.com/marko-zaric/action-prototype-gen)**|
 |**2024-04-02**|**Remote sensing framework for geological mapping via stacked autoencoders and clustering**|Sandeep Nagar et.al.|[2404.02180](http://arxiv.org/abs/2404.02180)|**[link](https://github.com/sydney-machine-learning/autoencoders_remotesensing)**|
 |**2024-04-02**|**Bridging Language, Vision and Action: Multimodal VAEs in Robotic Manipulation Tasks**|Gabriela Sejnova et.al.|[2404.01932](http://arxiv.org/abs/2404.01932)|**[link](https://github.com/gabinsane/multi-vaes-in-robotics)**|
-|**2024-04-02**|**Preventing Model Collapse in Gaussian Process Latent Variable Models**|Ying Li et.al.|[2404.01697](http://arxiv.org/abs/2404.01697)|null|
+|**2024-04-02**|**Preventing Model Collapse in Gaussian Process Latent Variable Models**|Ying Li et.al.|[2404.01697](http://arxiv.org/abs/2404.01697)|**[link](https://github.com/zhidilin/advisedgplvm)**|
 |**2024-04-08**|**Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation**|Ming Xu et.al.|[2404.01518](http://arxiv.org/abs/2404.01518)|**[link](https://github.com/mingu6/action_seg_ot)**|
 |**2024-04-01**|**CLIPtone: Unsupervised Learning for Text-based Image Tone Adjustment**|Hyeongmin Lee et.al.|[2404.01123](http://arxiv.org/abs/2404.01123)|null|
 |**2024-03-30**|**Leveraging Pre-trained and Transformer-derived Embeddings from EHRs to Characterize Heterogeneity Across Alzheimer's Disease and Related Dementias**|Matthew West et.al.|[2404.00464](http://arxiv.org/abs/2404.00464)|null|
