@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.19
+## Updated on 2024.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -152,7 +152,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240620>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -226,7 +226,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240620>back to top</a>)</p>
 
 ## HOI
 
@@ -301,7 +301,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240620>back to top</a>)</p>
 
 ## LOMC
 
@@ -360,12 +360,13 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240620>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**P3GNN: A Privacy-Preserving Provenance Graph-Based Model for APT Detection in Software Defined Networking**|Hedyeh Nazari et.al.|[2406.12003](http://arxiv.org/abs/2406.12003)|null|
 |**2024-06-17**|**Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**|Kobi Rahimi et.al.|[2406.11703](http://arxiv.org/abs/2406.11703)|null|
 |**2024-06-17**|**Making Old Things New: A Unified Algorithm for Differentially Private Clustering**|Max Dupré la Tour et.al.|[2406.11649](http://arxiv.org/abs/2406.11649)|null|
 |**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
@@ -540,12 +541,21 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240620>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805](http://arxiv.org/abs/2406.12805)|**[link](https://github.com/itsmag11/aitti)**|
+|**2024-06-18**|**Cyclic 2.5D Perceptual Loss for Cross-Modal 3D Image Synthesis: T1 MRI to Tau-PET**|Symac Kim et.al.|[2406.12632](http://arxiv.org/abs/2406.12632)|null|
+|**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592](http://arxiv.org/abs/2406.12592)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
+|**2024-06-17**|**ARTIST: Improving the Generation of Text-rich Images by Disentanglement**|Jianyi Zhang et.al.|[2406.12044](http://arxiv.org/abs/2406.12044)|null|
+|**2024-06-17**|**Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models**|Alireza Ganjdanesh et.al.|[2406.12042](http://arxiv.org/abs/2406.12042)|null|
+|**2024-06-17**|**Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI**|Robert Hönig et.al.|[2406.12027](http://arxiv.org/abs/2406.12027)|null|
+|**2024-06-17**|**Decomposed evaluations of geographic disparities in text-to-image models**|Abhishek Sureddy et.al.|[2406.11988](http://arxiv.org/abs/2406.11988)|null|
+|**2024-06-16**|**Mixture-of-Subspaces in Low-Rank Adaptation**|Taiqiang Wu et.al.|[2406.11909](http://arxiv.org/abs/2406.11909)|null|
 |**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|null|
 |**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837](http://arxiv.org/abs/2406.11837)|**[link](https://github.com/zh460045050/vqgan-lc)**|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
@@ -1138,7 +1148,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240620>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
