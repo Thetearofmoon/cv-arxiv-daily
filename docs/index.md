@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -36,7 +36,7 @@ layout: default
 |**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
 |**2024-05-24**|**Learning Generalizable Human Motion Generator with Reinforcement Learning**|Yunyao Mao et.al.|[2405.15541](http://arxiv.org/abs/2405.15541)|null|
 |**2024-05-24**|**Text-guided 3D Human Motion Generation with Keyframe-based Parallel Skip Transformer**|Zichen Geng et.al.|[2405.15439](http://arxiv.org/abs/2405.15439)|null|
-|**2024-05-24**|**Dynamic Planning for Sequential Whole-body Mobile Manipulation**|Zhitian Li et.al.|[2405.15377](http://arxiv.org/abs/2405.15377)|null|
+|**2024-06-19**|**Dynamic Planning for Sequential Whole-body Mobile Manipulation**|Zhitian Li et.al.|[2405.15377](http://arxiv.org/abs/2405.15377)|null|
 |**2024-05-23**|**The Sun's Non-Potential Corona over Solar Cycle 24**|Anthony R. Yeates et.al.|[2405.14322](http://arxiv.org/abs/2405.14322)|**[link](https://github.com/antyeates1983/sharps-bmrs)**|
 |**2024-05-22**|**MagicPose4D: Crafting Articulated Models with Appearance and Motion Control**|Hao Zhang et.al.|[2405.14017](http://arxiv.org/abs/2405.14017)|null|
 |**2024-05-21**|**DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control**|Hong Chen et.al.|[2405.12796](http://arxiv.org/abs/2405.12796)|null|
@@ -220,6 +220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**|Jiawei Gao et.al.|[2406.14558](http://arxiv.org/abs/2406.14558)|null|
 |**2024-06-11**|**Open-World Human-Object Interaction Detection via Multi-modal Prompts**|Jie Yang et.al.|[2406.07221](http://arxiv.org/abs/2406.07221)|null|
 |**2024-05-22**|**EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views**|Yuhang Yang et.al.|[2405.13659](http://arxiv.org/abs/2405.13659)|null|
 |**2024-05-16**|**VirtualModel: Generating Object-ID-retentive Human-object Interaction Image by Diffusion Model for E-commerce Marketing**|Binghui Chen et.al.|[2405.09985](http://arxiv.org/abs/2405.09985)|null|
@@ -350,6 +351,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-19**|**A Systematic Literature Review on the Use of Machine Learning in Software Engineering**|Nyaga Fred et.al.|[2406.13877](http://arxiv.org/abs/2406.13877)|null|
+|**2024-06-19**|**Generative Modeling by Minimizing the Wasserstein-2 Loss**|Yu-Jui Huang et.al.|[2406.13619](http://arxiv.org/abs/2406.13619)|null|
+|**2024-06-06**|**Temporal Complexity of a Hopfield-Type Neural Model in Random and Scale-Free Graphs**|Marco Cafiso et.al.|[2406.12895](http://arxiv.org/abs/2406.12895)|null|
 |**2024-06-17**|**P3GNN: A Privacy-Preserving Provenance Graph-Based Model for APT Detection in Software Defined Networking**|Hedyeh Nazari et.al.|[2406.12003](http://arxiv.org/abs/2406.12003)|null|
 |**2024-06-17**|**Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**|Kobi Rahimi et.al.|[2406.11703](http://arxiv.org/abs/2406.11703)|null|
 |**2024-06-17**|**Making Old Things New: A Unified Algorithm for Differentially Private Clustering**|Max Dupré la Tour et.al.|[2406.11649](http://arxiv.org/abs/2406.11649)|null|
@@ -529,7 +533,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-18**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805](http://arxiv.org/abs/2406.12805)|**[link](https://github.com/itsmag11/aitti)**|
+|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
+|**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|null|
+|**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|null|
+|**2024-06-19**|**Development of a Dual-Input Neural Model for Detecting AI-Generated Imagery**|Jonathan Gallagher et.al.|[2406.13688](http://arxiv.org/abs/2406.13688)|null|
+|**2024-06-19**|**Improving Visual Commonsense in Language Models via Multiple Image Generation**|Guy Yariv et.al.|[2406.13621](http://arxiv.org/abs/2406.13621)|null|
+|**2024-06-19**|**DF40: Toward Next-Generation Deepfake Detection**|Zhiyuan Yan et.al.|[2406.13495](http://arxiv.org/abs/2406.13495)|null|
+|**2024-06-19**|**What's Next? Exploring Utilization, Challenges, and Future Directions of AI-Generated Image Tools in Graphic Design**|Yuying Tang et.al.|[2406.13436](http://arxiv.org/abs/2406.13436)|null|
+|**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393](http://arxiv.org/abs/2406.13393)|null|
+|**2024-06-19**|**Search-based DNN Testing and Retraining with GAN-enhanced Simulations**|Mohammed Oualid Attaoui et.al.|[2406.13359](http://arxiv.org/abs/2406.13359)|null|
+|**2024-06-19**|**Quantum Generative Learning for High-Resolution Medical Image Generation**|Amena Khatun et.al.|[2406.13196](http://arxiv.org/abs/2406.13196)|null|
+|**2024-06-19**|**AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation**|Xinyu Hou et.al.|[2406.12805](http://arxiv.org/abs/2406.12805)|**[link](https://github.com/itsmag11/aitti)**|
 |**2024-06-18**|**Cyclic 2.5D Perceptual Loss for Cross-Modal 3D Image Synthesis: T1 MRI to Tau-PET**|Symac Kim et.al.|[2406.12632](http://arxiv.org/abs/2406.12632)|null|
 |**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592](http://arxiv.org/abs/2406.12592)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
 |**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
