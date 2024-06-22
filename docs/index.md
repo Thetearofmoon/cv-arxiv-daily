@@ -657,7 +657,7 @@ layout: default
 |**2024-06-04**|**Enhance Image-to-Image Generation with LLaVA Prompt and Negative Prompt**|Zhicheng Ding et.al.|[2406.01956](http://arxiv.org/abs/2406.01956)|null|
 |**2024-06-04**|**Plug-and-Play Diffusion Distillation**|Yi-Ting Hsiao et.al.|[2406.01954](http://arxiv.org/abs/2406.01954)|null|
 |**2024-06-03**|**Text-guided Controllable Mesh Refinement for Interactive 3D Modeling**|Yun-Chun Chen et.al.|[2406.01592](http://arxiv.org/abs/2406.01592)|null|
-|**2024-06-03**|**Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation**|Mingyuan Zhou et.al.|[2406.01561](http://arxiv.org/abs/2406.01561)|null|
+|**2024-06-03**|**Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation**|Mingyuan Zhou et.al.|[2406.01561](http://arxiv.org/abs/2406.01561)|**[link](https://github.com/mingyuanzhou/sid-lsg)**|
 |**2024-06-03**|**Reflection-Reinforced Self-Training for Language Agents**|Zi-Yi Dou et.al.|[2406.01495](http://arxiv.org/abs/2406.01495)|**[link](https://github.com/PlusLabNLP/Re-ReST)**|
 |**2024-06-04**|**DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention**|Yang Liu et.al.|[2406.01489](http://arxiv.org/abs/2406.01489)|null|
 |**2024-06-03**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
