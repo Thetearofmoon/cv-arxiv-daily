@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -536,10 +536,10 @@ layout: default
 |**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
 |**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
-|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|null|
-|**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|null|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
+|**2024-06-19**|**GenAI-Bench: Evaluating and Improving Compositional Text-to-Visual Generation**|Baiqi Li et.al.|[2406.13743](http://arxiv.org/abs/2406.13743)|**[link](https://github.com/linzhiqiu/t2v_metrics)**|
 |**2024-06-19**|**Development of a Dual-Input Neural Model for Detecting AI-Generated Imagery**|Jonathan Gallagher et.al.|[2406.13688](http://arxiv.org/abs/2406.13688)|null|
-|**2024-06-19**|**Improving Visual Commonsense in Language Models via Multiple Image Generation**|Guy Yariv et.al.|[2406.13621](http://arxiv.org/abs/2406.13621)|null|
+|**2024-06-19**|**Improving Visual Commonsense in Language Models via Multiple Image Generation**|Guy Yariv et.al.|[2406.13621](http://arxiv.org/abs/2406.13621)|**[link](https://github.com/guyyariv/vlmig)**|
 |**2024-06-19**|**DF40: Toward Next-Generation Deepfake Detection**|Zhiyuan Yan et.al.|[2406.13495](http://arxiv.org/abs/2406.13495)|null|
 |**2024-06-19**|**What's Next? Exploring Utilization, Challenges, and Future Directions of AI-Generated Image Tools in Graphic Design**|Yuying Tang et.al.|[2406.13436](http://arxiv.org/abs/2406.13436)|null|
 |**2024-06-19**|**Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images**|Haruo Fujiwara et.al.|[2406.13393](http://arxiv.org/abs/2406.13393)|null|
@@ -550,17 +550,17 @@ layout: default
 |**2024-06-18**|**Unmasking the Veil: An Investigation into Concept Ablation for Privacy and Copyright Protection in Images**|Shivank Garg et.al.|[2406.12592](http://arxiv.org/abs/2406.12592)|**[link](https://github.com/vlgiitr/unmasking-the-veil)**|
 |**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
 |**2024-06-17**|**ARTIST: Improving the Generation of Text-rich Images by Disentanglement**|Jianyi Zhang et.al.|[2406.12044](http://arxiv.org/abs/2406.12044)|null|
-|**2024-06-17**|**Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models**|Alireza Ganjdanesh et.al.|[2406.12042](http://arxiv.org/abs/2406.12042)|null|
+|**2024-06-17**|**Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models**|Alireza Ganjdanesh et.al.|[2406.12042](http://arxiv.org/abs/2406.12042)|**[link](https://github.com/rezashkv/diffusion_pruning)**|
 |**2024-06-17**|**Adversarial Perturbations Cannot Reliably Protect Artists From Generative AI**|Robert Hönig et.al.|[2406.12027](http://arxiv.org/abs/2406.12027)|null|
 |**2024-06-17**|**Decomposed evaluations of geographic disparities in text-to-image models**|Abhishek Sureddy et.al.|[2406.11988](http://arxiv.org/abs/2406.11988)|null|
-|**2024-06-16**|**Mixture-of-Subspaces in Low-Rank Adaptation**|Taiqiang Wu et.al.|[2406.11909](http://arxiv.org/abs/2406.11909)|null|
+|**2024-06-16**|**Mixture-of-Subspaces in Low-Rank Adaptation**|Taiqiang Wu et.al.|[2406.11909](http://arxiv.org/abs/2406.11909)|**[link](https://github.com/wutaiqiang/moslora)**|
 |**2024-06-17**|**Autoregressive Image Generation without Vector Quantization**|Tianhong Li et.al.|[2406.11838](http://arxiv.org/abs/2406.11838)|null|
 |**2024-06-17**|**Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%**|Lei Zhu et.al.|[2406.11837](http://arxiv.org/abs/2406.11837)|**[link](https://github.com/zh460045050/vqgan-lc)**|
 |**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-17**|**PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**|Fanqing Meng et.al.|[2406.11802](http://arxiv.org/abs/2406.11802)|**[link](https://github.com/opengvlab/phybench)**|
 |**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659](http://arxiv.org/abs/2406.11659)|null|
 |**2024-06-17**|**GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation**|Shihao Cai et.al.|[2406.11503](http://arxiv.org/abs/2406.11503)|null|
-|**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|null|
+|**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|**[link](https://github.com/jeffhernandez1995/GenLlaVA)**|
 |**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100](http://arxiv.org/abs/2406.11100)|null|
 |**2024-06-16**|**STAR: Scale-wise Text-to-image generation via Auto-Regressive representations**|Xiaoxiao Ma et.al.|[2406.10797](http://arxiv.org/abs/2406.10797)|**[link](https://github.com/krennic999/STAR)**|
 |**2024-06-15**|**MINT: a Multi-modal Image and Narrative Text Dubbing Dataset for Foley Audio Content Planning and Generation**|Ruibo Fu et.al.|[2406.10591](http://arxiv.org/abs/2406.10591)|**[link](https://github.com/borisfrb/MINT)**|
