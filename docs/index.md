@@ -98,7 +98,7 @@ layout: default
 |**2024-03-19**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|**[link](https://github.com/steve-zeyu-zhang/MotionMamba)**|
 |**2024-03-12**|**Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**|Shuai Tan et.al.|[2403.06365](http://arxiv.org/abs/2403.06365)|null|
 |**2024-03-09**|**Enhancing Expressiveness in Dance Generation via Integrating Frequency and Music Style Information**|Qiaochu Huang et.al.|[2403.05834](http://arxiv.org/abs/2403.05834)|**[link](https://github.com/thuhcsi/expressivebailando)**|
-|**2024-03-05**|**MMoFusion: Multi-modal Co-Speech Motion Generation with Diffusion Model**|Sen Wang et.al.|[2403.02905](http://arxiv.org/abs/2403.02905)|null|
+|**2024-03-05**|**MMoFusion: Multi-modal Co-Speech Motion Generation with Diffusion Model**|Sen Wang et.al.|[2403.02905](http://arxiv.org/abs/2403.02905)|**[link](https://github.com/wangsen99/MMoFusion)**|
 |**2024-03-29**|**CustomListener: Text-guided Responsive Interaction for User-friendly Listening Head Generation**|Xi Liu et.al.|[2403.00274](http://arxiv.org/abs/2403.00274)|null|
 |**2024-02-23**|**Seamless Human Motion Composition with Blended Positional Encodings**|German Barquero et.al.|[2402.15509](http://arxiv.org/abs/2402.15509)|**[link](https://github.com/BarqueroGerman/FlowMDM)**|
 |**2024-02-23**|**An Analysis of the Evolution Equations for a Generalized Bioconvective Flow**|J. L. Boldrini et.al.|[2402.15210](http://arxiv.org/abs/2402.15210)|null|
