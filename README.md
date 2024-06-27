@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Task Adaptation in Industrial Human-Robot Interaction: Leveraging Riemannian Motion Policies**|Mike Allenspach et.al.|[2406.17333](http://arxiv.org/abs/2406.17333)|null|
 |**2024-06-17**|**Minimal Self in Humanoid Robot "Alter3" Driven by Large Language Model**|Takahide Yoshida et.al.|[2406.11420](http://arxiv.org/abs/2406.11420)|null|
 |**2024-06-17**|**Holistic-Motion2D: Scalable Whole-body Human Motion Generation in 2D Space**|Yuan Wang et.al.|[2406.11253](http://arxiv.org/abs/2406.11253)|null|
 |**2024-06-13**|**PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance**|Qijun Gan et.al.|[2406.09326](http://arxiv.org/abs/2406.09326)|null|
@@ -152,7 +153,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -226,7 +227,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## HOI
 
@@ -302,7 +303,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## LOMC
 
@@ -361,12 +362,13 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**A review of unsupervised learning in astronomy**|Sotiria Fotopoulou et.al.|[2406.17316](http://arxiv.org/abs/2406.17316)|null|
 |**2024-06-24**|**Concentration Inequalities for $(f,Γ)$ -GANs**|Jeremiah Birrell et.al.|[2406.16834](http://arxiv.org/abs/2406.16834)|null|
 |**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219](http://arxiv.org/abs/2406.15219)|null|
 |**2024-06-19**|**A Systematic Literature Review on the Use of Machine Learning in Software Engineering**|Nyaga Fred et.al.|[2406.13877](http://arxiv.org/abs/2406.13877)|null|
@@ -547,12 +549,19 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Detection of Synthetic Face Images: Accuracy, Robustness, Generalization**|Nela Petrzelkova et.al.|[2406.17547](http://arxiv.org/abs/2406.17547)|null|
+|**2024-06-25**|**TSynD: Targeted Synthetic Data Generation for Enhanced Medical Image Classification**|Joshua Niemeijer et.al.|[2406.17473](http://arxiv.org/abs/2406.17473)|null|
+|**2024-06-25**|**SyncNoise: Geometrically Consistent Noise Prediction for Text-based 3D Scene Editing**|Ruihuang Li et.al.|[2406.17396](http://arxiv.org/abs/2406.17396)|null|
+|**2024-06-25**|**Semantic Deep Hiding for Robust Unlearnable Examples**|Ruohan Meng et.al.|[2406.17349](http://arxiv.org/abs/2406.17349)|null|
+|**2024-06-25**|**Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers**|Lei Chen et.al.|[2406.17343](http://arxiv.org/abs/2406.17343)|null|
+|**2024-06-25**|**Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds**|Hongliang Zeng et.al.|[2406.17342](http://arxiv.org/abs/2406.17342)|null|
+|**2024-06-24**|**Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation**|Zhenyi Liao et.al.|[2406.17100](http://arxiv.org/abs/2406.17100)|null|
 |**2024-06-24**|**DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation**|Yuang Peng et.al.|[2406.16855](http://arxiv.org/abs/2406.16855)|**[link](https://github.com/yuangpeng/dreambench_plus)**|
 |**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807](http://arxiv.org/abs/2406.16807)|null|
 |**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683](http://arxiv.org/abs/2406.16683)|null|
@@ -568,7 +577,7 @@
 |**2024-06-21**|**Latent diffusion models for parameterization and data assimilation of facies-based geomodels**|Guido Di Federico et.al.|[2406.14815](http://arxiv.org/abs/2406.14815)|null|
 |**2024-06-20**|**Evaluating Numerical Reasoning in Text-to-Image Models**|Ivana Kajić et.al.|[2406.14774](http://arxiv.org/abs/2406.14774)|null|
 |**2024-06-20**|**Holistic Evaluation for Interleaved Text-and-Image Generation**|Minqian Liu et.al.|[2406.14643](http://arxiv.org/abs/2406.14643)|null|
-|**2024-06-20**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
+|**2024-06-26**|**Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps**|Nikita Starodubcev et.al.|[2406.14539](http://arxiv.org/abs/2406.14539)|null|
 |**2024-06-20**|**Fantastic Copyrighted Beasts and How (Not) to Generate Them**|Luxi He et.al.|[2406.14526](http://arxiv.org/abs/2406.14526)|null|
 |**2024-06-20**|**Video Generation with Learned Action Prior**|Meenakshi Sarkar et.al.|[2406.14436](http://arxiv.org/abs/2406.14436)|null|
 |**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
@@ -1181,7 +1190,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
