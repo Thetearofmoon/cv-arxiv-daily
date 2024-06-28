@@ -777,7 +777,7 @@
 |**2024-05-27**|**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection**|Gihyun Kwon et.al.|[2405.16823](http://arxiv.org/abs/2405.16823)|null|
 |**2024-05-27**|**TIE: Revolutionizing Text-based Image Editing for Complex-Prompt Following and High-Fidelity Editing**|Xinyu Zhang et.al.|[2405.16803](http://arxiv.org/abs/2405.16803)|null|
 |**2024-05-27**|**PromptFix: You Prompt and We Fix the Photo**|Yongsheng Yu et.al.|[2405.16785](http://arxiv.org/abs/2405.16785)|null|
-|**2024-05-28**|**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**|Minseon Kim et.al.|[2405.16567](http://arxiv.org/abs/2405.16567)|null|
+|**2024-05-28**|**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**|Minseon Kim et.al.|[2405.16567](http://arxiv.org/abs/2405.16567)|**[link](https://github.com/Kim-Minseon/APGP)**|
 |**2024-05-26**|**User-Friendly Customized Generation with Multi-Modal Prompts**|Linhao Zhong et.al.|[2405.16501](http://arxiv.org/abs/2405.16501)|**[link](https://github.com/zhongzero/multi-modal-prompt)**|
 |**2024-05-25**|**Enhancing Consistency-Based Image Generation via Adversarialy-Trained Classification and Energy-Based Discrimination**|Shelly Golan et.al.|[2405.16260](http://arxiv.org/abs/2405.16260)|null|
 |**2024-05-25**|**Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier**|Shuaixin Liu et.al.|[2405.16214](http://arxiv.org/abs/2405.16214)|**[link](https://github.com/OUCVisionGroup/CLIP-UIE)**|
