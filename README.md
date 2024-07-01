@@ -629,7 +629,7 @@
 |**2024-06-21**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
 |**2024-06-17**|**PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models**|Fanqing Meng et.al.|[2406.11802](http://arxiv.org/abs/2406.11802)|**[link](https://github.com/opengvlab/phybench)**|
 |**2024-06-17**|**Discriminative Hamiltonian Variational Autoencoder for Accurate Tumor Segmentation in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.11659](http://arxiv.org/abs/2406.11659)|null|
-|**2024-06-17**|**GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation**|Shihao Cai et.al.|[2406.11503](http://arxiv.org/abs/2406.11503)|null|
+|**2024-06-17**|**GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation**|Shihao Cai et.al.|[2406.11503](http://arxiv.org/abs/2406.11503)|**[link](https://github.com/lanyu0303/geogpt4v_project)**|
 |**2024-06-17**|**Generative Visual Instruction Tuning**|Jefferson Hernandez et.al.|[2406.11262](http://arxiv.org/abs/2406.11262)|**[link](https://github.com/jeffhernandez1995/GenLlaVA)**|
 |**2024-06-16**|**An Analysis on Quantizing Diffusion Transformers**|Yuewei Yang et.al.|[2406.11100](http://arxiv.org/abs/2406.11100)|null|
 |**2024-06-16**|**STAR: Scale-wise Text-to-image generation via Auto-Regressive representations**|Xiaoxiao Ma et.al.|[2406.10797](http://arxiv.org/abs/2406.10797)|**[link](https://github.com/krennic999/STAR)**|
@@ -1108,7 +1108,7 @@
 |**2024-03-31**|**IPT-V2: Efficient Image Processing Transformer using Hierarchical Attentions**|Zhijun Tu et.al.|[2404.00633](http://arxiv.org/abs/2404.00633)|null|
 |**2024-03-31**|**GAN with Skip Patch Discriminator for Biological Electron Microscopy Image Generation**|Nishith Ranjon Roy et.al.|[2404.00558](http://arxiv.org/abs/2404.00558)|null|
 |**2024-03-31**|**Convergence of Continuous Normalizing Flows for Learning Probability Distributions**|Yuan Gao et.al.|[2404.00551](http://arxiv.org/abs/2404.00551)|null|
-|**2024-04-07**|**CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization**|Yao Ni et.al.|[2404.00521](http://arxiv.org/abs/2404.00521)|null|
+|**2024-04-07**|**CHAIN: Enhancing Generalization in Data-Efficient GANs via lipsCHitz continuity constrAIned Normalization**|Yao Ni et.al.|[2404.00521](http://arxiv.org/abs/2404.00521)|**[link](https://github.com/maxwellyaoni/chain)**|
 |**2024-03-30**|**Dependability Evaluation of Stable Diffusion with Soft Errors on the Model Parameters**|Zhen Gao et.al.|[2404.00352](http://arxiv.org/abs/2404.00352)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349](http://arxiv.org/abs/2404.00349)|null|
 |**2024-03-30**|**MaGRITTe: Manipulative and Generative 3D Realization from Image, Topview and Text**|Takayuki Hara et.al.|[2404.00345](http://arxiv.org/abs/2404.00345)|null|
