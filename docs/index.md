@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -23,7 +23,7 @@ layout: default
 |**2024-06-17**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
 |**2024-06-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
 |**2024-06-11**|**RecMoDiffuse: Recurrent Flow Diffusion for Human Motion Generation**|Mirgahney Mohamed et.al.|[2406.07169](http://arxiv.org/abs/2406.07169)|null|
-|**2024-06-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|null|
+|**2024-06-28**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|null|
 |**2024-06-06**|**An investigation of anisotropy in the bubbly turbulent flow via direct numerical simulations**|Xuanwei Zhang et.al.|[2406.04019](http://arxiv.org/abs/2406.04019)|null|
 |**2024-06-13**|**Task and Motion Planning for Execution in the Real**|Tianyang Pan et.al.|[2406.03641](http://arxiv.org/abs/2406.03641)|null|
 |**2024-06-04**|**MoLA: Motion Generation and Editing with Latent Diffusion Enhanced by Adversarial Training**|Kengo Uchida et.al.|[2406.01867](http://arxiv.org/abs/2406.01867)|null|
@@ -552,7 +552,7 @@ layout: default
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
 |**2024-06-28**|**Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs**|Sangwon Jeong et.al.|[2406.19987](http://arxiv.org/abs/2406.19987)|null|
 |**2024-06-28**|**MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance**|Yuang Zhang et.al.|[2406.19680](http://arxiv.org/abs/2406.19680)|null|
-|**2024-06-28**|**PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**|Shufan Li et.al.|[2406.19668](http://arxiv.org/abs/2406.19668)|null|
+|**2024-06-28**|**PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**|Shufan Li et.al.|[2406.19668](http://arxiv.org/abs/2406.19668)|**[link](https://github.com/jacklishufan/popalignsdxl)**|
 |**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589](http://arxiv.org/abs/2406.19589)|null|
 |**2024-06-27**|**Understanding Modality Preferences in Search Clarification**|Leila Tavakoli et.al.|[2406.19546](http://arxiv.org/abs/2406.19546)|null|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
