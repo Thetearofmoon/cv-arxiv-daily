@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Aligning Human Motion Generation with Human Perceptions**|Haoru Wang et.al.|[2407.02272](http://arxiv.org/abs/2407.02272)|null|
 |**2024-06-26**|**Speech2UnifiedExpressions: Synchronous Synthesis of Co-Speech Affective Face and Body Expressions from Affordable Inputs**|Uttaran Bhattacharya et.al.|[2406.18068](http://arxiv.org/abs/2406.18068)|null|
 |**2024-06-25**|**Human-Object Interaction from Human-Level Instructions**|Zhen Wu et.al.|[2406.17840](http://arxiv.org/abs/2406.17840)|null|
 |**2024-06-25**|**Task Adaptation in Industrial Human-Robot Interaction: Leveraging Riemannian Motion Policies**|Mike Allenspach et.al.|[2406.17333](http://arxiv.org/abs/2406.17333)|null|
@@ -223,6 +224,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**From Category to Scenery: An End-to-End Framework for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2407.00917](http://arxiv.org/abs/2407.00917)|null|
+|**2024-06-30**|**Learning Granularity-Aware Affordances from Human-Object Interaction for Tool-Based Functional Grasping in Dexterous Robotics**|Fan Yang et.al.|[2407.00614](http://arxiv.org/abs/2407.00614)|**[link](https://github.com/yangfan293/gaaf-dex)**|
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement**|Chengwen Zhang et.al.|[2406.19353](http://arxiv.org/abs/2406.19353)|**[link](https://github.com/leolyliu/core4d-instructions)**|
 |**2024-06-26**|**Geometric Features Enhanced Human-Object Interaction Detection**|Manli Zhu et.al.|[2406.18691](http://arxiv.org/abs/2406.18691)|**[link](https://github.com/zhumanli/geohoi)**|
@@ -359,6 +362,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Unsupervised Face-Mask Speech Enhancement Using Generative Adversarial Networks with Human-in-the-Loop Assessment Metrics**|Syu-Siang Wang et.al.|[2407.01939](http://arxiv.org/abs/2407.01939)|null|
 |**2024-06-28**|**Orthogonal Constrained Neural Networks for Solving Structured Inverse Eigenvalue Problems**|Shuai Zhang et.al.|[2406.19981](http://arxiv.org/abs/2406.19981)|null|
 |**2024-06-28**|**HarmonICA: Neural non-stationarity correction and source separation for motor neuron interfaces**|Alexander Kenneth Clarke et.al.|[2406.19581](http://arxiv.org/abs/2406.19581)|null|
 |**2024-06-27**|**Empirical Investigation of the Relationship Between Design Smells and Role Stereotypes**|Daniel Ogenrwot et.al.|[2406.19254](http://arxiv.org/abs/2406.19254)|null|
@@ -380,7 +384,7 @@ layout: default
 |**2024-06-11**|**Exploring Traffic Crash Narratives in Jordan Using Text Mining Analytics**|Shadi Jaradat et.al.|[2406.09438](http://arxiv.org/abs/2406.09438)|null|
 |**2024-06-12**|**DDR: Exploiting Deep Degradation Response as Flexible Image Descriptor**|Juncheng Wu et.al.|[2406.08377](http://arxiv.org/abs/2406.08377)|null|
 |**2024-06-12**|**A Comprehensive Survey on Machine Learning Driven Material Defect Detection: Challenges, Solutions, and Future Prospects**|Jun Bai et.al.|[2406.07880](http://arxiv.org/abs/2406.07880)|null|
-|**2024-06-23**|**Back to the Color: Learning Depth to Specific Color Transformation for Unsupervised Depth Estimation**|Yufan Zhu et.al.|[2406.07741](http://arxiv.org/abs/2406.07741)|**[link](https://github.com/BlueEg/back2color)**|
+|**2024-07-03**|**Back to the Color: Learning Depth to Specific Color Transformation for Unsupervised Depth Estimation**|Yufan Zhu et.al.|[2406.07741](http://arxiv.org/abs/2406.07741)|**[link](https://github.com/BlueEg/back2color)**|
 |**2024-06-12**|**Towards Realistic Data Generation for Real-World Super-Resolution**|Long Peng et.al.|[2406.07255](http://arxiv.org/abs/2406.07255)|null|
 |**2024-06-10**|**Quantum Equilibrium Propagation for efficient training of quantum systems based on Onsager reciprocity**|Clara C. Wanjura et.al.|[2406.06482](http://arxiv.org/abs/2406.06482)|null|
 |**2024-06-16**|**RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation**|Kiseung Kim et.al.|[2406.05794](http://arxiv.org/abs/2406.05794)|null|
@@ -549,6 +553,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis**|Dewei Zhou et.al.|[2407.02329](http://arxiv.org/abs/2407.02329)|null|
+|**2024-07-02**|**UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks**|Jingjing Ren et.al.|[2407.02158](http://arxiv.org/abs/2407.02158)|null|
+|**2024-07-02**|**SwiftDiffusion: Efficient Diffusion Model Serving with Add-on Modules**|Suyi Li et.al.|[2407.02031](http://arxiv.org/abs/2407.02031)|null|
+|**2024-07-01**|**Label-free Neural Semantic Image Synthesis**|Jiayi Wang et.al.|[2407.01790](http://arxiv.org/abs/2407.01790)|null|
+|**2024-06-30**|**BADM: Batch ADMM for Deep Learning**|Ouya Wang et.al.|[2407.01640](http://arxiv.org/abs/2407.01640)|null|
+|**2024-06-27**|**On Discrete Prompt Optimization for Diffusion Models**|Ruochen Wang et.al.|[2407.01606](http://arxiv.org/abs/2407.01606)|**[link](https://github.com/ruocwang/dpo-diffusion)**|
+|**2024-06-30**|**InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2407.00788](http://arxiv.org/abs/2407.00788)|null|
+|**2024-06-30**|**Chest-Diffusion: A Light-Weight Text-to-Image Model for Report-to-CXR Generation**|Peng Huang et.al.|[2407.00752](http://arxiv.org/abs/2407.00752)|null|
+|**2024-06-30**|**LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation**|Mushui Liu et.al.|[2407.00737](http://arxiv.org/abs/2407.00737)|null|
+|**2024-06-30**|**Efficient Personalized Text-to-image Generation by Leveraging Textual Subspace**|Shian Du et.al.|[2407.00608](http://arxiv.org/abs/2407.00608)|**[link](https://github.com/studying910/BaTex)**|
+|**2024-06-29**|**Toward a Diffusion-Based Generalist for Dense Vision Tasks**|Yue Fan et.al.|[2407.00503](http://arxiv.org/abs/2407.00503)|null|
+|**2024-06-29**|**The Factuality Tax of Diversity-Intervened Text-to-Image Generation: Benchmark and Fact-Augmented Intervention**|Yixin Wan et.al.|[2407.00377](http://arxiv.org/abs/2407.00377)|null|
+|**2024-06-28**|**Prompt Refinement with Image Pivot for Text-to-Image Generation**|Jingtao Zhan et.al.|[2407.00247](http://arxiv.org/abs/2407.00247)|null|
+|**2024-06-28**|**Analyzing Quality, Bias, and Performance in Text-to-Image Generative Models**|Nila Masrourisaadat et.al.|[2407.00138](http://arxiv.org/abs/2407.00138)|null|
 |**2024-06-28**|**Wavelets Are All You Need for Autoregressive Image Generation**|Wael Mattar et.al.|[2406.19997](http://arxiv.org/abs/2406.19997)|null|
 |**2024-06-28**|**Concept Lens: Visually Analyzing the Consistency of Semantic Manipulation in GANs**|Sangwon Jeong et.al.|[2406.19987](http://arxiv.org/abs/2406.19987)|null|
 |**2024-06-28**|**MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance**|Yuang Zhang et.al.|[2406.19680](http://arxiv.org/abs/2406.19680)|null|
@@ -574,7 +592,7 @@ layout: default
 |**2024-06-24**|**Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation**|Katherine M. Collins et.al.|[2406.16807](http://arxiv.org/abs/2406.16807)|null|
 |**2024-06-24**|**Repulsive Score Distillation for Diverse Sampling of Diffusion Models**|Nicolas Zilberstein et.al.|[2406.16683](http://arxiv.org/abs/2406.16683)|**[link](https://github.com/nzilberstein/Repulsive-score-distillation-RSD-)**|
 |**2024-06-27**|**EVALALIGN: Supervised Fine-Tuning Multimodal LLMs with Human-Aligned Data for Evaluating Text-to-Image Models**|Zhiyu Tan et.al.|[2406.16562](http://arxiv.org/abs/2406.16562)|**[link](https://github.com/sais-fuxi/evalalign)**|
-|**2024-06-28**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|**[link](https://github.com/character-adapter/character-adapter)**|
+|**2024-07-03**|**Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization**|Yuhang Ma et.al.|[2406.16537](http://arxiv.org/abs/2406.16537)|**[link](https://github.com/character-adapter/character-adapter)**|
 |**2024-06-24**|**ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance**|Shuwei Shi et.al.|[2406.16476](http://arxiv.org/abs/2406.16476)|null|
 |**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
 |**2024-06-24**|**Repairing Catastrophic-Neglect in Text-to-Image Diffusion Models via Attention-Guided Feature Enhancement**|Zhiyuan Chang et.al.|[2406.16272](http://arxiv.org/abs/2406.16272)|null|
