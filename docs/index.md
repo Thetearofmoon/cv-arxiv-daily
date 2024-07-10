@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
+|**2024-07-06**|**Learning Velocity-based Humanoid Locomotion: Massively Parallel Learning with Brax and MJX**|William Thibault et.al.|[2407.05148](http://arxiv.org/abs/2407.05148)|null|
 |**2024-07-02**|**Aligning Human Motion Generation with Human Perceptions**|Haoru Wang et.al.|[2407.02272](http://arxiv.org/abs/2407.02272)|**[link](https://github.com/ou524u/AlignHP)**|
 |**2024-06-26**|**Speech2UnifiedExpressions: Synchronous Synthesis of Co-Speech Affective Face and Body Expressions from Affordable Inputs**|Uttaran Bhattacharya et.al.|[2406.18068](http://arxiv.org/abs/2406.18068)|null|
 |**2024-06-25**|**Human-Object Interaction from Human-Level Instructions**|Zhen Wu et.al.|[2406.17840](http://arxiv.org/abs/2406.17840)|null|
@@ -224,6 +226,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680](http://arxiv.org/abs/2407.05680)|**[link](https://github.com/agnjason/fmhr)**|
 |**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689](http://arxiv.org/abs/2407.04689)|**[link](https://github.com/yxKryptonite/RAM_code)**|
 |**2024-07-02**|**HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes**|Zhiming Hu et.al.|[2407.02633](http://arxiv.org/abs/2407.02633)|null|
 |**2024-07-01**|**From Category to Scenery: An End-to-End Framework for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2407.00917](http://arxiv.org/abs/2407.00917)|null|
@@ -364,12 +367,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Kinetic Interacting Particle Langevin Monte Carlo**|Paul Felix Valsecchi Oliva et.al.|[2407.05790](http://arxiv.org/abs/2407.05790)|null|
+|**2024-07-08**|**An accurate detection is not all you need to combat label noise in web-noisy datasets**|Paul Albert et.al.|[2407.05528](http://arxiv.org/abs/2407.05528)|null|
 |**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384](http://arxiv.org/abs/2407.04384)|**[link](https://github.com/genintel/uns-obj-pose3d)**|
 |**2024-07-04**|**Predictive Coding Networks and Inference Learning: Tutorial and Survey**|Björn van Zwol et.al.|[2407.04117](http://arxiv.org/abs/2407.04117)|null|
 |**2024-07-04**|**A fast neural hybrid Newton solver adapted to implicit methods for nonlinear dynamics**|Tianyu Jin et.al.|[2407.03945](http://arxiv.org/abs/2407.03945)|null|
 |**2024-07-04**|**Unsupervised Analysis of Alzheimer's Disease Signatures using 3D Deformable Autoencoders**|Mehmet Yigit Avci et.al.|[2407.03863](http://arxiv.org/abs/2407.03863)|**[link](https://github.com/ci-ber/morphade)**|
 |**2024-07-04**|**Measuring Orthogonality in Representations of Generative Models**|Robin C. Geyer et.al.|[2407.03728](http://arxiv.org/abs/2407.03728)|null|
-|**2024-07-04**|**Reliable Projection Based Unsupervised Learning for Semi-Definite QCQP with Application of Beamforming Optimization**|Xiucheng Wang et.al.|[2407.03668](http://arxiv.org/abs/2407.03668)|null|
+|**2024-07-09**|**Reliable Projection Based Unsupervised Learning for Semi-Definite QCQP with Application of Beamforming Optimization**|Xiucheng Wang et.al.|[2407.03668](http://arxiv.org/abs/2407.03668)|null|
 |**2024-07-04**|**UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**|Yang Xiao et.al.|[2407.03657](http://arxiv.org/abs/2407.03657)|null|
 |**2024-07-01**|**CGRclust: Chaos Game Representation for Twin Contrastive Clustering of Unlabelled DNA Sequences**|Fatemeh Alipour et.al.|[2407.02538](http://arxiv.org/abs/2407.02538)|**[link](https://github.com/fatemehalipour/CGRclust)**|
 |**2024-07-02**|**Unsupervised Face-Mask Speech Enhancement Using Generative Adversarial Networks with Human-in-the-Loop Assessment Metrics**|Syu-Siang Wang et.al.|[2407.01939](http://arxiv.org/abs/2407.01939)|null|
@@ -384,7 +389,7 @@ layout: default
 |**2024-06-19**|**A Systematic Literature Review on the Use of Machine Learning in Software Engineering**|Nyaga Fred et.al.|[2406.13877](http://arxiv.org/abs/2406.13877)|null|
 |**2024-06-19**|**Generative Modeling by Minimizing the Wasserstein-2 Loss**|Yu-Jui Huang et.al.|[2406.13619](http://arxiv.org/abs/2406.13619)|null|
 |**2024-06-06**|**Temporal Complexity of a Hopfield-Type Neural Model in Random and Scale-Free Graphs**|Marco Cafiso et.al.|[2406.12895](http://arxiv.org/abs/2406.12895)|null|
-|**2024-06-17**|**P3GNN: A Privacy-Preserving Provenance Graph-Based Model for APT Detection in Software Defined Networking**|Hedyeh Nazari et.al.|[2406.12003](http://arxiv.org/abs/2406.12003)|null|
+|**2024-07-08**|**P3GNN: A Privacy-Preserving Provenance Graph-Based Model for APT Detection in Software Defined Networking**|Hedyeh Nazari et.al.|[2406.12003](http://arxiv.org/abs/2406.12003)|null|
 |**2024-06-17**|**Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**|Kobi Rahimi et.al.|[2406.11703](http://arxiv.org/abs/2406.11703)|null|
 |**2024-06-17**|**Making Old Things New: A Unified Algorithm for Differentially Private Clustering**|Max Dupré la Tour et.al.|[2406.11649](http://arxiv.org/abs/2406.11649)|null|
 |**2024-06-18**|**BaFTA: Backprop-Free Test-Time Adaptation For Zero-Shot Vision-Language Models**|Xuefeng Hu et.al.|[2406.11309](http://arxiv.org/abs/2406.11309)|null|
@@ -563,6 +568,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
+|**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109](http://arxiv.org/abs/2407.06109)|**[link](https://github.com/labshuhanggu/perldiff)**|
+|**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079](http://arxiv.org/abs/2407.06079)|null|
+|**2024-07-08**|**MMIS: Multimodal Dataset for Interior Scene Visual Generation and Recognition**|Hozaifa Kassab et.al.|[2407.05980](http://arxiv.org/abs/2407.05980)|null|
+|**2024-07-08**|**3D Vessel Graph Generation Using Denoising Diffusion**|Chinmay Prabhakar et.al.|[2407.05842](http://arxiv.org/abs/2407.05842)|**[link](https://github.com/chinmay5/vessel_diffuse)**|
+|**2024-07-08**|**MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**|Jianwen Jiang et.al.|[2407.05712](http://arxiv.org/abs/2407.05712)|null|
+|**2024-07-08**|**GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing**|Zhenyu Wang et.al.|[2407.05600](http://arxiv.org/abs/2407.05600)|null|
+|**2024-07-08**|**Rethinking Image Skip Connections in StyleGAN2**|Seung Park et.al.|[2407.05527](http://arxiv.org/abs/2407.05527)|null|
+|**2024-07-07**|**Diffusion as Sound Propagation: Physics-inspired Model for Ultrasound Image Generation**|Marina Domínguez et.al.|[2407.05428](http://arxiv.org/abs/2407.05428)|**[link](https://github.com/marinadominguez/diffusion-for-us-images)**|
+|**2024-07-07**|**Enhancing Label-efficient Medical Image Segmentation with Text-guided Diffusion Models**|Chun-Mei Feng et.al.|[2407.05323](http://arxiv.org/abs/2407.05323)|null|
+|**2024-07-07**|**Topological Persistence Guided Knowledge Distillation for Wearable Sensor Data**|Eun Som Jeon et.al.|[2407.05315](http://arxiv.org/abs/2407.05315)|null|
+|**2024-07-07**|**An Improved Method for Personalizing Diffusion Models**|Yan Zeng et.al.|[2407.05312](http://arxiv.org/abs/2407.05312)|null|
+|**2024-07-07**|**Multi-scale Conditional Generative Modeling for Microscopic Image Restoration**|Luzhe Huang et.al.|[2407.05259](http://arxiv.org/abs/2407.05259)|null|
+|**2024-07-06**|**A Domain Adaptation Model for Carotid Ultrasound: Image Harmonization, Noise Reduction, and Impact on Cardiovascular Risk Markers**|Mohd Usama et.al.|[2407.05163](http://arxiv.org/abs/2407.05163)|null|
+|**2024-07-05**|**MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?**|Zhaorun Chen et.al.|[2407.04842](http://arxiv.org/abs/2407.04842)|**[link](https://github.com/MJ-Bench/MJ-Bench)**|
+|**2024-07-05**|**NSD-DIL: Null-Shot Deblurring Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2407.04815](http://arxiv.org/abs/2407.04815)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992](http://arxiv.org/abs/2407.03992)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
 |**2024-07-04**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al.|[2407.03961](http://arxiv.org/abs/2407.03961)|**[link](https://github.com/intelligolabs/diag)**|
