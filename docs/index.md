@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -367,6 +367,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Data-driven Bayesian State Estimation with Compressed Measurement of Model-free Process using Semi-supervised Learning**|Anubhab Ghosh et.al.|[2407.07368](http://arxiv.org/abs/2407.07368)|null|
+|**2024-07-09**|**Modularity aided consistent attributed graph clustering via coarsening**|Samarth Bhatia et.al.|[2407.07128](http://arxiv.org/abs/2407.07128)|null|
 |**2024-07-08**|**SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers**|Mingrui Zhao et.al.|[2407.06305](http://arxiv.org/abs/2407.06305)|null|
 |**2024-07-08**|**Unsupervised machine learning for detecting mutual independence among eigenstate regimes in interacting quasiperiodic chains**|Colin Beveridge et.al.|[2407.06253](http://arxiv.org/abs/2407.06253)|null|
 |**2024-07-08**|**Kinetic Interacting Particle Langevin Monte Carlo**|Paul Felix Valsecchi Oliva et.al.|[2407.05790](http://arxiv.org/abs/2407.05790)|null|
@@ -570,12 +572,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**Generative Image as Action Models**|Mohit Shridhar et.al.|[2407.07875](http://arxiv.org/abs/2407.07875)|null|
+|**2024-07-10**|**StoryDiffusion: How to Support UX Storyboarding With Generative-AI**|Zhaohui Liang et.al.|[2407.07672](http://arxiv.org/abs/2407.07672)|null|
+|**2024-07-10**|**Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning**|Chuanpu Li et.al.|[2407.07660](http://arxiv.org/abs/2407.07660)|null|
+|**2024-07-11**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614](http://arxiv.org/abs/2407.07614)|**[link](https://github.com/fusiming3/mars)**|
+|**2024-07-11**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564](http://arxiv.org/abs/2407.07564)|null|
+|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295](http://arxiv.org/abs/2407.07295)|null|
+|**2024-07-09**|**Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion**|Yu Cao et.al.|[2407.07249](http://arxiv.org/abs/2407.07249)|null|
+|**2024-07-09**|**Accelerating Mobile Edge Generation (MEG) by Constrained Learning**|Xiaoxia Xu et.al.|[2407.07245](http://arxiv.org/abs/2407.07245)|null|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
 |**2024-07-09**|**Spanish TrOCR: Leveraging Transfer Learning for Language Adaptation**|Filipe Lauar et.al.|[2407.06950](http://arxiv.org/abs/2407.06950)|null|
 |**2024-07-09**|**HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance**|Guian Fang et.al.|[2407.06937](http://arxiv.org/abs/2407.06937)|**[link](https://github.com/enderfga/humanrefiner)**|
 |**2024-07-09**|**Powerful and Flexible: Personalized Text-to-Image Generation via Reinforcement Learning**|Fanyue Wei et.al.|[2407.06642](http://arxiv.org/abs/2407.06642)|**[link](https://github.com/wfanyue/dpg-t2i-personalization)**|
 |**2024-07-09**|**Sketch-Guided Scene Image Generation**|Tianyu Zhang et.al.|[2407.06469](http://arxiv.org/abs/2407.06469)|null|
-|**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250](http://arxiv.org/abs/2407.06250)|null|
+|**2024-07-08**|**FairDiff: Fair Segmentation with Point-Image Diffusion**|Wenyi Li et.al.|[2407.06250](http://arxiv.org/abs/2407.06250)|**[link](https://github.com/wenyi-li/fairdiff)**|
 |**2024-07-08**|**JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation**|Yu Zeng et.al.|[2407.06187](http://arxiv.org/abs/2407.06187)|null|
 |**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[2407.06109](http://arxiv.org/abs/2407.06109)|**[link](https://github.com/labshuhanggu/perldiff)**|
 |**2024-07-08**|**Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis**|Emaad Khwaja et.al.|[2407.06079](http://arxiv.org/abs/2407.06079)|null|
@@ -594,7 +604,7 @@ layout: default
 |**2024-07-05**|**NSD-DIL: Null-Shot Deblurring Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2407.04815](http://arxiv.org/abs/2407.04815)|null|
 |**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992](http://arxiv.org/abs/2407.03992)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
-|**2024-07-04**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al.|[2407.03961](http://arxiv.org/abs/2407.03961)|**[link](https://github.com/intelligolabs/diag)**|
+|**2024-07-11**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al.|[2407.03961](http://arxiv.org/abs/2407.03961)|**[link](https://github.com/intelligolabs/diag)**|
 |**2024-07-04**|**DiCTI: Diffusion-based Clothing Designer via Text-guided Input**|Ajda Lampe et.al.|[2407.03901](http://arxiv.org/abs/2407.03901)|null|
 |**2024-07-04**|**Lateralization LoRA: Interleaved Instruction Tuning with Modality-Specialized Adaptations**|Zhiyang Xu et.al.|[2407.03604](http://arxiv.org/abs/2407.03604)|null|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314](http://arxiv.org/abs/2407.03314)|null|
