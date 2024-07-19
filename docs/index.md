@@ -644,7 +644,7 @@ layout: default
 |**2024-07-10**|**Boosting Medical Image Synthesis via Registration-guided Consistency and Disentanglement Learning**|Chuanpu Li et.al.|[2407.07660](http://arxiv.org/abs/2407.07660)|null|
 |**2024-07-11**|**MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis**|Wanggui He et.al.|[2407.07614](http://arxiv.org/abs/2407.07614)|**[link](https://github.com/fusiming3/mars)**|
 |**2024-07-11**|**Trainable Highly-expressive Activation Functions**|Irit Chelly et.al.|[2407.07564](http://arxiv.org/abs/2407.07564)|**[link](https://github.com/bgu-cs-vil/ditac)**|
-|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295](http://arxiv.org/abs/2407.07295)|null|
+|**2024-07-10**|**Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis**|Jian-Qing Zheng et.al.|[2407.07295](http://arxiv.org/abs/2407.07295)|**[link](https://github.com/jianqingzheng/def_diff_rec)**|
 |**2024-07-09**|**Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion**|Yu Cao et.al.|[2407.07249](http://arxiv.org/abs/2407.07249)|null|
 |**2024-07-09**|**Accelerating Mobile Edge Generation (MEG) by Constrained Learning**|Xiaoxia Xu et.al.|[2407.07245](http://arxiv.org/abs/2407.07245)|null|
 |**2024-07-09**|**ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction**|Shaozhe Hao et.al.|[2407.07077](http://arxiv.org/abs/2407.07077)|**[link](https://github.com/haoosz/conceptexpress)**|
@@ -1177,7 +1177,7 @@ layout: default
 |**2024-04-09**|**High Noise Scheduling is a Must**|Mahmut S. Gokmen et.al.|[2404.06353](http://arxiv.org/abs/2404.06353)|null|
 |**2024-04-09**|**Hyperparameter-Free Medical Image Synthesis for Sharing Data and Improving Site-Specific Segmentation**|Alexander Chebykin et.al.|[2404.06240](http://arxiv.org/abs/2404.06240)|**[link](https://github.com/awesomelemon/hyfree-s3)**|
 |**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|**[link](https://github.com/nicecv/diffharmony)**|
-|**2024-04-13**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980](http://arxiv.org/abs/2404.05980)|null|
+|**2024-04-13**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980](http://arxiv.org/abs/2404.05980)|**[link](https://github.com/edshkim98/localdiffusion-hallucination)**|
 |**2024-04-09**|**StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion**|Ming Tao et.al.|[2404.05979](http://arxiv.org/abs/2404.05979)|**[link](https://github.com/tobran/storyimager)**|
 |**2024-04-08**|**SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing**|Jing Gu et.al.|[2404.05717](http://arxiv.org/abs/2404.05717)|null|
 |**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|**[link](https://github.com/bytedance/MoMA)**|
@@ -1215,7 +1215,7 @@ layout: default
 |**2024-04-03**|**On the Scalability of Diffusion-based Text-to-Image Generation**|Hao Li et.al.|[2404.02883](http://arxiv.org/abs/2404.02883)|null|
 |**2024-04-03**|**MULAN: A Multi Layer Annotated Dataset for Controllable Text-to-Image Generation**|Petru-Daniel Tudosiu et.al.|[2404.02790](http://arxiv.org/abs/2404.02790)|null|
 |**2024-04-04**|**InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation**|Haofan Wang et.al.|[2404.02733](http://arxiv.org/abs/2404.02733)|**[link](https://github.com/instantstyle/instantstyle)**|
-|**2024-04-03**|**Model-agnostic Origin Attribution of Generated Images with Few-shot Examples**|Fengyuan Liu et.al.|[2404.02697](http://arxiv.org/abs/2404.02697)|null|
+|**2024-04-03**|**Model-agnostic Origin Attribution of Generated Images with Few-shot Examples**|Fengyuan Liu et.al.|[2404.02697](http://arxiv.org/abs/2404.02697)|**[link](https://github.com/uwFengyuan/OCC-CLIP)**|
 |**2024-04-03**|**Severity Controlled Text-to-Image Generative Model Bias Manipulation**|Jordan Vice et.al.|[2404.02530](http://arxiv.org/abs/2404.02530)|null|
 |**2024-04-02**|**Diffusion $^2$ : Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models**|Zeyu Yang et.al.|[2404.02148](http://arxiv.org/abs/2404.02148)|**[link](https://github.com/fudan-zvg/diffusion-square)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125](http://arxiv.org/abs/2404.02125)|null|
