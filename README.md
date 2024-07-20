@@ -1338,7 +1338,7 @@
 |**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|null|
 |**2024-03-19**|**Generative Enhancement for 3D Medical Images**|Lingting Zhu et.al.|[2403.12852](http://arxiv.org/abs/2403.12852)|**[link](https://github.com/hku-medai/gem-3d)**|
 |**2024-03-19**|**Towards Controllable Face Generation with Semantic Latent Diffusion Models**|Alex Ergasti et.al.|[2403.12743](http://arxiv.org/abs/2403.12743)|**[link](https://github.com/ergastialex/ldm-diffusion-sem)**|
-|**2024-03-19**|**Tuning-Free Image Customization with Image and Text Guidance**|Pengzhi Li et.al.|[2403.12658](http://arxiv.org/abs/2403.12658)|null|
+|**2024-03-19**|**Tuning-Free Image Customization with Image and Text Guidance**|Pengzhi Li et.al.|[2403.12658](http://arxiv.org/abs/2403.12658)|**[link](https://github.com/zrealli/TIGIC)**|
 |**2024-03-18**|**ThermoNeRF: Multimodal Neural Radiance Fields for Thermal Novel View Synthesis**|Mariam Hassan et.al.|[2403.12154](http://arxiv.org/abs/2403.12154)|**[link](https://github.com/schindlerepfl/thermo-nerf)**|
 |**2024-03-19**|**Generic 3D Diffusion Adapter Using Controlled Multi-View Editing**|Hansheng Chen et.al.|[2403.12032](http://arxiv.org/abs/2403.12032)|**[link](https://github.com/Lakonik/MVEdit)**|
 |**2024-03-18**|**Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2403.12015](http://arxiv.org/abs/2403.12015)|null|
@@ -1355,7 +1355,7 @@
 |**2024-03-14**|**Machine Learning Processes as Sources of Ambiguity: Insights from AI Art**|Christian Sivertsen et.al.|[2403.09374](http://arxiv.org/abs/2403.09374)|null|
 |**2024-03-14**|**StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control**|Jaerin Lee et.al.|[2403.09055](http://arxiv.org/abs/2403.09055)|**[link](https://github.com/ironjr/streammultidiffusion)**|
 |**2024-03-13**|**An Analysis of Human Alignment of Latent Diffusion Models**|Lorenz Linhardt et.al.|[2403.08469](http://arxiv.org/abs/2403.08469)|null|
-|**2024-03-13**|**Generating Synthetic Computed Tomography for Radiotherapy: SynthRAD2023 Challenge Report**|Evi M. C. Huijben et.al.|[2403.08447](http://arxiv.org/abs/2403.08447)|null|
+|**2024-03-13**|**Generating Synthetic Computed Tomography for Radiotherapy: SynthRAD2023 Challenge Report**|Evi M. C. Huijben et.al.|[2403.08447](http://arxiv.org/abs/2403.08447)|**[link](https://github.com/synthrad2023/preprocessing)**|
 |**2024-03-13**|**Iterative Online Image Synthesis via Diffusion Model for Imbalanced Classification**|Shuhan Li et.al.|[2403.08407](http://arxiv.org/abs/2403.08407)|null|
 |**2024-03-13**|**VIGFace: Virtual Identity Generation Model for Face Image Synthesis**|Minsoo Kim et.al.|[2403.08277](http://arxiv.org/abs/2403.08277)|null|
 |**2024-03-18**|**BraSyn 2023 challenge: Missing MRI synthesis and the effect of different learning objectives**|Ivo M. Baltruschat et.al.|[2403.07800](http://arxiv.org/abs/2403.07800)|null|
