@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models**|Seunggeun Chi et.al.|[2407.14502](http://arxiv.org/abs/2407.14502)|null|
 |**2024-07-18**|**The Effects of Selected Object Features on a Pick-and-Place Task: a Human Multimodal Dataset**|Linda Lastrico et.al.|[2407.13425](http://arxiv.org/abs/2407.13425)|null|
 |**2024-07-18**|**Dual-arm Motion Generation for Repositioning Care based on Deep Predictive Learning with Somatosensory Attention Mechanism**|Tamon Miyake et.al.|[2407.13376](http://arxiv.org/abs/2407.13376)|null|
 |**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783](http://arxiv.org/abs/2407.12783)|null|
@@ -237,6 +238,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Kinematics-based 3D Human-Object Interaction Reconstruction from Single View**|Yuhang Chen et.al.|[2407.14043](http://arxiv.org/abs/2407.14043)|null|
 |**2024-07-17**|**F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions**|Jie Yang et.al.|[2407.12435](http://arxiv.org/abs/2407.12435)|null|
 |**2024-07-17**|**HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects**|Xintao Lv et.al.|[2407.12371](http://arxiv.org/abs/2407.12371)|null|
 |**2024-07-16**|**CycleHOI: Improving Human-Object Interaction Detection with Cycle Consistency of Detection and Generation**|Yisen Wang et.al.|[2407.11433](http://arxiv.org/abs/2407.11433)|null|
@@ -268,7 +270,7 @@ layout: default
 |**2024-07-16**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612](http://arxiv.org/abs/2403.15612)|**[link](https://github.com/sisidai/InterFusion)**|
 |**2024-03-17**|**FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction**|Xiaohan Zhang et.al.|[2403.11237](http://arxiv.org/abs/2403.11237)|null|
 |**2024-03-17**|**THOR: Text to Human-Object Interaction Diffusion via Relation Intervention**|Qianyang Wu et.al.|[2403.11208](http://arxiv.org/abs/2403.11208)|null|
-|**2024-03-15**|**Enhancing Human-Centered Dynamic Scene Understanding via Multiple LLMs Collaborated Reasoning**|Hang Zhang et.al.|[2403.10107](http://arxiv.org/abs/2403.10107)|null|
+|**2024-07-19**|**Enhancing Human-Centered Dynamic Scene Understanding via Multiple LLMs Collaborated Reasoning**|Hang Zhang et.al.|[2403.10107](http://arxiv.org/abs/2403.10107)|null|
 |**2024-03-12**|**Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration**|Weiying Xue et.al.|[2403.07246](http://arxiv.org/abs/2403.07246)|null|
 |**2024-03-10**|**Test-time Distribution Learning Adapter for Cross-modal Visual Reasoning**|Yi Zhang et.al.|[2403.06059](http://arxiv.org/abs/2403.06059)|null|
 |**2024-03-04**|**FreeA: Human-object Interaction Detection using Free Annotation Labels**|Yuxiao Wang et.al.|[2403.01840](http://arxiv.org/abs/2403.01840)|null|
@@ -412,7 +414,7 @@ layout: default
 |**2024-06-21**|**Unsupervised Bayesian Generation of Synthetic CT from CBCT Using Patient-Specific Score-Based Prior**|Junbo Peng et.al.|[2406.15219](http://arxiv.org/abs/2406.15219)|null|
 |**2024-06-19**|**A Systematic Literature Review on the Use of Machine Learning in Software Engineering**|Nyaga Fred et.al.|[2406.13877](http://arxiv.org/abs/2406.13877)|null|
 |**2024-07-14**|**Generative Modeling by Minimizing the Wasserstein-2 Loss**|Yu-Jui Huang et.al.|[2406.13619](http://arxiv.org/abs/2406.13619)|null|
-|**2024-06-06**|**Temporal Complexity of a Hopfield-Type Neural Model in Random and Scale-Free Graphs**|Marco Cafiso et.al.|[2406.12895](http://arxiv.org/abs/2406.12895)|null|
+|**2024-07-19**|**Temporal Complexity of a Hopfield-Type Neural Model in Random and Scale-Free Graphs**|Marco Cafiso et.al.|[2406.12895](http://arxiv.org/abs/2406.12895)|null|
 |**2024-07-08**|**P3GNN: A Privacy-Preserving Provenance Graph-Based Model for APT Detection in Software Defined Networking**|Hedyeh Nazari et.al.|[2406.12003](http://arxiv.org/abs/2406.12003)|null|
 |**2024-06-17**|**Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**|Kobi Rahimi et.al.|[2406.11703](http://arxiv.org/abs/2406.11703)|null|
 |**2024-06-17**|**Making Old Things New: A Unified Algorithm for Differentially Private Clustering**|Max Dupré la Tour et.al.|[2406.11649](http://arxiv.org/abs/2406.11649)|null|
@@ -592,12 +594,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**|Hyun-Jic Oh et.al.|[2407.14426](http://arxiv.org/abs/2407.14426)|null|
+|**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367](http://arxiv.org/abs/2407.14367)|null|
+|**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
+|**2024-07-19**|**Time Series Generative Learning with Application to Brain Imaging Analysis**|Zhenghao Li et.al.|[2407.14003](http://arxiv.org/abs/2407.14003)|null|
 |**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
 |**2024-07-18**|**Training-free Composite Scene Generation for Layout-to-Image Synthesis**|Jiaqi Liu et.al.|[2407.13609](http://arxiv.org/abs/2407.13609)|null|
 |**2024-07-18**|**URCDM: Ultra-Resolution Image Synthesis in Histopathology**|Sarah Cechnicka et.al.|[2407.13277](http://arxiv.org/abs/2407.13277)|null|
-|**2024-07-18**|**Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**|Zhiyuan Ma et.al.|[2407.13188](http://arxiv.org/abs/2407.13188)|null|
+|**2024-07-19**|**Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**|Zhiyuan Ma et.al.|[2407.13188](http://arxiv.org/abs/2407.13188)|null|
 |**2024-07-18**|**Image Inpainting Models are Effective Tools for Instruction-guided Image Editing**|Xuan Ju et.al.|[2407.13139](http://arxiv.org/abs/2407.13139)|null|
-|**2024-07-17**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
+|**2024-07-19**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
 |**2024-07-17**|**Denoising Diffusions in Latent Space for Medical Image Segmentation**|Fahim Ahmed Zaman et.al.|[2407.12952](http://arxiv.org/abs/2407.12952)|null|
 |**2024-07-17**|**GeoGuide: Geometric guidance of diffusion models**|Mateusz Poleski et.al.|[2407.12889](http://arxiv.org/abs/2407.12889)|**[link](https://github.com/mateuszpoleski/geoguide)**|
 |**2024-07-17**|**IMAGDressing-v1: Customizable Virtual Dressing**|Fei Shen et.al.|[2407.12705](http://arxiv.org/abs/2407.12705)|**[link](https://github.com/muzishen/imagdressing)**|
