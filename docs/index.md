@@ -109,7 +109,7 @@ layout: default
 |**2024-03-20**|**LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**|Shu Wang et.al.|[2403.11552](http://arxiv.org/abs/2403.11552)|**[link](https://github.com/assassinws/llm-tamp)**|
 |**2024-03-17**|**Learning-Based Wiping Behavior of Low-Rigidity Robots Considering Various Surface Materials and Task Definitions**|Kento Kawaharazuka et.al.|[2403.11198](http://arxiv.org/abs/2403.11198)|null|
 |**2024-03-14**|**LM2D: Lyrics- and Music-Driven Dance Synthesis**|Wenjie Yin et.al.|[2403.09407](http://arxiv.org/abs/2403.09407)|null|
-|**2024-03-27**|**Dyadic Interaction Modeling for Social Behavior Generation**|Minh Tran et.al.|[2403.09069](http://arxiv.org/abs/2403.09069)|null|
+|**2024-03-27**|**Dyadic Interaction Modeling for Social Behavior Generation**|Minh Tran et.al.|[2403.09069](http://arxiv.org/abs/2403.09069)|**[link](https://github.com/boese0601/dyadic-interaction-modeling)**|
 |**2024-03-19**|**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**|Zeyu Zhang et.al.|[2403.07487](http://arxiv.org/abs/2403.07487)|**[link](https://github.com/steve-zeyu-zhang/MotionMamba)**|
 |**2024-03-12**|**Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style**|Shuai Tan et.al.|[2403.06365](http://arxiv.org/abs/2403.06365)|null|
 |**2024-03-09**|**Enhancing Expressiveness in Dance Generation via Integrating Frequency and Music Style Information**|Qiaochu Huang et.al.|[2403.05834](http://arxiv.org/abs/2403.05834)|**[link](https://github.com/thuhcsi/expressivebailando)**|
@@ -715,10 +715,10 @@ layout: default
 |**2024-06-28**|**MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance**|Yuang Zhang et.al.|[2406.19680](http://arxiv.org/abs/2406.19680)|null|
 |**2024-06-28**|**PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**|Shufan Li et.al.|[2406.19668](http://arxiv.org/abs/2406.19668)|**[link](https://github.com/jacklishufan/popalignsdxl)**|
 |**2024-06-28**|**Network Bending of Diffusion Models for Audio-Visual Generation**|Luke Dzwonczyk et.al.|[2406.19589](http://arxiv.org/abs/2406.19589)|**[link](https://github.com/dzluke/DAFX2024)**|
-|**2024-07-04**|**Understanding Modality Preferences in Search Clarification**|Leila Tavakoli et.al.|[2406.19546](http://arxiv.org/abs/2406.19546)|null|
+|**2024-07-04**|**Understanding Modality Preferences in Search Clarification**|Leila Tavakoli et.al.|[2406.19546](http://arxiv.org/abs/2406.19546)|**[link](https://github.com/leila-ta/mimics-mm)**|
 |**2024-06-27**|**Using diffusion model as constraint: Empower Image Restoration Network Training with Diffusion Model**|Jiangtong Tan et.al.|[2406.19030](http://arxiv.org/abs/2406.19030)|null|
 |**2024-06-27**|**Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis**|Vu Minh Hieu Phan et.al.|[2406.18967](http://arxiv.org/abs/2406.18967)|**[link](https://github.com/hieuphan33/miccai2024-unest)**|
-|**2024-06-28**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958](http://arxiv.org/abs/2406.18958)|null|
+|**2024-06-28**|**AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation**|Yanan Sun et.al.|[2406.18958](http://arxiv.org/abs/2406.18958)|**[link](https://github.com/open-mmlab/anycontrol)**|
 |**2024-06-27**|**CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation**|Zuo Zuo et.al.|[2406.18941](http://arxiv.org/abs/2406.18941)|null|
 |**2024-06-26**|**MUMU: Bootstrapping Multimodal Image Generation from Text-to-Image Data**|William Berman et.al.|[2406.18790](http://arxiv.org/abs/2406.18790)|null|
 |**2024-06-26**|**MultiDiff: Consistent Novel View Synthesis from a Single Image**|Norman Müller et.al.|[2406.18524](http://arxiv.org/abs/2406.18524)|null|
@@ -1105,7 +1105,7 @@ layout: default
 |**2024-04-24**|**DeepFeatureX Net: Deep Features eXtractors based Network for discriminating synthetic from real images**|Orazio Pontorno et.al.|[2404.15697](http://arxiv.org/abs/2404.15697)|**[link](https://github.com/opontorno/block-based_deepfake-detection)**|
 |**2024-04-23**|**ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning**|Weifeng Chen et.al.|[2404.15449](http://arxiv.org/abs/2404.15449)|null|
 |**2024-04-23**|**GLoD: Composing Global Contexts and Local Details in Image Generation**|Moyuru Yamada et.al.|[2404.15447](http://arxiv.org/abs/2404.15447)|null|
-|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|null|
+|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267](http://arxiv.org/abs/2404.15267)|**[link](https://github.com/huanngzh/Parts2Whole)**|
 |**2024-04-23**|**Adaptive Mixed-Scale Feature Fusion Network for Blind AI-Generated Image Quality Assessment**|Tianwei Zhou et.al.|[2404.15163](http://arxiv.org/abs/2404.15163)|null|
 |**2024-04-23**|**Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation**|Xun Wu et.al.|[2404.15100](http://arxiv.org/abs/2404.15100)|null|
 |**2024-04-23**|**SkinGEN: an Explainable Dermatology Diagnosis-to-Generation Framework with Interactive Vision-Language Models**|Bo Lin et.al.|[2404.14755](http://arxiv.org/abs/2404.14755)|null|
