@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Chronologically Accurate Retrieval for Temporal Grounding of Motion-Language Models**|Kent Fujiwara et.al.|[2407.15408](http://arxiv.org/abs/2407.15408)|null|
 |**2024-07-19**|**M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models**|Seunggeun Chi et.al.|[2407.14502](http://arxiv.org/abs/2407.14502)|null|
 |**2024-07-18**|**The Effects of Selected Object Features on a Pick-and-Place Task: a Human Multimodal Dataset**|Linda Lastrico et.al.|[2407.13425](http://arxiv.org/abs/2407.13425)|null|
 |**2024-07-18**|**Dual-arm Motion Generation for Repositioning Care based on Deep Predictive Learning with Somatosensory Attention Mechanism**|Tamon Miyake et.al.|[2407.13376](http://arxiv.org/abs/2407.13376)|null|
@@ -167,7 +168,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -186,11 +187,11 @@
 |**2024-04-19**|**MCM: Multi-condition Motion Synthesis Framework**|Zeyu Ling et.al.|[2404.12886](http://arxiv.org/abs/2404.12886)|null|
 |**2024-03-29**|**CT respiratory motion synthesis using joint supervised and adversarial learning**|Yi-Heng Cao et.al.|[2404.00163](http://arxiv.org/abs/2404.00163)|null|
 |**2024-03-28**|**OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion**|Xinyu Zhan et.al.|[2403.19417](http://arxiv.org/abs/2403.19417)|null|
-|**2024-03-27**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
+|**2024-07-23**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
 |**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
 |**2024-03-21**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|**[link](https://github.com/library87/OpenRoboExp)**|
-|**2024-03-18**|**Generative Motion Stylization within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
+|**2024-07-23**|**Generative Motion Stylization of Cross-structure Characters within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
 |**2024-05-24**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
 |**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
 |**2024-06-10**|**Self-Correcting Self-Consuming Loops for Generative Model Training**|Nate Gillman et.al.|[2402.07087](http://arxiv.org/abs/2402.07087)|**[link](https://github.com/nate-gillman/self-correcting-self-consuming)**|
@@ -244,7 +245,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## HOI
 
@@ -258,7 +259,7 @@
 |**2024-07-09**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680](http://arxiv.org/abs/2407.05680)|**[link](https://github.com/agnjason/fmhr)**|
 |**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689](http://arxiv.org/abs/2407.04689)|**[link](https://github.com/yxKryptonite/RAM_code)**|
 |**2024-07-02**|**HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes**|Zhiming Hu et.al.|[2407.02633](http://arxiv.org/abs/2407.02633)|null|
-|**2024-07-01**|**From Category to Scenery: An End-to-End Framework for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2407.00917](http://arxiv.org/abs/2407.00917)|null|
+|**2024-07-23**|**From Category to Scenery: An End-to-End Framework for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2407.00917](http://arxiv.org/abs/2407.00917)|null|
 |**2024-06-30**|**Learning Granularity-Aware Affordances from Human-Object Interaction for Tool-Based Functional Grasping in Dexterous Robotics**|Fan Yang et.al.|[2407.00614](http://arxiv.org/abs/2407.00614)|**[link](https://github.com/yangfan293/gaaf-dex)**|
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement**|Chengwen Zhang et.al.|[2406.19353](http://arxiv.org/abs/2406.19353)|**[link](https://github.com/leolyliu/core4d-instructions)**|
@@ -286,7 +287,7 @@
 |**2024-03-12**|**Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration**|Weiying Xue et.al.|[2403.07246](http://arxiv.org/abs/2403.07246)|null|
 |**2024-03-10**|**Test-time Distribution Learning Adapter for Cross-modal Visual Reasoning**|Yi Zhang et.al.|[2403.06059](http://arxiv.org/abs/2403.06059)|null|
 |**2024-03-04**|**FreeA: Human-object Interaction Detection using Free Annotation Labels**|Yuxiao Wang et.al.|[2403.01840](http://arxiv.org/abs/2403.01840)|null|
-|**2024-01-24**|**Zero-Shot Learning for the Primitives of 3D Affordance in General Objects**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
+|**2024-07-23**|**Beyond the Contact: Discovering Comprehensive Affordance for 3D Objects from Pre-trained 2D Diffusion Models**|Hyeonwoo Kim et.al.|[2401.12978](http://arxiv.org/abs/2401.12978)|null|
 |**2024-01-18**|**ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions**|Jeonghwan Kim et.al.|[2401.10232](http://arxiv.org/abs/2401.10232)|null|
 |**2024-04-17**|**AffordanceLLM: Grounding Affordance from Vision Language Models**|Shengyi Qian et.al.|[2401.06341](http://arxiv.org/abs/2401.06341)|null|
 |**2024-01-11**|**Exploring Self- and Cross-Triplet Correlations for Human-Object Interaction Detection**|Weibo Jiang et.al.|[2401.05676](http://arxiv.org/abs/2401.05676)|null|
@@ -335,7 +336,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## LOMC
 
@@ -394,12 +395,17 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Adaptive Extensions of Unbiased Risk Estimators for Unsupervised Magnetic Resonance Image Denoising**|Reeshad Khan et.al.|[2407.15799](http://arxiv.org/abs/2407.15799)|null|
+|**2024-07-22**|**Unsupervised Mastoidectomy for Cochlear CT Mesh Reconstruction Using Highly Noisy Data**|Yike Zhang et.al.|[2407.15787](http://arxiv.org/abs/2407.15787)|null|
+|**2024-07-22**|**Semi-Supervised Learning for Anomaly Detection in Blockchain-based Supply Chains**|Do Hai Son et.al.|[2407.15603](http://arxiv.org/abs/2407.15603)|**[link](https://github.com/DoHaiSon/DAE-MLP)**|
+|**2024-07-22**|**GraphScale: A Framework to Enable Machine Learning over Billion-node Graphs**|Vipul Gupta et.al.|[2407.15452](http://arxiv.org/abs/2407.15452)|null|
+|**2024-07-23**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351](http://arxiv.org/abs/2407.15351)|null|
 |**2024-07-17**|**Jigsaw Game: Federated Clustering**|Jinxuan Xu et.al.|[2407.12764](http://arxiv.org/abs/2407.12764)|null|
 |**2024-07-15**|**Almost-linear Time Approximation Algorithm to Euclidean $k$-median and $k$ -means**|Max Dupré la Tour et.al.|[2407.11217](http://arxiv.org/abs/2407.11217)|null|
 |**2024-07-13**|**PSO Fuzzy XGBoost Classifier Boosted with Neural Gas Features on EEG Signals in Emotion Recognition**|Seyed Muhammad Hossein Mousavi et.al.|[2407.09950](http://arxiv.org/abs/2407.09950)|null|
@@ -606,12 +612,30 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design**|Zhi Hao Luo et.al.|[2407.15723](http://arxiv.org/abs/2407.15723)|**[link](https://github.com/plstory/ds2d)**|
+|**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
+|**2024-07-22**|**TextureCrop: Enhancing Synthetic Image Detection through Texture-based Cropping**|Despina Konstantinidou et.al.|[2407.15500](http://arxiv.org/abs/2407.15500)|null|
+|**2024-07-22**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488](http://arxiv.org/abs/2407.15488)|**[link](https://github.com/zeyuwang-zju/diffx)**|
+|**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446](http://arxiv.org/abs/2407.15446)|null|
+|**2024-07-21**|**MedEdit: Counterfactual Diffusion-based Image Editing on Brain MRI**|Malek Ben Alaya et.al.|[2407.15270](http://arxiv.org/abs/2407.15270)|null|
+|**2024-07-23**|**BIGbench: A Unified Benchmark for Social Bias in Text-to-Image Generative Models Based on Multi-modal LLM**|Hanjun Luo et.al.|[2407.15240](http://arxiv.org/abs/2407.15240)|null|
+|**2024-07-21**|**Variational Potential Flow: A Novel Probabilistic Framework for Energy-Based Generative Modelling**|Junn Yong Loo et.al.|[2407.15238](http://arxiv.org/abs/2407.15238)|null|
+|**2024-07-21**|**The VEP Booster: A Closed-Loop AI System for Visual EEG Biomarker Auto-generation**|Junwen Luo et.al.|[2407.15167](http://arxiv.org/abs/2407.15167)|null|
+|**2024-07-21**|**Distilling Vision-Language Foundation Models: A Data-Free Approach via Prompt Diversification**|Yunyi Xuan et.al.|[2407.15155](http://arxiv.org/abs/2407.15155)|null|
+|**2024-07-21**|**LSReGen: Large-Scale Regional Generator via Backward Guidance Framework**|Bowen Zhang et.al.|[2407.15066](http://arxiv.org/abs/2407.15066)|null|
+|**2024-07-20**|**GreenStableYolo: Optimizing Inference Time and Image Quality of Text-to-Image Generation**|Jingzhi Gong et.al.|[2407.14982](http://arxiv.org/abs/2407.14982)|**[link](https://github.com/gjz78910/greenstableyolo)**|
+|**2024-07-20**|**CoCoG-2: Controllable generation of visual stimuli for understanding human concept representation**|Chen Wei et.al.|[2407.14949](http://arxiv.org/abs/2407.14949)|null|
+|**2024-07-20**|**EidetiCom: A Cross-modal Brain-Computer Semantic Communication Paradigm for Decoding Visual Perception**|Linfeng Zheng et.al.|[2407.14936](http://arxiv.org/abs/2407.14936)|null|
+|**2024-07-20**|**Latent Pollution Model: The Hidden Carbon Footprint in 3D Image Synthesis**|Marvin Seyfarth et.al.|[2407.14892](http://arxiv.org/abs/2407.14892)|null|
+|**2024-07-20**|**Do Generative AI Models Output Harm while Representing Non-Western Cultures: Evidence from A Community-Centered Approach**|Sourojit Ghosh et.al.|[2407.14779](http://arxiv.org/abs/2407.14779)|null|
+|**2024-07-20**|**$\infty$ -Brush: Controllable Large Image Synthesis with Diffusion Models in Infinite Dimensions**|Minh-Quan Le et.al.|[2407.14709](http://arxiv.org/abs/2407.14709)|null|
+|**2024-07-23**|**Are handcrafted filters helpful for attributing AI-generated images?**|Jialiang Li et.al.|[2407.14570](http://arxiv.org/abs/2407.14570)|null|
 |**2024-07-19**|**Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**|Hyun-Jic Oh et.al.|[2407.14426](http://arxiv.org/abs/2407.14426)|null|
 |**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367](http://arxiv.org/abs/2407.14367)|null|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
@@ -638,7 +662,7 @@
 |**2024-07-16**|**Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**|Dominik Winter et.al.|[2407.11664](http://arxiv.org/abs/2407.11664)|null|
 |**2024-07-16**|**Scaling Diffusion Transformers to 16 Billion Parameters**|Zhengcong Fei et.al.|[2407.11633](http://arxiv.org/abs/2407.11633)|**[link](https://github.com/feizc/dit-moe)**|
 |**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594](http://arxiv.org/abs/2407.11594)|null|
-|**2024-07-21**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502](http://arxiv.org/abs/2407.11502)|**[link](https://github.com/huggingface/diffusers)**|
+|**2024-07-21**|**How Control Information Influences Multilingual Text Image Generation and Editing?**|Boqiang Zhang et.al.|[2407.11502](http://arxiv.org/abs/2407.11502)|**[link](https://github.com/cyrilsterling/textgen)**|
 |**2024-07-16**|**AIGC for Industrial Time Series: From Deep Generative Models to Large Generative Models**|Lei Ren et.al.|[2407.11480](http://arxiv.org/abs/2407.11480)|null|
 |**2024-07-16**|**Cover-separable Fixed Neural Network Steganography via Deep Generative Models**|Guobiao Li et.al.|[2407.11405](http://arxiv.org/abs/2407.11405)|**[link](https://github.com/albblgb/cs-fnns)**|
 |**2024-07-16**|**Flatfish Disease Detection Based on Part Segmentation Approach and Disease Image Generation**|Seo-Bin Hwang et.al.|[2407.11348](http://arxiv.org/abs/2407.11348)|null|
@@ -1377,7 +1401,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
