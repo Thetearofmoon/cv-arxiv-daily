@@ -569,7 +569,7 @@
 |**2024-03-21**|**Unsupervised Audio-Visual Segmentation with Modality Alignment**|Swapnil Bhosale et.al.|[2403.14203](http://arxiv.org/abs/2403.14203)|null|
 |**2024-03-27**|**Unsupervised and lightly supervised learning in particle physics**|Jai Bardhan et.al.|[2403.13676](http://arxiv.org/abs/2403.13676)|null|
 |**2024-04-04**|**Hybrid Unsupervised Learning Strategy for Monitoring Industrial Batch Processes**|Christian W. Frey et.al.|[2403.13032](http://arxiv.org/abs/2403.13032)|null|
-|**2024-03-18**|**Unsupervised End-to-End Training with a Self-Defined Bio-Inspired Target**|Dongshu Liu et.al.|[2403.12116](http://arxiv.org/abs/2403.12116)|null|
+|**2024-03-18**|**Unsupervised End-to-End Training with a Self-Defined Bio-Inspired Target**|Dongshu Liu et.al.|[2403.12116](http://arxiv.org/abs/2403.12116)|**[link](https://github.com/neurophysics-cnrsthales/unsupervised-target)**|
 |**2024-03-18**|**DynoSurf: Neural Deformation-based Temporally Consistent Dynamic Surface Reconstruction**|Yuxin Yao et.al.|[2403.11586](http://arxiv.org/abs/2403.11586)|**[link](https://github.com/yaoyx689/dynosurf)**|
 |**2024-03-17**|**Neural-network density functional theory**|Yang Li et.al.|[2403.11287](http://arxiv.org/abs/2403.11287)|null|
 |**2024-03-17**|**A Dynamically Weighted Loss Function for Unsupervised Image Segmentation**|Boujemaa Guermazi et.al.|[2403.11266](http://arxiv.org/abs/2403.11266)|null|
