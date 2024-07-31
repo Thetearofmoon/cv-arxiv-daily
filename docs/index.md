@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.30
+## Updated on 2024.07.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -193,7 +193,7 @@ layout: default
 |**2023-12-02**|**AAMDM: Accelerated Auto-regressive Motion Diffusion Model**|Tianyu Li et.al.|[2401.06146](http://arxiv.org/abs/2401.06146)|null|
 |**2024-01-06**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142](http://arxiv.org/abs/2401.02142)|**[link](https://github.com/xuehao-gao/guess)**|
 |**2023-12-22**|**MACS: Mass Conditioned 3D Hand and Object Motion Synthesis**|Soshi Shimada et.al.|[2312.14929](http://arxiv.org/abs/2312.14929)|null|
-|**2023-12-21**|**Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos**|Keqiang Sun et.al.|[2312.13604](http://arxiv.org/abs/2312.13604)|null|
+|**2024-07-30**|**Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos**|Keqiang Sun et.al.|[2312.13604](http://arxiv.org/abs/2312.13604)|null|
 |**2023-12-18**|**Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model**|Zhenyu Xie et.al.|[2312.10960](http://arxiv.org/abs/2312.10960)|null|
 |**2023-12-14**|**Motion Flow Matching for Human Motion Synthesis and Editing**|Vincent Tao Hu et.al.|[2312.08895](http://arxiv.org/abs/2312.08895)|null|
 |**2024-03-17**|**FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models**|Shivangi Aneja et.al.|[2312.08459](http://arxiv.org/abs/2312.08459)|**[link](https://github.com/shivangi-aneja/FaceTalk)**|
@@ -388,6 +388,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**Synthesizing Scientific Summaries: An Extractive and Abstractive Approach**|Grishma Sharma et.al.|[2407.19779](http://arxiv.org/abs/2407.19779)|null|
+|**2024-07-28**|**Improving Domain Adaptation Through Class Aware Frequency Transformation**|Vikash Kumar et.al.|[2407.19551](http://arxiv.org/abs/2407.19551)|null|
 |**2024-07-25**|**The seismic purifier: An unsupervised approach to seismic signal detection via representation learning**|Onur Efe et.al.|[2407.18402](http://arxiv.org/abs/2407.18402)|null|
 |**2024-07-25**|**Separating Novel Features for Logical Anomaly Detection: A Straightforward yet Effective Approach**|Kangil Lee et.al.|[2407.17909](http://arxiv.org/abs/2407.17909)|null|
 |**2024-07-25**|**A Two-Stage Imaging Framework Combining CNN and Physics-Informed Neural Networks for Full-Inverse Tomography: A Case Study in Electrical Impedance Tomography (EIT)**|Xuanxuan Yang et.al.|[2407.17721](http://arxiv.org/abs/2407.17721)|null|
@@ -609,6 +611,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-29**|**MaskInversion: Localized Embeddings via Optimization of Explainability Maps**|Walid Bousselham et.al.|[2407.20034](http://arxiv.org/abs/2407.20034)|null|
+|**2024-07-29**|**Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"**|Daniel Gallo Fernández et.al.|[2407.19996](http://arxiv.org/abs/2407.19996)|null|
+|**2024-07-28**|**Temporal Feature Matters: A Framework for Diffusion Model Quantization**|Yushi Huang et.al.|[2407.19547](http://arxiv.org/abs/2407.19547)|null|
+|**2024-07-28**|**VersusDebias: Universal Zero-Shot Debiasing for Text-to-Image Models via SLM-Based Prompt Engineering and Generative Adversary**|Hanjun Luo et.al.|[2407.19524](http://arxiv.org/abs/2407.19524)|null|
+|**2024-07-28**|**MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability**|Buyu Liu et.al.|[2407.19468](http://arxiv.org/abs/2407.19468)|**[link](https://github.com/kkaiwwana/mvpbev)**|
+|**2024-07-28**|**\textsc{Perm}: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/abs/2407.19451)|null|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658](http://arxiv.org/abs/2407.18658)|**[link](https://github.com/choidae1/robustify-t2i)**|
 |**2024-07-25**|**AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild**|Junho Park et.al.|[2407.18034](http://arxiv.org/abs/2407.18034)|null|
