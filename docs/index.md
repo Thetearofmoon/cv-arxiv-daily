@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -17,7 +17,7 @@ layout: default
 |**2024-08-01**|**MotionFix: Text-Driven 3D Human Motion Editing**|Nikos Athanasiou et.al.|[2408.00712](http://arxiv.org/abs/2408.00712)|null|
 |**2024-08-01**|**Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion**|Honglei Miao et.al.|[2408.00352](http://arxiv.org/abs/2408.00352)|null|
 |**2024-08-01**|**EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**|Qianyun He et.al.|[2408.00297](http://arxiv.org/abs/2408.00297)|null|
-|**2024-08-01**|**A Reinforcement Learning Based Motion Planner for Quadrotor Autonomous Flight in Dense Environment**|Zhaohong Liu et.al.|[2408.00275](http://arxiv.org/abs/2408.00275)|null|
+|**2024-08-06**|**A Reinforcement Learning Based Motion Planner for Quadrotor Autonomous Flight in Dense Environment**|Zhaohong Liu et.al.|[2408.00275](http://arxiv.org/abs/2408.00275)|null|
 |**2024-08-04**|**Adding Multimodal Controls to Whole-body Human Motion Generation**|Yuxuan Bian et.al.|[2407.21136](http://arxiv.org/abs/2407.21136)|null|
 |**2024-07-22**|**Chronologically Accurate Retrieval for Temporal Grounding of Motion-Language Models**|Kent Fujiwara et.al.|[2407.15408](http://arxiv.org/abs/2407.15408)|null|
 |**2024-07-19**|**M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models**|Seunggeun Chi et.al.|[2407.14502](http://arxiv.org/abs/2407.14502)|null|
@@ -245,6 +245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484](http://arxiv.org/abs/2408.02484)|null|
 |**2024-07-31**|**A Plug-and-Play Method for Rare Human-Object Interactions Detection by Bridging Domain Gap**|Lijun Zhang et.al.|[2407.21438](http://arxiv.org/abs/2407.21438)|null|
 |**2024-07-31**|**Monocular Human-Object Reconstruction in the Wild**|Chaofan Huo et.al.|[2407.20566](http://arxiv.org/abs/2407.20566)|**[link](https://github.com/huochf/WildHOI)**|
 |**2024-07-30**|**StackFLOW: Monocular Human-Object Reconstruction by Stacked Normalizing Flow with Offset**|Chaofan Huo et.al.|[2407.20545](http://arxiv.org/abs/2407.20545)|**[link](https://github.com/huochf/StackFLOW)**|
@@ -396,6 +397,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Multi-Material Decomposition Using Spectral Diffusion Posterior Sampling**|Xiao Jiang et.al.|[2408.01519](http://arxiv.org/abs/2408.01519)|null|
 |**2024-08-02**|**Machine learning topological energy braiding of non-Bloch bands**|Shuwei Shi et.al.|[2408.01141](http://arxiv.org/abs/2408.01141)|null|
 |**2024-08-01**|**Learning to Embed Distributions via Maximum Kernel Entropy**|Oleksii Kachaiev et.al.|[2408.00549](http://arxiv.org/abs/2408.00549)|null|
 |**2024-07-31**|**GOProteinGNN: Leveraging Protein Knowledge Graphs for Protein Representation Learning**|Dan Kalifa et.al.|[2408.00057](http://arxiv.org/abs/2408.00057)|null|
@@ -622,10 +624,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
+|**2024-08-05**|**ProCreate, Dont Reproduce! Propulsive Energy Diffusion for Creative Generation**|Jack Lu et.al.|[2408.02226](http://arxiv.org/abs/2408.02226)|null|
+|**2024-08-04**|**PanoFree: Tuning-Free Holistic Multi-view Image Generation with Cross-view Self-Guidance**|Aoming Liu et.al.|[2408.02157](http://arxiv.org/abs/2408.02157)|null|
+|**2024-08-04**|**LDFaceNet: Latent Diffusion-based Network for High-Fidelity Deepfake Generation**|Dwij Mehta et.al.|[2408.02078](http://arxiv.org/abs/2408.02078)|null|
+|**2024-08-04**|**Step Saver: Predicting Minimum Denoising Steps for Diffusion Model Image Generation**|Jean Yu et.al.|[2408.02054](http://arxiv.org/abs/2408.02054)|null|
+|**2024-08-04**|**Robustness of Watermarking on Text-to-Image Diffusion Models**|Xiaodong Wu et.al.|[2408.02035](http://arxiv.org/abs/2408.02035)|null|
+|**2024-08-03**|**SkyDiffusion: Street-to-Satellite Image Synthesis with Diffusion Models and BEV Paradigm**|Junyan Ye et.al.|[2408.01812](http://arxiv.org/abs/2408.01812)|null|
+|**2024-08-03**|**A Novel Evaluation Framework for Image2Text Generation**|Jia-Hong Huang et.al.|[2408.01723](http://arxiv.org/abs/2408.01723)|null|
+|**2024-08-03**|**Controllable Unlearning for Image-to-Image Generative Models via $\varepsilon$ -Constrained Optimization**|Xiaohua Feng et.al.|[2408.01689](http://arxiv.org/abs/2408.01689)|null|
+|**2024-08-02**|**"I don't see myself represented here at all": User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities**|Sourojit Ghosh et.al.|[2408.01594](http://arxiv.org/abs/2408.01594)|null|
+|**2024-08-02**|**Interpretations, Representations, and Stereotypes of Caste within Text-to-Image Generators**|Sourojit Ghosh et.al.|[2408.01590](http://arxiv.org/abs/2408.01590)|null|
 |**2024-08-02**|**VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling**|Qian Zhang et.al.|[2408.01181](http://arxiv.org/abs/2408.01181)|null|
 |**2024-08-02**|**PINNs for Medical Image Analysis: A Survey**|Chayan Banerjee et.al.|[2408.01026](http://arxiv.org/abs/2408.01026)|null|
 |**2024-08-02**|**EIUP: A Training-Free Approach to Erase Non-Compliant Concepts Conditioned on Implicit Unsafe Prompts**|Die Chen et.al.|[2408.01014](http://arxiv.org/abs/2408.01014)|null|
-|**2024-08-02**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998](http://arxiv.org/abs/2408.00998)|null|
+|**2024-08-06**|**FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation**|Xiang Gao et.al.|[2408.00998](http://arxiv.org/abs/2408.00998)|null|
 |**2024-08-01**|**Temporal Evolution of Knee Osteoarthritis: A Diffusion-based Morphing Model for X-ray Medical Image Synthesis**|Zhe Wang et.al.|[2408.00891](http://arxiv.org/abs/2408.00891)|null|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
 |**2024-08-01**|**Synthetic dual image generation for reduction of labeling efforts in semantic segmentation of micrographs with a customized metric function**|Matias Oscar Volman Stern et.al.|[2408.00707](http://arxiv.org/abs/2408.00707)|null|
