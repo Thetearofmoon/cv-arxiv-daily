@@ -84,7 +84,7 @@ layout: default
 |**2024-04-17**|**LADDER: An Efficient Framework for Video Frame Interpolation**|Tong Shen et.al.|[2404.11108](http://arxiv.org/abs/2404.11108)|null|
 |**2024-04-16**|**Generating Human Interaction Motions in Scenes with Text Control**|Hongwei Yi et.al.|[2404.10685](http://arxiv.org/abs/2404.10685)|null|
 |**2024-04-15**|**A Probabilistic-based Drift Correction Module for Visual Inertial SLAMs**|Pouyan Navard et.al.|[2404.10140](http://arxiv.org/abs/2404.10140)|null|
-|**2024-04-15**|**in2IN: Leveraging individual Information to Generate Human INteractions**|Pablo Ruiz Ponce et.al.|[2404.09988](http://arxiv.org/abs/2404.09988)|null|
+|**2024-04-15**|**in2IN: Leveraging individual Information to Generate Human INteractions**|Pablo Ruiz Ponce et.al.|[2404.09988](http://arxiv.org/abs/2404.09988)|**[link](https://github.com/pabloruizponce/in2IN)**|
 |**2024-04-15**|**Learning Human Motion from Monocular Videos via Cross-Modal Manifold Alignment**|Shuaiying Hou et.al.|[2404.09499](http://arxiv.org/abs/2404.09499)|null|
 |**2024-04-15**|**Exploring Text-to-Motion Generation with Human Preference**|Jenny Sheng et.al.|[2404.09445](http://arxiv.org/abs/2404.09445)|**[link](https://github.com/thu-lyj-lab/instructmotion)**|
 |**2024-04-23**|**Adaptable Recovery Behaviors in Robotics: A Behavior Trees and Motion Generators(BTMG) Approach for Failure Management**|Faseeh Ahmad et.al.|[2404.06129](http://arxiv.org/abs/2404.06129)|null|
@@ -686,7 +686,7 @@ layout: default
 |**2024-07-28**|**Temporal Feature Matters: A Framework for Diffusion Model Quantization**|Yushi Huang et.al.|[2407.19547](http://arxiv.org/abs/2407.19547)|null|
 |**2024-08-03**|**VersusDebias: Universal Zero-Shot Debiasing for Text-to-Image Models via SLM-Based Prompt Engineering and Generative Adversary**|Hanjun Luo et.al.|[2407.19524](http://arxiv.org/abs/2407.19524)|null|
 |**2024-07-28**|**MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability**|Buyu Liu et.al.|[2407.19468](http://arxiv.org/abs/2407.19468)|**[link](https://github.com/kkaiwwana/mvpbev)**|
-|**2024-07-31**|**Perm: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/abs/2407.19451)|null|
+|**2024-07-31**|**Perm: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/abs/2407.19451)|**[link](https://github.com/c-he/perm)**|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658](http://arxiv.org/abs/2407.18658)|**[link](https://github.com/choidae1/robustify-t2i)**|
 |**2024-07-25**|**AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild**|Junho Park et.al.|[2407.18034](http://arxiv.org/abs/2407.18034)|null|
