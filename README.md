@@ -700,7 +700,7 @@
 |**2024-08-01**|**Navigating Text-to-Image Generative Bias across Indic Languages**|Surbhi Mittal et.al.|[2408.00283](http://arxiv.org/abs/2408.00283)|null|
 |**2024-07-31**|**WAS: Dataset and Methods for Artistic Text Segmentation**|Xudong Xie et.al.|[2408.00106](http://arxiv.org/abs/2408.00106)|null|
 |**2024-07-31**|**From Attributes to Natural Language: A Survey and Foresight on Text-based Person Re-identification**|Fanzhi Jiang et.al.|[2408.00096](http://arxiv.org/abs/2408.00096)|null|
-|**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|null|
+|**2024-07-31**|**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**|Yuxin Wen et.al.|[2407.21720](http://arxiv.org/abs/2407.21720)|**[link](https://github.com/yuxinwenrick/diffusion_memorization)**|
 |**2024-07-31**|**Fine-gained Zero-shot Video Sampling**|Dengsheng Chen et.al.|[2407.21475](http://arxiv.org/abs/2407.21475)|null|
 |**2024-07-31**|**Deformable 3D Shape Diffusion Model**|Dengsheng Chen et.al.|[2407.21428](http://arxiv.org/abs/2407.21428)|null|
 |**2024-07-31**|**Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging**|Wenhua Wu et.al.|[2407.21381](http://arxiv.org/abs/2407.21381)|null|
@@ -721,11 +721,11 @@
 |**2024-07-31**|**Perm: A Parametric Representation for Multi-Style 3D Hair Modeling**|Chengan He et.al.|[2407.19451](http://arxiv.org/abs/2407.19451)|**[link](https://github.com/c-he/perm)**|
 |**2024-07-26**|**SHIC: Shape-Image Correspondences with no Keypoint Supervision**|Aleksandar Shtedritski et.al.|[2407.18907](http://arxiv.org/abs/2407.18907)|null|
 |**2024-07-26**|**Adversarial Robustification via Text-to-Image Diffusion Models**|Daewon Choi et.al.|[2407.18658](http://arxiv.org/abs/2407.18658)|**[link](https://github.com/choidae1/robustify-t2i)**|
-|**2024-07-25**|**AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild**|Junho Park et.al.|[2407.18034](http://arxiv.org/abs/2407.18034)|null|
+|**2024-07-25**|**AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild**|Junho Park et.al.|[2407.18034](http://arxiv.org/abs/2407.18034)|**[link](https://github.com/redorangeyellowy/AttentionHand)**|
 |**2024-07-25**|**Guided Latent Slot Diffusion for Object-Centric Learning**|Krishnakant Singh et.al.|[2407.17929](http://arxiv.org/abs/2407.17929)|null|
 |**2024-07-25**|**ReCorD: Reasoning and Correcting Diffusion for HOI Generation**|Jian-Yu Jiang-Lin et.al.|[2407.17911](http://arxiv.org/abs/2407.17911)|null|
 |**2024-07-25**|**Artificial Immunofluorescence in a Flash: Rapid Synthetic Imaging from Brightfield Through Residual Diffusion**|Xiaodan Xing et.al.|[2407.17882](http://arxiv.org/abs/2407.17882)|null|
-|**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|null|
+|**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|**[link](https://github.com/PAULGOYES/CDDIP)**|
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
 |**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
 |**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095](http://arxiv.org/abs/2407.17095)|null|
@@ -757,7 +757,7 @@
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
 |**2024-07-19**|**Time Series Generative Learning with Application to Brain Imaging Analysis**|Zhenghao Li et.al.|[2407.14003](http://arxiv.org/abs/2407.14003)|null|
 |**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
-|**2024-07-18**|**Training-free Composite Scene Generation for Layout-to-Image Synthesis**|Jiaqi Liu et.al.|[2407.13609](http://arxiv.org/abs/2407.13609)|null|
+|**2024-07-18**|**Training-free Composite Scene Generation for Layout-to-Image Synthesis**|Jiaqi Liu et.al.|[2407.13609](http://arxiv.org/abs/2407.13609)|**[link](https://github.com/Papple-F/csg)**|
 |**2024-07-18**|**URCDM: Ultra-Resolution Image Synthesis in Histopathology**|Sarah Cechnicka et.al.|[2407.13277](http://arxiv.org/abs/2407.13277)|null|
 |**2024-07-19**|**Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**|Zhiyuan Ma et.al.|[2407.13188](http://arxiv.org/abs/2407.13188)|null|
 |**2024-07-18**|**Image Inpainting Models are Effective Tools for Instruction-guided Image Editing**|Xuan Ju et.al.|[2407.13139](http://arxiv.org/abs/2407.13139)|null|
@@ -1180,7 +1180,7 @@
 |**2024-05-10**|**Deep MMD Gradient Flow without adversarial training**|Alexandre Galashov et.al.|[2405.06780](http://arxiv.org/abs/2405.06780)|null|
 |**2024-05-10**|**Controllable Image Generation With Composed Parallel Token Prediction**|Jamie Stirling et.al.|[2405.06535](http://arxiv.org/abs/2405.06535)|null|
 |**2024-05-14**|**SketchDream: Sketch-based Text-to-3D Generation and Editing**|Feng-Lin Liu et.al.|[2405.06461](http://arxiv.org/abs/2405.06461)|null|
-|**2024-05-09**|**Photonic quantum generative adversarial networks for classical data**|Tigran Sedrakyan et.al.|[2405.06023](http://arxiv.org/abs/2405.06023)|null|
+|**2024-05-09**|**Photonic quantum generative adversarial networks for classical data**|Tigran Sedrakyan et.al.|[2405.06023](http://arxiv.org/abs/2405.06023)|**[link](https://github.com/quandela/photonic-qgan)**|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|**[link](https://github.com/zonglinl/consecutivebrownianbridge)**|
 |**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
 |**2024-05-10**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806](http://arxiv.org/abs/2405.05806)|**[link](https://github.com/csyxwei/masterweaver)**|
