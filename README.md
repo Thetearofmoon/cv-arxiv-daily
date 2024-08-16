@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -174,7 +174,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -253,12 +253,14 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## HOI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-14**|**Object Augmentation Algorithm: Computing virtual object motion and object induced interaction wrench from optical markers**|Christopher Herneth et.al.|[2408.07434](http://arxiv.org/abs/2408.07434)|null|
+|**2024-08-14**|**UAHOI: Uncertainty-aware Robust Interaction Learning for HOI Detection**|Mu Chen et.al.|[2408.07430](http://arxiv.org/abs/2408.07430)|null|
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
 |**2024-08-12**|**Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot HOI Detection**|Yixin Guo et.al.|[2408.05974](http://arxiv.org/abs/2408.05974)|**[link](https://github.com/soberguo/hoigen)**|
 |**2024-08-11**|**An analysis of HOI: using a training-free method with multimodal visual foundation models when only the test set is available, without the training set**|Chaoyi Ai et.al.|[2408.05772](http://arxiv.org/abs/2408.05772)|null|
@@ -352,7 +354,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## LOMC
 
@@ -412,12 +414,16 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149](http://arxiv.org/abs/2408.08149)|null|
+|**2024-08-15**|**The Clever Hans Effect in Unsupervised Learning**|Jacob Kauffmann et.al.|[2408.08041](http://arxiv.org/abs/2408.08041)|null|
+|**2024-08-14**|**Unsupervised Stereo Matching Network For VHR Remote Sensing Images Based On Error Prediction**|Liting Jiang et.al.|[2408.07419](http://arxiv.org/abs/2408.07419)|**[link](https://github.com/elenairene/cbem)**|
+|**2024-08-09**|**Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning**|Wenbin Hu et.al.|[2408.07091](http://arxiv.org/abs/2408.07091)|null|
 |**2024-08-11**|**Enhancing Eye-Tracking Performance through Multi-Task Learning Transformer**|Weigeng Li et.al.|[2408.05837](http://arxiv.org/abs/2408.05837)|null|
 |**2024-08-11**|**Physics-informed spectral approximation of Koopman operators**|Claire Valva et.al.|[2408.05663](http://arxiv.org/abs/2408.05663)|null|
 |**2024-08-09**|**Cross-Domain Learning for Video Anomaly Detection with Limited Supervision**|Yashika Jain et.al.|[2408.05191](http://arxiv.org/abs/2408.05191)|null|
@@ -645,12 +651,22 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Can Large Language Models Understand Symbolic Graphics Programs?**|Zeju Qiu et.al.|[2408.08313](http://arxiv.org/abs/2408.08313)|null|
+|**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images**|Zhiyuan Li et.al.|[2408.08105](http://arxiv.org/abs/2408.08105)|null|
+|**2024-08-15**|**A Novel Generative Artificial Intelligence Method for Interference Study on Multiplex Brightfield Immunohistochemistry Images**|Satarupa Mukherjee et.al.|[2408.07860](http://arxiv.org/abs/2408.07860)|null|
+|**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642](http://arxiv.org/abs/2408.07642)|null|
+|**2024-08-15**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
+|**2024-08-14**|**KIND: Knowledge Integration and Diversion in Diffusion Models**|Yucheng Xie et.al.|[2408.07337](http://arxiv.org/abs/2408.07337)|null|
+|**2024-08-13**|**SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis**|Yuchen Mao et.al.|[2408.07196](http://arxiv.org/abs/2408.07196)|null|
+|**2024-08-13**|**Generative Photomontage**|Sean J. Liu et.al.|[2408.07116](http://arxiv.org/abs/2408.07116)|null|
 |**2024-08-13**|**Definition of multispectral camera system parameters to model the asteroid 2001 SN263**|Gabriela de Carvalho Assis Goulart et.al.|[2408.06886](http://arxiv.org/abs/2408.06886)|null|
 |**2024-08-14**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
 |**2024-08-13**|**Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective**|Ouxiang Li et.al.|[2408.06741](http://arxiv.org/abs/2408.06741)|**[link](https://github.com/ouxiang-li/safe)**|
@@ -1526,7 +1542,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
