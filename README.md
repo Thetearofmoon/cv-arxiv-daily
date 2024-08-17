@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -174,7 +174,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -253,12 +253,13 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## HOI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Towards Flexible Visual Relationship Segmentation**|Fangrui Zhu et.al.|[2408.08305](http://arxiv.org/abs/2408.08305)|null|
 |**2024-08-14**|**Object Augmentation Algorithm: Computing virtual object motion and object induced interaction wrench from optical markers**|Christopher Herneth et.al.|[2408.07434](http://arxiv.org/abs/2408.07434)|null|
 |**2024-08-14**|**UAHOI: Uncertainty-aware Robust Interaction Learning for HOI Detection**|Mu Chen et.al.|[2408.07430](http://arxiv.org/abs/2408.07430)|null|
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
@@ -354,7 +355,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## LOMC
 
@@ -414,7 +415,7 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## UL
 
@@ -431,7 +432,7 @@
 |**2024-08-02**|**Multi-Material Decomposition Using Spectral Diffusion Posterior Sampling**|Xiao Jiang et.al.|[2408.01519](http://arxiv.org/abs/2408.01519)|null|
 |**2024-08-02**|**Machine learning topological energy braiding of non-Bloch bands**|Shuwei Shi et.al.|[2408.01141](http://arxiv.org/abs/2408.01141)|null|
 |**2024-08-01**|**Learning to Embed Distributions via Maximum Kernel Entropy**|Oleksii Kachaiev et.al.|[2408.00549](http://arxiv.org/abs/2408.00549)|null|
-|**2024-07-31**|**GOProteinGNN: Leveraging Protein Knowledge Graphs for Protein Representation Learning**|Dan Kalifa et.al.|[2408.00057](http://arxiv.org/abs/2408.00057)|null|
+|**2024-07-31**|**GOProteinGNN: Leveraging Protein Knowledge Graphs for Protein Representation Learning**|Dan Kalifa et.al.|[2408.00057](http://arxiv.org/abs/2408.00057)|**[link](https://github.com/kalifadan/GOProteinGNN)**|
 |**2024-07-29**|**Synthesizing Scientific Summaries: An Extractive and Abstractive Approach**|Grishma Sharma et.al.|[2407.19779](http://arxiv.org/abs/2407.19779)|null|
 |**2024-07-28**|**Improving Domain Adaptation Through Class Aware Frequency Transformation**|Vikash Kumar et.al.|[2407.19551](http://arxiv.org/abs/2407.19551)|null|
 |**2024-07-25**|**The seismic purifier: An unsupervised approach to seismic signal detection via representation learning**|Onur Efe et.al.|[2407.18402](http://arxiv.org/abs/2407.18402)|**[link](https://github.com/onurefe/SeismicPurifier)**|
@@ -651,7 +652,7 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## IS
 
@@ -660,7 +661,7 @@
 |**2024-08-15**|**Can Large Language Models Understand Symbolic Graphics Programs?**|Zeju Qiu et.al.|[2408.08313](http://arxiv.org/abs/2408.08313)|null|
 |**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
 |**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
-|**2024-08-15**|**Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images**|Zhiyuan Li et.al.|[2408.08105](http://arxiv.org/abs/2408.08105)|null|
+|**2024-08-15**|**Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images**|Zhiyuan Li et.al.|[2408.08105](http://arxiv.org/abs/2408.08105)|**[link](https://github.com/zhiyuan-li-john/mucr)**|
 |**2024-08-15**|**A Novel Generative Artificial Intelligence Method for Interference Study on Multiplex Brightfield Immunohistochemistry Images**|Satarupa Mukherjee et.al.|[2408.07860](http://arxiv.org/abs/2408.07860)|null|
 |**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642](http://arxiv.org/abs/2408.07642)|null|
 |**2024-08-15**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
@@ -674,8 +675,8 @@
 |**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
 |**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646](http://arxiv.org/abs/2408.06646)|null|
 |**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502](http://arxiv.org/abs/2408.06502)|null|
-|**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|null|
-|**2024-08-10**|**ZePo: Zero-Shot Portrait Stylization with Faster Sampling**|Jin Liu et.al.|[2408.05492](http://arxiv.org/abs/2408.05492)|null|
+|**2024-08-12**|**A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models**|Taehong Moon et.al.|[2408.05927](http://arxiv.org/abs/2408.05927)|**[link](https://github.com/taehong-moon/ee-diffusion)**|
+|**2024-08-10**|**ZePo: Zero-Shot Portrait Stylization with Faster Sampling**|Jin Liu et.al.|[2408.05492](http://arxiv.org/abs/2408.05492)|**[link](https://github.com/liujin112/zepo)**|
 |**2024-08-10**|**Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE**|Yiying Yang et.al.|[2408.05477](http://arxiv.org/abs/2408.05477)|null|
 |**2024-08-10**|**Artworks Reimagined: Exploring Human-AI Co-Creation through Body Prompting**|Jonas Oppenlaender et.al.|[2408.05476](http://arxiv.org/abs/2408.05476)|null|
 |**2024-08-08**|**Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness**|Stanislav Fort et.al.|[2408.05446](http://arxiv.org/abs/2408.05446)|null|
@@ -1542,7 +1543,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
