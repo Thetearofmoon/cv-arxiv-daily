@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -174,7 +174,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -253,14 +253,14 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## HOI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-15**|**Towards Flexible Visual Relationship Segmentation**|Fangrui Zhu et.al.|[2408.08305](http://arxiv.org/abs/2408.08305)|null|
-|**2024-08-14**|**Object Augmentation Algorithm: Computing virtual object motion and object induced interaction wrench from optical markers**|Christopher Herneth et.al.|[2408.07434](http://arxiv.org/abs/2408.07434)|null|
+|**2024-08-14**|**Object Augmentation Algorithm: Computing virtual object motion and object induced interaction wrench from optical markers**|Christopher Herneth et.al.|[2408.07434](http://arxiv.org/abs/2408.07434)|**[link](https://github.com/christopherherneth/objectaugmentationalgorithm)**|
 |**2024-08-14**|**UAHOI: Uncertainty-aware Robust Interaction Learning for HOI Detection**|Mu Chen et.al.|[2408.07430](http://arxiv.org/abs/2408.07430)|null|
 |**2024-08-13**|**Efficient Human-Object-Interaction (EHOI) Detection via Interaction Label Coding and Conditional Decision**|Tsung-Shan Yang et.al.|[2408.07018](http://arxiv.org/abs/2408.07018)|null|
 |**2024-08-12**|**Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot HOI Detection**|Yixin Guo et.al.|[2408.05974](http://arxiv.org/abs/2408.05974)|**[link](https://github.com/soberguo/hoigen)**|
@@ -355,7 +355,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## LOMC
 
@@ -415,12 +415,13 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**An Unsupervised Learning Framework Combined with Heuristics for the Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484](http://arxiv.org/abs/2408.08484)|**[link](https://github.com/luckyseasalt/pioneer)**|
 |**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149](http://arxiv.org/abs/2408.08149)|null|
 |**2024-08-15**|**The Clever Hans Effect in Unsupervised Learning**|Jacob Kauffmann et.al.|[2408.08041](http://arxiv.org/abs/2408.08041)|null|
 |**2024-08-14**|**Unsupervised Stereo Matching Network For VHR Remote Sensing Images Based On Error Prediction**|Liting Jiang et.al.|[2408.07419](http://arxiv.org/abs/2408.07419)|**[link](https://github.com/elenairene/cbem)**|
@@ -442,7 +443,7 @@
 |**2024-07-23**|**Enhancing GNNs Performance on Combinatorial Optimization by Recurrent Feature Update**|Daria Pugacheva et.al.|[2407.16468](http://arxiv.org/abs/2407.16468)|null|
 |**2024-07-23**|**Deep Learning for Pancreas Segmentation: a Systematic Review**|Andrea Moglia et.al.|[2407.16313](http://arxiv.org/abs/2407.16313)|null|
 |**2024-07-23**|**Adaptive Extensions of Unbiased Risk Estimators for Unsupervised Magnetic Resonance Image Denoising**|Reeshad Khan et.al.|[2407.15799](http://arxiv.org/abs/2407.15799)|null|
-|**2024-08-08**|**Unsupervised Mastoidectomy for Cochlear CT Mesh Reconstruction Using Highly Noisy Data**|Yike Zhang et.al.|[2407.15787](http://arxiv.org/abs/2407.15787)|null|
+|**2024-08-18**|**M&M: Unsupervised Mamba-based Mastoidectomy for Cochlear Implant Surgery with Noisy Data**|Yike Zhang et.al.|[2407.15787](http://arxiv.org/abs/2407.15787)|null|
 |**2024-07-22**|**Semi-Supervised Learning for Anomaly Detection in Blockchain-based Supply Chains**|Do Hai Son et.al.|[2407.15603](http://arxiv.org/abs/2407.15603)|**[link](https://github.com/DoHaiSon/DAE-MLP)**|
 |**2024-07-22**|**GraphScale: A Framework to Enable Machine Learning over Billion-node Graphs**|Vipul Gupta et.al.|[2407.15452](http://arxiv.org/abs/2407.15452)|null|
 |**2024-07-23**|**LLMExplainer: Large Language Model based Bayesian Inference for Graph Explanation Generation**|Jiaxing Zhang et.al.|[2407.15351](http://arxiv.org/abs/2407.15351)|null|
@@ -652,26 +653,33 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future**|Guangyi Wang et.al.|[2408.08822](http://arxiv.org/abs/2408.08822)|null|
+|**2024-08-16**|**Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion**|Sanchayan Vivekananthan et.al.|[2408.08751](http://arxiv.org/abs/2408.08751)|null|
+|**2024-08-16**|**An End-to-End Model for Photo-Sharing Multi-modal Dialogue Generation**|Peiming Guo et.al.|[2408.08650](http://arxiv.org/abs/2408.08650)|null|
+|**2024-08-16**|**SketchRef: A Benchmark Dataset and Evaluation Metrics for Automated Sketch Synthesis**|Xingyue Lin et.al.|[2408.08623](http://arxiv.org/abs/2408.08623)|null|
+|**2024-08-16**|**Efficient Image-to-Image Diffusion Classifier for Adversarial Robustness**|Hefei Mei et.al.|[2408.08502](http://arxiv.org/abs/2408.08502)|**[link](https://github.com/hfmei/idc)**|
+|**2024-08-15**|**JPEG-LM: LLMs as Image Generators with Canonical Codec Representations**|Xiaochuang Han et.al.|[2408.08459](http://arxiv.org/abs/2408.08459)|null|
+|**2024-08-15**|**METR: Image Watermarking with Large Number of Unique Messages**|Alexander Varlamov et.al.|[2408.08340](http://arxiv.org/abs/2408.08340)|**[link](https://github.com/deepvk/metr)**|
 |**2024-08-15**|**Can Large Language Models Understand Symbolic Graphics Programs?**|Zeju Qiu et.al.|[2408.08313](http://arxiv.org/abs/2408.08313)|null|
 |**2024-08-15**|**Accelerated Image-Aware Generative Diffusion Modeling**|Tanmay Asthana et.al.|[2408.08306](http://arxiv.org/abs/2408.08306)|null|
-|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|**[link](https://github.com/masa-ue/svdd)**|
 |**2024-08-15**|**Multimodal Causal Reasoning Benchmark: Challenging Vision Large Language Models to Infer Causal Links Between Siamese Images**|Zhiyuan Li et.al.|[2408.08105](http://arxiv.org/abs/2408.08105)|**[link](https://github.com/zhiyuan-li-john/mucr)**|
 |**2024-08-15**|**A Novel Generative Artificial Intelligence Method for Interference Study on Multiplex Brightfield Immunohistochemistry Images**|Satarupa Mukherjee et.al.|[2408.07860](http://arxiv.org/abs/2408.07860)|null|
 |**2024-08-14**|**Boosting Unconstrained Face Recognition with Targeted Style Adversary**|Mohammad Saeed Ebrahimi Saadabadi et.al.|[2408.07642](http://arxiv.org/abs/2408.07642)|null|
-|**2024-08-15**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
+|**2024-08-19**|**MagicFace: Training-free Universal-Style Human Image Customized Synthesis**|Yibin Wang et.al.|[2408.07433](http://arxiv.org/abs/2408.07433)|null|
 |**2024-08-14**|**KIND: Knowledge Integration and Diversion in Diffusion Models**|Yucheng Xie et.al.|[2408.07337](http://arxiv.org/abs/2408.07337)|null|
 |**2024-08-13**|**SeLoRA: Self-Expanding Low-Rank Adaptation of Latent Diffusion Model for Medical Image Synthesis**|Yuchen Mao et.al.|[2408.07196](http://arxiv.org/abs/2408.07196)|null|
-|**2024-08-13**|**Generative Photomontage**|Sean J. Liu et.al.|[2408.07116](http://arxiv.org/abs/2408.07116)|null|
+|**2024-08-16**|**Generative Photomontage**|Sean J. Liu et.al.|[2408.07116](http://arxiv.org/abs/2408.07116)|null|
 |**2024-08-13**|**Definition of multispectral camera system parameters to model the asteroid 2001 SN263**|Gabriela de Carvalho Assis Goulart et.al.|[2408.06886](http://arxiv.org/abs/2408.06886)|null|
 |**2024-08-14**|**A Comprehensive Survey on Synthetic Infrared Image synthesis**|Avinash Upadhyay et.al.|[2408.06868](http://arxiv.org/abs/2408.06868)|null|
 |**2024-08-13**|**Improving Synthetic Image Detection Towards Generalization: An Image Transformation Perspective**|Ouxiang Li et.al.|[2408.06741](http://arxiv.org/abs/2408.06741)|**[link](https://github.com/ouxiang-li/safe)**|
-|**2024-08-13**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
+|**2024-08-18**|**DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion**|Yujia Wu et.al.|[2408.06740](http://arxiv.org/abs/2408.06740)|null|
 |**2024-08-13**|**DiffSG: A Generative Solver for Network Optimization with Diffusion Model**|Ruihuai Liang et.al.|[2408.06701](http://arxiv.org/abs/2408.06701)|null|
 |**2024-08-13**|**Hybrid SD: Edge-Cloud Collaborative Inference for Stable Diffusion Models**|Chenqian Yan et.al.|[2408.06646](http://arxiv.org/abs/2408.06646)|null|
 |**2024-08-12**|**Prompt Recovery for Image Generation Models: A Comparative Study of Discrete Optimizers**|Joshua Nathaniel Williams et.al.|[2408.06502](http://arxiv.org/abs/2408.06502)|null|
@@ -1543,7 +1551,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240820>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
