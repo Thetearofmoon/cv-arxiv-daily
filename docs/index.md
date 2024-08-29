@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -461,7 +461,7 @@ layout: default
 |**2024-07-04**|**Unsupervised Analysis of Alzheimer's Disease Signatures using 3D Deformable Autoencoders**|Mehmet Yigit Avci et.al.|[2407.03863](http://arxiv.org/abs/2407.03863)|**[link](https://github.com/ci-ber/morphade)**|
 |**2024-07-04**|**Measuring Orthogonality in Representations of Generative Models**|Robin C. Geyer et.al.|[2407.03728](http://arxiv.org/abs/2407.03728)|null|
 |**2024-07-09**|**Reliable Projection Based Unsupervised Learning for Semi-Definite QCQP with Application of Beamforming Optimization**|Xiucheng Wang et.al.|[2407.03668](http://arxiv.org/abs/2407.03668)|null|
-|**2024-07-04**|**UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**|Yang Xiao et.al.|[2407.03657](http://arxiv.org/abs/2407.03657)|null|
+|**2024-08-28**|**UCIL: An Unsupervised Class Incremental Learning Approach for Sound Event Detection**|Yang Xiao et.al.|[2407.03657](http://arxiv.org/abs/2407.03657)|null|
 |**2024-07-01**|**CGRclust: Chaos Game Representation for Twin Contrastive Clustering of Unlabelled DNA Sequences**|Fatemeh Alipour et.al.|[2407.02538](http://arxiv.org/abs/2407.02538)|**[link](https://github.com/fatemehalipour/CGRclust)**|
 |**2024-07-20**|**Unsupervised Face-Masked Speech Enhancement Using Generative Adversarial Networks With Human-in-the-Loop Assessment Metrics**|Syu-Siang Wang et.al.|[2407.01939](http://arxiv.org/abs/2407.01939)|null|
 |**2024-06-28**|**Orthogonal Constrained Neural Networks for Solving Structured Inverse Eigenvalue Problems**|Shuai Zhang et.al.|[2406.19981](http://arxiv.org/abs/2406.19981)|null|
@@ -654,14 +654,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|null|
+|**2024-08-27**|**Alfie: Democratising RGBA Image Generation With No $$$**|Fabio Quattrini et.al.|[2408.14826](http://arxiv.org/abs/2408.14826)|**[link](https://github.com/aimagelab/alfie)**|
+|**2024-08-27**|**Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation**|Abdelrahman Eldesokey et.al.|[2408.14819](http://arxiv.org/abs/2408.14819)|null|
+|**2024-08-27**|**CrossViewDiff: A Cross-View Diffusion Model for Satellite-to-Street View Synthesis**|Weijia Li et.al.|[2408.14765](http://arxiv.org/abs/2408.14765)|null|
+|**2024-08-27**|**Sequential-Scanning Dual-Energy CT Imaging Using High Temporal Resolution Image Reconstruction and Error-Compensated Material Basis Image Generation**|Qiaoxin Li et.al.|[2408.14754](http://arxiv.org/abs/2408.14754)|null|
+|**2024-08-27**|**Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation**|Bochao Liu et.al.|[2408.14738](http://arxiv.org/abs/2408.14738)|null|
+|**2024-08-26**|**DIAGen: Diverse Image Augmentation with Generative Models**|Tobias Lingenberg et.al.|[2408.14584](http://arxiv.org/abs/2408.14584)|null|
+|**2024-08-25**|**Variational autoencoder-based neural network model compression**|Liang Cheng et.al.|[2408.14513](http://arxiv.org/abs/2408.14513)|null|
+|**2024-08-26**|**GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy**|Peiyan Li et.al.|[2408.14368](http://arxiv.org/abs/2408.14368)|**[link](https://github.com/bytedance/GR-MG)**|
 |**2024-08-26**|**ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty**|Xindi Wu et.al.|[2408.14339](http://arxiv.org/abs/2408.14339)|null|
 |**2024-08-26**|**Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models**|Chaohua Shi et.al.|[2408.14135](http://arxiv.org/abs/2408.14135)|null|
 |**2024-08-27**|**RT-Attack: Jailbreaking Text-to-Image Models via Random Token**|Sensen Gao et.al.|[2408.13896](http://arxiv.org/abs/2408.13896)|null|
 |**2024-08-25**|**Prior Learning in Introspective VAEs**|Ioannis Athanasiadis et.al.|[2408.13805](http://arxiv.org/abs/2408.13805)|null|
 |**2024-08-25**|**SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting**|Wenrui Li et.al.|[2408.13711](http://arxiv.org/abs/2408.13711)|**[link](https://github.com/liwrui/scenedreamer360)**|
 |**2024-08-27**|**Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing**|Yitong Yang et.al.|[2408.13623](http://arxiv.org/abs/2408.13623)|null|
-|**2024-08-24**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509](http://arxiv.org/abs/2408.13509)|null|
+|**2024-08-28**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509](http://arxiv.org/abs/2408.13509)|null|
 |**2024-08-24**|**Explainable Concept Generation through Vision-Language Preference Learning**|Aditya Taparia et.al.|[2408.13438](http://arxiv.org/abs/2408.13438)|null|
 |**2024-08-23**|**Shape-Preserving Generation of Food Images for Automatic Dietary Assessment**|Guangzong Chen et.al.|[2408.13358](http://arxiv.org/abs/2408.13358)|null|
 |**2024-08-23**|**Abstract Art Interpretation Using ControlNet**|Rishabh Srivastava et.al.|[2408.13287](http://arxiv.org/abs/2408.13287)|null|
