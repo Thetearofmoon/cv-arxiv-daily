@@ -243,7 +243,7 @@ layout: default
 |**2024-04-08**|**A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis**|Esteve Valls Mascaro et.al.|[2308.07301](http://arxiv.org/abs/2308.07301)|null|
 |**2023-07-29**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
 |**2023-07-14**|**NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis**|Nilesh Kulkarni et.al.|[2307.07511](http://arxiv.org/abs/2307.07511)|null|
-|**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|null|
+|**2023-06-01**|**Controllable Motion Diffusion Model**|Yi Shi et.al.|[2306.00416](http://arxiv.org/abs/2306.00416)|**[link](https://github.com/Yi-Shi94/AMDM)**|
 |**2023-06-01**|**Example-based Motion Synthesis via Generative Motion Matching**|Weiyu Li et.al.|[2306.00378](http://arxiv.org/abs/2306.00378)|**[link](https://github.com/wyysf-98/GenMM)**|
 |**2023-12-24**|**Enhanced Fine-grained Motion Diffusion for Text-driven Human Motion Synthesis**|Dong Wei et.al.|[2305.13773](http://arxiv.org/abs/2305.13773)|null|
 |**2023-10-29**|**Guided Motion Diffusion for Controllable Human Motion Synthesis**|Korrawe Karunratanakul et.al.|[2305.12577](http://arxiv.org/abs/2305.12577)|null|
@@ -754,7 +754,7 @@ layout: default
 |**2024-08-28**|**DualAnoDiff: Dual-Interrelated Diffusion Model for Few-Shot Anomaly Image Generation**|Ying Jin et.al.|[2408.13509](http://arxiv.org/abs/2408.13509)|**[link](https://github.com/yinyjin/dualanodiff)**|
 |**2024-08-24**|**Explainable Concept Generation through Vision-Language Preference Learning**|Aditya Taparia et.al.|[2408.13438](http://arxiv.org/abs/2408.13438)|null|
 |**2024-08-23**|**Shape-Preserving Generation of Food Images for Automatic Dietary Assessment**|Guangzong Chen et.al.|[2408.13358](http://arxiv.org/abs/2408.13358)|null|
-|**2024-08-23**|**Abstract Art Interpretation Using ControlNet**|Rishabh Srivastava et.al.|[2408.13287](http://arxiv.org/abs/2408.13287)|null|
+|**2024-08-23**|**Abstract Art Interpretation Using ControlNet**|Rishabh Srivastava et.al.|[2408.13287](http://arxiv.org/abs/2408.13287)|**[link](https://github.com/RishabhS66/Abstract-Art-Interpretation-Using-ControlNet)**|
 |**2024-08-26**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
 |**2024-08-23**|**G3FA: Geometry-guided GAN for Face Animation**|Alireza Javanmardi et.al.|[2408.13049](http://arxiv.org/abs/2408.13049)|null|
 |**2024-08-23**|**EasyControl: Transfer ControlNet to Video Diffusion for Controllable Generation and Interpolation**|Cong Wang et.al.|[2408.13005](http://arxiv.org/abs/2408.13005)|null|
@@ -1408,7 +1408,7 @@ layout: default
 |**2024-04-28**|**Grounded Compositional and Diverse Text-to-3D with Pretrained Multi-View Diffusion Model**|Xiaolong Li et.al.|[2404.18065](http://arxiv.org/abs/2404.18065)|null|
 |**2024-04-27**|**Causal Diffusion Autoencoders: Toward Counterfactual Generation via Diffusion Probabilistic Models**|Aneesh Komanduri et.al.|[2404.17735](http://arxiv.org/abs/2404.17735)|**[link](https://github.com/akomand/causaldiffae)**|
 |**2024-04-26**|**BlenderAlchemy: Editing 3D Graphics with Vision-Language Models**|Ian Huang et.al.|[2404.17672](http://arxiv.org/abs/2404.17672)|null|
-|**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|null|
+|**2024-04-26**|**Spatial-frequency Dual-Domain Feature Fusion Network for Low-Light Remote Sensing Image Enhancement**|Zishu Yao et.al.|[2404.17400](http://arxiv.org/abs/2404.17400)|**[link](https://github.com/iijjlk/dffn)**|
 |**2024-04-26**|**Trinity Detector:text-assisted and attention mechanisms based spectral fusion for diffusion generation image detection**|Jiawei Song et.al.|[2404.17254](http://arxiv.org/abs/2404.17254)|null|
 |**2024-04-26**|**Synthesizing Iris Images using Generative Adversarial Networks: Survey and Comparative Analysis**|Shivangi Yadav et.al.|[2404.17105](http://arxiv.org/abs/2404.17105)|null|
 |**2024-04-25**|**REBEL: Reinforcement Learning via Regressing Relative Rewards**|Zhaolin Gao et.al.|[2404.16767](http://arxiv.org/abs/2404.16767)|**[link](https://github.com/Owen-Oertell/rlcm)**|
@@ -1446,7 +1446,7 @@ layout: default
 |**2024-04-21**|**LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions**|Xiaoran Zhao et.al.|[2404.13579](http://arxiv.org/abs/2404.13579)|null|
 |**2024-04-23**|**LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation**|Haoyu Zheng et.al.|[2404.13558](http://arxiv.org/abs/2404.13558)|null|
 |**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
-|**2024-04-20**|**FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models**|Yixuan Li et.al.|[2404.13306](http://arxiv.org/abs/2404.13306)|null|
+|**2024-04-20**|**FakeBench: Uncover the Achilles' Heels of Fake Images with Large Multimodal Models**|Yixuan Li et.al.|[2404.13306](http://arxiv.org/abs/2404.13306)|**[link](https://github.com/yixuan423/fakebench)**|
 |**2024-04-19**|**DensePANet: An improved generative adversarial network for photoacoustic tomography image reconstruction from sparse data**|Hesam Hakimnejad et.al.|[2404.13101](http://arxiv.org/abs/2404.13101)|null|
 |**2024-04-19**|**Robust CLIP-Based Detector for Exposing Diffusion Model-Generated Images**|Santosh et.al.|[2404.12908](http://arxiv.org/abs/2404.12908)|**[link](https://github.com/purdue-m2/robust_dm_generated_image_detection)**|
 |**2024-04-22**|**Generative Modelling with High-Order Langevin Dynamics**|Ziqiang Shi et.al.|[2404.12814](http://arxiv.org/abs/2404.12814)|null|
