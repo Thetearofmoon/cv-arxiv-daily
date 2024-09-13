@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Human Motion Synthesis_ A Diffusion Approach for Motion Stitching and In-Betweening**|Michael Adewole et.al.|[2409.06791](http://arxiv.org/abs/2409.06791)|null|
 |**2024-09-10**|**Data Collection-free Masked Video Modeling**|Yuchi Ishikawa et.al.|[2409.06665](http://arxiv.org/abs/2409.06665)|null|
 |**2024-09-04**|**Mamba as a motion encoder for robotic imitation learning**|Toshiaki Tsuji et.al.|[2409.02636](http://arxiv.org/abs/2409.02636)|null|
 |**2024-09-03**|**Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers**|Sohan Anisetty et.al.|[2409.01591](http://arxiv.org/abs/2409.01591)|null|
@@ -51,7 +52,7 @@ layout: default
 |**2024-06-17**|**Holistic-Motion2D: Scalable Whole-body Human Motion Generation in 2D Space**|Yuan Wang et.al.|[2406.11253](http://arxiv.org/abs/2406.11253)|null|
 |**2024-06-13**|**PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance**|Qijun Gan et.al.|[2406.09326](http://arxiv.org/abs/2406.09326)|null|
 |**2024-06-17**|**Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**|Runyi Yu et.al.|[2406.08096](http://arxiv.org/abs/2406.08096)|null|
-|**2024-06-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
+|**2024-09-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
 |**2024-06-11**|**RecMoDiffuse: Recurrent Flow Diffusion for Human Motion Generation**|Mirgahney Mohamed et.al.|[2406.07169](http://arxiv.org/abs/2406.07169)|null|
 |**2024-06-28**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|**[link](https://github.com/bujiazi/motionclone)**|
 |**2024-06-06**|**An investigation of anisotropy in the bubbly turbulent flow via direct numerical simulations**|Xuanwei Zhang et.al.|[2406.04019](http://arxiv.org/abs/2406.04019)|null|
@@ -422,6 +423,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Unsupervised Novelty Detection Methods Benchmarking with Wavelet Decomposition**|Ariel Priarone et.al.|[2409.07135](http://arxiv.org/abs/2409.07135)|null|
+|**2024-09-10**|**Data-efficient and Interpretable Inverse Materials Design using a Disentangled Variational Autoencoder**|Cheng Zeng et.al.|[2409.06740](http://arxiv.org/abs/2409.06740)|null|
 |**2024-09-11**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644](http://arxiv.org/abs/2409.06644)|null|
 |**2024-09-05**|**Fast ( $\sim N$ ) Diffusion Map Algorithm**|Julio Candanedo et.al.|[2409.05901](http://arxiv.org/abs/2409.05901)|null|
 |**2024-09-08**|**Fast Deep Predictive Coding Networks for Videos Feature Extraction without Labels**|Wenqian Xue et.al.|[2409.04945](http://arxiv.org/abs/2409.04945)|null|
@@ -680,6 +683,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
+|**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
+|**2024-09-11**|**Controllable retinal image synthesis using conditional StyleGAN and latent space manipulation for improved diagnosis and grading of diabetic retinopathy**|Somayeh Pakdelmoez et.al.|[2409.07422](http://arxiv.org/abs/2409.07422)|null|
+|**2024-09-11**|**CCFExp: Facial Image Synthesis with Cycle Cross-Fusion Diffusion Model for Facial Paralysis Individuals**|Weixiang Gao et.al.|[2409.07271](http://arxiv.org/abs/2409.07271)|**[link](https://github.com/gaovix/ccfexp)**|
+|**2024-09-11**|**Bio-Eng-LMM AI Assist chatbot: A Comprehensive Tool for Research and Education**|Ali Forootani et.al.|[2409.07110](http://arxiv.org/abs/2409.07110)|null|
 |**2024-09-10**|**DANCE: Deep Learning-Assisted Analysis of Protein Sequences Using Chaos Enhanced Kaleidoscopic Images**|Taslim Murad et.al.|[2409.06694](http://arxiv.org/abs/2409.06694)|null|
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535](http://arxiv.org/abs/2409.06535)|null|
 |**2024-09-10**|**DiffQRCoder: Diffusion-based Aesthetic QR Code Generation with Scanning Robustness Guided Iterative Refinement**|Jia-Wei Liao et.al.|[2409.06355](http://arxiv.org/abs/2409.06355)|null|
@@ -722,7 +730,7 @@ layout: default
 |**2024-09-02**|**From Bird's-Eye to Street View: Crafting Diverse and Condition-Aligned Images with Latent Diffusion Model**|Xiaojie Xu et.al.|[2409.01014](http://arxiv.org/abs/2409.01014)|null|
 |**2024-09-01**|**ReMOVE: A Reference-free Metric for Object Erasure**|Aditya Chandrasekar et.al.|[2409.00707](http://arxiv.org/abs/2409.00707)|null|
 |**2024-08-31**|**Accurate Compression of Text-to-Image Diffusion Models via Vector Quantization**|Vage Egiazarian et.al.|[2409.00492](http://arxiv.org/abs/2409.00492)|null|
-|**2024-09-06**|**AdaNAT: Exploring Adaptive Policy for Token-Based Image Generation**|Zanlin Ni et.al.|[2409.00342](http://arxiv.org/abs/2409.00342)|**[link](https://github.com/leaplabthu/adanat)**|
+|**2024-09-12**|**AdaNAT: Exploring Adaptive Policy for Token-Based Image Generation**|Zanlin Ni et.al.|[2409.00342](http://arxiv.org/abs/2409.00342)|**[link](https://github.com/leaplabthu/adanat)**|
 |**2024-08-31**|**Training-Free Sketch-Guided Diffusion with Latent Optimization**|Sandra Zhang Ding et.al.|[2409.00313](http://arxiv.org/abs/2409.00313)|null|
 |**2024-09-04**|**Negation Blindness in Large Language Models: Unveiling the NO Syndrome in Image Generation**|Mohammad Nadeem et.al.|[2409.00105](http://arxiv.org/abs/2409.00105)|null|
 |**2024-08-30**|**Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution**|Yixin Wu et.al.|[2408.17285](http://arxiv.org/abs/2408.17285)|null|
