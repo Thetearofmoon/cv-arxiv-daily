@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
 |**2024-09-10**|**Human Motion Synthesis_ A Diffusion Approach for Motion Stitching and In-Betweening**|Michael Adewole et.al.|[2409.06791](http://arxiv.org/abs/2409.06791)|null|
 |**2024-09-10**|**Data Collection-free Masked Video Modeling**|Yuchi Ishikawa et.al.|[2409.06665](http://arxiv.org/abs/2409.06665)|null|
 |**2024-09-04**|**Mamba as a motion encoder for robotic imitation learning**|Toshiaki Tsuji et.al.|[2409.02636](http://arxiv.org/abs/2409.02636)|null|
@@ -186,7 +187,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -211,7 +212,7 @@
 |**2024-03-28**|**OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion**|Xinyu Zhan et.al.|[2403.19417](http://arxiv.org/abs/2403.19417)|null|
 |**2024-07-23**|**ParCo: Part-Coordinating Text-to-Motion Synthesis**|Qiran Zou et.al.|[2403.18512](http://arxiv.org/abs/2403.18512)|**[link](https://github.com/qrzou/parco)**|
 |**2024-03-26**|**Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance**|Zan Wang et.al.|[2403.18036](http://arxiv.org/abs/2403.18036)|**[link](https://github.com/afford-motion/afford-motion)**|
-|**2024-03-23**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
+|**2024-09-14**|**Contact-aware Human Motion Generation from Textual Descriptions**|Sihan Ma et.al.|[2403.15709](http://arxiv.org/abs/2403.15709)|null|
 |**2024-08-07**|**Driving Animatronic Robot Facial Expression From Speech**|Boren Li et.al.|[2403.12670](http://arxiv.org/abs/2403.12670)|**[link](https://github.com/library87/OpenRoboExp)**|
 |**2024-07-23**|**Generative Motion Stylization of Cross-structure Characters within Canonical Motion Space**|Jiaxu Zhang et.al.|[2403.11469](http://arxiv.org/abs/2403.11469)|null|
 |**2024-05-24**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629](http://arxiv.org/abs/2403.08629)|null|
@@ -268,7 +269,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## HOI
 
@@ -374,7 +375,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## LOMC
 
@@ -434,14 +435,15 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation**|Guojun Liang et.al.|[2409.08917](http://arxiv.org/abs/2409.08917)|**[link](https://github.com/gorgen2020/LSSDM_imputation)**|
 |**2024-09-12**|**An Unsupervised Dialogue Topic Segmentation Model Based on Utterance Rewriting**|Xia Hou et.al.|[2409.07672](http://arxiv.org/abs/2409.07672)|null|
-|**2024-09-11**|**Unsupervised Novelty Detection Methods Benchmarking with Wavelet Decomposition**|Ariel Priarone et.al.|[2409.07135](http://arxiv.org/abs/2409.07135)|null|
+|**2024-09-11**|**Unsupervised Novelty Detection Methods Benchmarking with Wavelet Decomposition**|Ariel Priarone et.al.|[2409.07135](http://arxiv.org/abs/2409.07135)|**[link](https://github.com/pic4ser/unsupervised-novelty-detection-methods-benchmarking-with-wavelet-decomposition)**|
 |**2024-09-10**|**Data-efficient and Interpretable Inverse Materials Design using a Disentangled Variational Autoencoder**|Cheng Zeng et.al.|[2409.06740](http://arxiv.org/abs/2409.06740)|null|
 |**2024-09-11**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644](http://arxiv.org/abs/2409.06644)|null|
 |**2024-09-05**|**Fast ( $\sim N$ ) Diffusion Map Algorithm**|Julio Candanedo et.al.|[2409.05901](http://arxiv.org/abs/2409.05901)|null|
@@ -697,19 +699,22 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
+|**2024-09-13**|**GroundingBooth: Grounding Text-to-Image Customization**|Zhexiao Xiong et.al.|[2409.08520](http://arxiv.org/abs/2409.08520)|null|
+|**2024-09-13**|**Enhancing Privacy in ControlNet and Stable Diffusion via Split Learning**|Dixi Yao et.al.|[2409.08503](http://arxiv.org/abs/2409.08503)|null|
 |**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
 |**2024-09-12**|**Improving Virtual Try-On with Garment-focused Diffusion Models**|Siqi Wan et.al.|[2409.08258](http://arxiv.org/abs/2409.08258)|null|
 |**2024-09-12**|**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder**|NaHyeon Park et.al.|[2409.08248](http://arxiv.org/abs/2409.08248)|**[link](https://github.com/nahyeonkaty/textboost)**|
 |**2024-09-12**|**IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation**|Yinwei Wu et.al.|[2409.08240](http://arxiv.org/abs/2409.08240)|null|
 |**2024-09-12**|**High-Frequency Anti-DreamBooth: Robust Defense Against Image Synthesis**|Takuto Onikubo et.al.|[2409.08167](http://arxiv.org/abs/2409.08167)|null|
 |**2024-09-12**|**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance**|Zicheng Duan et.al.|[2409.08091](http://arxiv.org/abs/2409.08091)|null|
-|**2024-09-12**|**Scribble-Guided Diffusion for Training-free Text-to-Image Generation**|Seonho Lee et.al.|[2409.08026](http://arxiv.org/abs/2409.08026)|null|
+|**2024-09-12**|**Scribble-Guided Diffusion for Training-free Text-to-Image Generation**|Seonho Lee et.al.|[2409.08026](http://arxiv.org/abs/2409.08026)|**[link](https://github.com/kaist-cvml-lab/scribble-diffusion)**|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
 |**2024-09-11**|**Controllable retinal image synthesis using conditional StyleGAN and latent space manipulation for improved diagnosis and grading of diabetic retinopathy**|Somayeh Pakdelmoez et.al.|[2409.07422](http://arxiv.org/abs/2409.07422)|null|
@@ -723,7 +728,7 @@
 |**2024-09-09**|**SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values**|Chengwei Sun et.al.|[2409.05926](http://arxiv.org/abs/2409.05926)|null|
 |**2024-09-09**|**CipherDM: Secure Three-Party Inference for Diffusion Model Sampling**|Xin Zhao et.al.|[2409.05414](http://arxiv.org/abs/2409.05414)|null|
 |**2024-09-09**|**Sequential Posterior Sampling with Diffusion Models**|Tristan S. W. Stevens et.al.|[2409.05399](http://arxiv.org/abs/2409.05399)|null|
-|**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|null|
+|**2024-09-09**|**TERD: A Unified Framework for Safeguarding Diffusion Models Against Backdoors**|Yichuan Mo et.al.|[2409.05294](http://arxiv.org/abs/2409.05294)|**[link](https://github.com/pku-ml/terd)**|
 |**2024-09-08**|**Can OOD Object Detectors Learn from Foundation Models?**|Jiahui Liu et.al.|[2409.05162](http://arxiv.org/abs/2409.05162)|**[link](https://github.com/cvmi-lab/syncood)**|
 |**2024-09-07**|**Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation**|Jiaxin Cheng et.al.|[2409.04847](http://arxiv.org/abs/2409.04847)|null|
 |**2024-09-07**|**SpotActor: Training-Free Layout-Controlled Consistent Image Generation**|Jiahao Wang et.al.|[2409.04801](http://arxiv.org/abs/2409.04801)|null|
@@ -1723,7 +1728,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240916>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
