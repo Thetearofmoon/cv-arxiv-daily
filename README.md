@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -192,7 +192,7 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## Motion Synthesis
 
@@ -207,7 +207,7 @@
 |**2024-07-15**|**Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation**|Peng Jin et.al.|[2407.10528](http://arxiv.org/abs/2407.10528)|null|
 |**2024-07-12**|**Infinite Motion: Extended Motion Generation via Long Text Instructions**|Mengtian Li et.al.|[2407.08443](http://arxiv.org/abs/2407.08443)|null|
 |**2024-06-21**|**FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models**|Zhikai Zhang et.al.|[2406.10740](http://arxiv.org/abs/2406.10740)|null|
-|**2024-06-14**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
+|**2024-09-20**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
 |**2024-06-04**|**Towards Practical Single-shot Motion Synthesis**|Konstantinos Roditakis et.al.|[2406.01136](http://arxiv.org/abs/2406.01136)|null|
 |**2024-06-03**|**PDP: Physics-Based Character Animation via Diffusion Policy**|Takara E. Truong et.al.|[2406.00960](http://arxiv.org/abs/2406.00960)|null|
@@ -275,7 +275,7 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## HOI
 
@@ -382,7 +382,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## LOMC
 
@@ -442,7 +442,7 @@
 |**2020-04-07**|**Predicting Camera Viewpoint Improves Cross-dataset Generalization for 3D Human Pose Estimation**|Zhe Wang et.al.|[2004.03143](http://arxiv.org/abs/2004.03143)|null|
 |**2020-08-22**|**Weakly Supervised 3D Human Pose and Shape Reconstruction with Normalizing Flows**|Andrei Zanfir et.al.|[2003.10350](http://arxiv.org/abs/2003.10350)|null|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## UL
 
@@ -450,7 +450,7 @@
 |---|---|---|---|---|
 |**2024-09-17**|**Self-Contrastive Forward-Forward Algorithm**|Xing Chen et.al.|[2409.11593](http://arxiv.org/abs/2409.11593)|null|
 |**2024-09-16**|**Continual Learning of Conjugated Visual Representations through Higher-order Motion Flows**|Simone Marullo et.al.|[2409.11441](http://arxiv.org/abs/2409.11441)|null|
-|**2024-09-15**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438](http://arxiv.org/abs/2409.11438)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
+|**2024-09-20**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438](http://arxiv.org/abs/2409.11438)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
 |**2024-09-17**|**Unsupervised state learning from pairs of states**|Pranjal Agarwal et.al.|[2409.11120](http://arxiv.org/abs/2409.11120)|null|
 |**2024-09-17**|**Multi-frequency Electrical Impedance Tomography Reconstruction with Multi-Branch Attention Image Prior**|Hao Fang et.al.|[2409.10794](http://arxiv.org/abs/2409.10794)|null|
 |**2024-09-16**|**Speaker-IPL: Unsupervised Learning of Speaker Characteristics with i-Vector based Pseudo-Labels**|Zakaria Aldeneh et.al.|[2409.10791](http://arxiv.org/abs/2409.10791)|null|
@@ -463,7 +463,7 @@
 |**2024-09-11**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644](http://arxiv.org/abs/2409.06644)|null|
 |**2024-09-05**|**Fast ( $\sim N$ ) Diffusion Map Algorithm**|Julio Candanedo et.al.|[2409.05901](http://arxiv.org/abs/2409.05901)|null|
 |**2024-09-08**|**Fast Deep Predictive Coding Networks for Videos Feature Extraction without Labels**|Wenqian Xue et.al.|[2409.04945](http://arxiv.org/abs/2409.04945)|null|
-|**2024-09-06**|**Dual-Level Cross-Modal Contrastive Clustering**|Haixin Zhang et.al.|[2409.04561](http://arxiv.org/abs/2409.04561)|**[link](https://github.com/Regan-Zhang/DXMC)**|
+|**2024-09-20**|**Dual-Level Cross-Modal Contrastive Clustering**|Haixin Zhang et.al.|[2409.04561](http://arxiv.org/abs/2409.04561)|**[link](https://github.com/Regan-Zhang/DXMC)**|
 |**2024-09-06**|**Learning to Solve Combinatorial Optimization under Positive Linear Constraints via Non-Autoregressive Neural Networks**|Runzhong Wang et.al.|[2409.04495](http://arxiv.org/abs/2409.04495)|**[link](https://github.com/thinklab-sjtu/nar-co-solver)**|
 |**2024-08-19**|**Combining supervised and unsupervised learning methods to predict financial market movements**|Gabriel Rodrigues Palma et.al.|[2409.03762](http://arxiv.org/abs/2409.03762)|null|
 |**2024-09-05**|**Semi-Supervised Sparse Gaussian Classification: Provable Benefits of Unlabeled Data**|Eyar Azar et.al.|[2409.03335](http://arxiv.org/abs/2409.03335)|null|
@@ -714,7 +714,7 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 ## IS
 
@@ -728,7 +728,7 @@
 |**2024-09-18**|**RaggeDi: Diffusion-based State Estimation of Disordered Rags, Sheets, Towels and Blankets**|Jikai Ye et.al.|[2409.11831](http://arxiv.org/abs/2409.11831)|null|
 |**2024-09-18**|**GUNet: A Graph Convolutional Network United Diffusion Model for Stable and Diversity Pose Generation**|Shuowen Liang et.al.|[2409.11689](http://arxiv.org/abs/2409.11689)|null|
 |**2024-09-17**|**Using Physics Informed Generative Adversarial Networks to Model 3D porous media**|Zihan Ren et.al.|[2409.11541](http://arxiv.org/abs/2409.11541)|null|
-|**2024-09-15**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438](http://arxiv.org/abs/2409.11438)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
+|**2024-09-20**|**Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends**|Aanish Paruchuri et.al.|[2409.11438](http://arxiv.org/abs/2409.11438)|**[link](https://github.com/arthijayaraman-lab/automated-atomic-force-microscopy-image-analysis)**|
 |**2024-09-17**|**Fine-Tuning Image-Conditional Diffusion Models is Easier than You Think**|Gonzalo Martin Garcia et.al.|[2409.11355](http://arxiv.org/abs/2409.11355)|**[link](https://github.com/VisualComputingInstitute/diffusion-e2e-ft)**|
 |**2024-09-17**|**OmniGen: Unified Image Generation**|Shitao Xiao et.al.|[2409.11340](http://arxiv.org/abs/2409.11340)|**[link](https://github.com/vectorspacelab/omnigen)**|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
@@ -1771,7 +1771,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240922>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
