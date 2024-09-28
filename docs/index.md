@@ -846,7 +846,7 @@ layout: default
 |**2024-09-04**|**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models**|Wen Li et.al.|[2409.02543](http://arxiv.org/abs/2409.02543)|**[link](https://github.com/alipay/style-tokenizer)**|
 |**2024-09-04**|**A Learnable Color Correction Matrix for RAW Reconstruction**|Anqi Liu et.al.|[2409.02497](http://arxiv.org/abs/2409.02497)|null|
 |**2024-09-04**|**Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2409.02429](http://arxiv.org/abs/2409.02429)|null|
-|**2024-09-10**|**Exploring Low-Dimensional Subspaces in Diffusion Models for Controllable Image Editing**|Siyi Chen et.al.|[2409.02374](http://arxiv.org/abs/2409.02374)|null|
+|**2024-09-10**|**Exploring Low-Dimensional Subspaces in Diffusion Models for Controllable Image Editing**|Siyi Chen et.al.|[2409.02374](http://arxiv.org/abs/2409.02374)|**[link](https://github.com/chicychen/loco-edit)**|
 |**2024-09-03**|**QID $^2$ : An Image-Conditioned Diffusion Model for Q-space Up-sampling of DWI Data**|Zijian Chen et.al.|[2409.02309](http://arxiv.org/abs/2409.02309)|null|
 |**2024-09-03**|**Probing Noncentrosymmetric 2D Materials by Fourier Space Second Harmonic Imaging**|Lucas Lafeta et.al.|[2409.02071](http://arxiv.org/abs/2409.02071)|null|
 |**2024-09-03**|**A novel machine learning method to detect double- $Λ$ hypernuclear events in nuclear emulsions**|Yan He et.al.|[2409.01657](http://arxiv.org/abs/2409.01657)|null|
@@ -1403,7 +1403,7 @@ layout: default
 |**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
 |**2024-05-27**|**Unified Editing of Panorama, 3D Scenes, and Videos Through Disentangled Self-Attention Injection**|Gihyun Kwon et.al.|[2405.16823](http://arxiv.org/abs/2405.16823)|null|
 |**2024-05-27**|**TIE: Revolutionizing Text-based Image Editing for Complex-Prompt Following and High-Fidelity Editing**|Xinyu Zhang et.al.|[2405.16803](http://arxiv.org/abs/2405.16803)|null|
-|**2024-05-27**|**PromptFix: You Prompt and We Fix the Photo**|Yongsheng Yu et.al.|[2405.16785](http://arxiv.org/abs/2405.16785)|null|
+|**2024-05-27**|**PromptFix: You Prompt and We Fix the Photo**|Yongsheng Yu et.al.|[2405.16785](http://arxiv.org/abs/2405.16785)|**[link](https://github.com/yeates/promptfix)**|
 |**2024-05-28**|**Automatic Jailbreaking of the Text-to-Image Generative AI Systems**|Minseon Kim et.al.|[2405.16567](http://arxiv.org/abs/2405.16567)|**[link](https://github.com/Kim-Minseon/APGP)**|
 |**2024-05-26**|**User-Friendly Customized Generation with Multi-Modal Prompts**|Linhao Zhong et.al.|[2405.16501](http://arxiv.org/abs/2405.16501)|**[link](https://github.com/zhongzero/multi-modal-prompt)**|
 |**2024-05-25**|**Enhancing Consistency-Based Image Generation via Adversarialy-Trained Classification and Energy-Based Discrimination**|Shelly Golan et.al.|[2405.16260](http://arxiv.org/abs/2405.16260)|null|
@@ -1491,7 +1491,7 @@ layout: default
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|**[link](https://github.com/zonglinl/consecutivebrownianbridge)**|
 |**2024-05-09**|**Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models**|Zhe Ma et.al.|[2405.05846](http://arxiv.org/abs/2405.05846)|null|
 |**2024-05-10**|**MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation**|Yuxiang Wei et.al.|[2405.05806](http://arxiv.org/abs/2405.05806)|**[link](https://github.com/csyxwei/masterweaver)**|
-|**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|null|
+|**2024-05-09**|**Exploring Text-Guided Single Image Editing for Remote Sensing Images**|Fangzhou Han et.al.|[2405.05769](http://arxiv.org/abs/2405.05769)|**[link](https://github.com/hit-philiphan/remote_sensing_image_editing)**|
 |**2024-05-09**|**End-to-End Generative Semantic Communication Powered by Shared Semantic Knowledge Base**|Shuling Li et.al.|[2405.05738](http://arxiv.org/abs/2405.05738)|null|
 |**2024-05-09**|**VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis**|Zhihan Ju et.al.|[2405.05667](http://arxiv.org/abs/2405.05667)|null|
 |**2024-05-09**|**A Survey on Personalized Content Synthesis with Diffusion Models**|Xulu Zhang et.al.|[2405.05538](http://arxiv.org/abs/2405.05538)|null|
