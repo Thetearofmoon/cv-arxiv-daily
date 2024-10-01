@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -198,13 +198,13 @@
 |**2023-11-12**|**ChatAnything: Facetime Chat with LLM-Enhanced Personas**|Yilin Zhao et.al.|[2311.06772](http://arxiv.org/abs/2311.06772)|null|
 |**2024-03-04**|**Learning Agile Bipedal Motions on a Quadrupedal Robot**|Yunfei Li et.al.|[2311.05818](http://arxiv.org/abs/2311.05818)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## Motion Synthesis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-24**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
+|**2024-09-30**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
 |**2024-09-14**|**LawDNet: Enhanced Audio-Driven Lip Synthesis via Local Affine Warping Deformation**|Deng Junli et.al.|[2409.09326](http://arxiv.org/abs/2409.09326)|null|
 |**2024-09-03**|**Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers**|Sohan Anisetty et.al.|[2409.01591](http://arxiv.org/abs/2409.01591)|null|
 |**2024-08-23**|**T3M: Text Guided 3D Human Motion Synthesis from Speech**|Wenshuo Peng et.al.|[2408.12885](http://arxiv.org/abs/2408.12885)|**[link](https://github.com/gloria2tt/t3m)**|
@@ -282,12 +282,13 @@
 |**2023-04-03**|**Controllable Motion Synthesis and Reconstruction with Autoregressive Diffusion Models**|Wenjie Yin et.al.|[2304.04681](http://arxiv.org/abs/2304.04681)|null|
 |**2023-10-30**|**Generating Continual Human Motion in Diverse 3D Scenes**|Aymen Mir et.al.|[2304.02061](http://arxiv.org/abs/2304.02061)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## HOI
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes**|Shuo Wang et.al.|[2409.18852](http://arxiv.org/abs/2409.18852)|**[link](https://github.com/tb2-sy/st-2dgs)**|
 |**2024-09-03**|**A New People-Object Interaction Dataset and NVS Benchmarks**|Shuai Guo et.al.|[2409.12980](http://arxiv.org/abs/2409.12980)|null|
 |**2024-09-15**|**A Comprehensive Methodological Survey of Human Activity Recognition Across Divers Data Modalities**|Jungpil Shin et.al.|[2409.09678](http://arxiv.org/abs/2409.09678)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
@@ -390,7 +391,7 @@
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961](http://arxiv.org/abs/2308.05961)|null|
 |**2023-08-04**|**Improving Human-Object Interaction Detection via Virtual Image Learning**|Shuman Fang et.al.|[2308.02606](http://arxiv.org/abs/2308.02606)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## LOMC
 
@@ -403,7 +404,7 @@
 |**2024-03-30**|**EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling**|Haiyang Liu et.al.|[2401.00374](http://arxiv.org/abs/2401.00374)|**[link](https://github.com/PantoMatrix/PantoMatrix)**|
 |**2023-12-27**|**HMP: Hand Motion Priors for Pose and Shape Estimation from Video**|Enes Duran et.al.|[2312.16737](http://arxiv.org/abs/2312.16737)|null|
 |**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636](http://arxiv.org/abs/2312.15636)|null|
-|**2023-12-19**|**MotionScript: Natural Language Descriptions for Expressive 3D Human Motions**|Payam Jome Yazdian et.al.|[2312.12634](http://arxiv.org/abs/2312.12634)|null|
+|**2024-09-29**|**MotionScript: Natural Language Descriptions for Expressive 3D Human Motions**|Payam Jome Yazdian et.al.|[2312.12634](http://arxiv.org/abs/2312.12634)|null|
 |**2023-11-03**|**SparsePoser: Real-time Full-body Motion Reconstruction from Sparse Data**|Jose Luis Ponton et.al.|[2311.02191](http://arxiv.org/abs/2311.02191)|**[link](https://github.com/UPC-ViRVIG/SparsePoser)**|
 |**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249](http://arxiv.org/abs/2310.20249)|null|
 |**2024-03-24**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729](http://arxiv.org/abs/2310.14729)|null|
@@ -453,12 +454,15 @@
 |**2020-04-29**|**VIBE: Video Inference for Human Body Pose and Shape Estimation**|Muhammed Kocabas et.al.|[1912.05656](http://arxiv.org/abs/1912.05656)|**[link](https://github.com/mkocabas/VIBE)**|
 |**2020-07-07**|**Learning Trajectory Dependencies for Human Motion Prediction**|Wei Mao et.al.|[1908.05436](http://arxiv.org/abs/1908.05436)|**[link](https://github.com/wei-mao-2019/LearnTrajDep)**|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## UL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Seeing the Invisible through Speckle Images**|Weiru Fan et.al.|[2409.18815](http://arxiv.org/abs/2409.18815)|null|
+|**2024-09-27**|**Unsupervised Cognition**|Alfredo Ibias et.al.|[2409.18624](http://arxiv.org/abs/2409.18624)|null|
+|**2024-09-27**|**Improved Approximation Algorithms for Relational Clustering**|Aryan Esmailpour et.al.|[2409.18498](http://arxiv.org/abs/2409.18498)|null|
 |**2024-09-26**|**Unsupervised Learning Based Multi-Scale Exposure Fusion**|Chaobing Zheng et.al.|[2409.17830](http://arxiv.org/abs/2409.17830)|null|
 |**2024-09-24**|**Leveraging Unsupervised Learning for Cost-Effective Visual Anomaly Detection**|Yunbo Long et.al.|[2409.15980](http://arxiv.org/abs/2409.15980)|null|
 |**2024-09-23**|**Research on Dynamic Data Flow Anomaly Detection based on Machine Learning**|Liyang Wang et.al.|[2409.14796](http://arxiv.org/abs/2409.14796)|null|
@@ -467,7 +471,7 @@
 |**2024-09-20**|**Unsupervised Learning of Multi-modal Affine Registration for PET/CT**|Junyu Chen et.al.|[2409.13863](http://arxiv.org/abs/2409.13863)|null|
 |**2024-09-20**|**Recent Advancement of Emotion Cognition in Large Language Models**|Yuyan Chen et.al.|[2409.13354](http://arxiv.org/abs/2409.13354)|null|
 |**2024-09-20**|**Understanding Stain Separation Improves Cross-Scanner Adenocarcinoma Segmentation with Joint Multi-Task Learning**|Ho Heon Kim et.al.|[2409.13246](http://arxiv.org/abs/2409.13246)|null|
-|**2024-09-20**|**Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior**|Xiyana Figuera et.al.|[2409.13208](http://arxiv.org/abs/2409.13208)|null|
+|**2024-09-28**|**Redefining Data Pairing for Motion Retargeting Leveraging a Human Body Prior**|Xiyana Figuera et.al.|[2409.13208](http://arxiv.org/abs/2409.13208)|null|
 |**2024-09-19**|**Counterfactual Explanations for Clustering Models**|Aurora Spagnol et.al.|[2409.12632](http://arxiv.org/abs/2409.12632)|null|
 |**2024-09-17**|**Self-Contrastive Forward-Forward Algorithm**|Xing Chen et.al.|[2409.11593](http://arxiv.org/abs/2409.11593)|null|
 |**2024-09-16**|**Continual Learning of Conjugated Visual Representations through Higher-order Motion Flows**|Simone Marullo et.al.|[2409.11441](http://arxiv.org/abs/2409.11441)|null|
@@ -735,12 +739,17 @@
 |**2024-02-06**|**IoT Network Traffic Analysis with Deep Learning**|Mei Liu et.al.|[2402.04469](http://arxiv.org/abs/2402.04469)|null|
 |**2024-02-06**|**A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation**|Zhengbo Wang et.al.|[2402.04087](http://arxiv.org/abs/2402.04087)|**[link](https://github.com/mrflogs/iclr24)**|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 ## IS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Detecting Dataset Abuse in Fine-Tuning Stable Diffusion Models for Text-to-Image Synthesis**|Songrui Wang et.al.|[2409.18897](http://arxiv.org/abs/2409.18897)|null|
+|**2024-09-26**|**Realistic Evaluation of Model Merging for Compositional Generalization**|Derek Tam et.al.|[2409.18314](http://arxiv.org/abs/2409.18314)|null|
+|**2024-09-26**|**Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection**|Lalith Bharadwaj Baru et.al.|[2409.18301](http://arxiv.org/abs/2409.18301)|**[link](https://github.com/lalithbharadwajbaru/wavelet-clip)**|
+|**2024-09-26**|**Synthesizing beta-amyloid PET images from T1-weighted Structural MRI: A Preliminary Study**|Qing Lyu et.al.|[2409.18282](http://arxiv.org/abs/2409.18282)|null|
+|**2024-09-26**|**Trustworthy Text-to-Image Diffusion Models: A Timely and Focused Survey**|Yi Zhang et.al.|[2409.18214](http://arxiv.org/abs/2409.18214)|**[link](https://github.com/wellzline/trustworthy_t2i_dms)**|
 |**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
@@ -1842,7 +1851,7 @@
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-06**|**Investigation of the Impact of Synthetic Training Data in the Industrial Application of Terminal Strip Object Detection**|Nico Baumgart et.al.|[2403.04809](http://arxiv.org/abs/2403.04809)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
