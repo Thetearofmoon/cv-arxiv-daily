@@ -609,7 +609,7 @@
 |**2024-05-27**|**Learning phase transitions by siamese neural network**|Jianmin Shen et.al.|[2405.16769](http://arxiv.org/abs/2405.16769)|null|
 |**2024-05-24**|**3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**|Boyi Sun et.al.|[2405.15286](http://arxiv.org/abs/2405.15286)|**[link](https://github.com/sbysbysbys/uov)**|
 |**2024-05-24**|**Beyond the noise: intrinsic dimension estimation with optimal neighbourhood identification**|Antonio Di Noia et.al.|[2405.15132](http://arxiv.org/abs/2405.15132)|null|
-|**2024-05-23**|**PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning**|Chengyang Ying et.al.|[2405.14073](http://arxiv.org/abs/2405.14073)|null|
+|**2024-05-23**|**PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning**|Chengyang Ying et.al.|[2405.14073](http://arxiv.org/abs/2405.14073)|**[link](https://github.com/thu-ml/CEURL)**|
 |**2024-05-22**|**Addressing the Non-perturbative Regime of the Quantum Anharmonic Oscillator by Physics-Informed Neural Networks**|Lorenzo Brevi et.al.|[2405.13442](http://arxiv.org/abs/2405.13442)|null|
 |**2024-05-21**|**Unsupervised Searches for Cosmological Parity Violation: Improving Detection Power with the Neural Field Scattering Transform**|Matthew Craigie et.al.|[2405.13083](http://arxiv.org/abs/2405.13083)|null|
 |**2024-05-22**|**A Masked Semi-Supervised Learning Approach for Otago Micro Labels Recognition**|Meng Shang et.al.|[2405.12711](http://arxiv.org/abs/2405.12711)|null|
@@ -1080,7 +1080,7 @@
 |**2024-07-24**|**CDDIP: Constrained Diffusion-Driven Deep Image Prior for Seismic Image Reconstruction**|Paul Goyes-Peñafiel et.al.|[2407.17402](http://arxiv.org/abs/2407.17402)|**[link](https://github.com/PAULGOYES/CDDIP)**|
 |**2024-07-24**|**ViPer: Visual Personalization of Generative Models via Individual Preference Learning**|Sogand Salehi et.al.|[2407.17365](http://arxiv.org/abs/2407.17365)|null|
 |**2024-07-25**|**LPGen: Enhancing High-Fidelity Landscape Painting Generation through Diffusion Model**|Wanggong Yang et.al.|[2407.17229](http://arxiv.org/abs/2407.17229)|null|
-|**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095](http://arxiv.org/abs/2407.17095)|null|
+|**2024-07-24**|**MemBench: Memorized Image Trigger Prompt Dataset for Diffusion Models**|Chunsan Hong et.al.|[2407.17095](http://arxiv.org/abs/2407.17095)|**[link](https://github.com/chunsanHong/MemBench_code)**|
 |**2024-08-02**|**An Adaptive Gradient Regularization Method**|Huixiu Jiang et.al.|[2407.16944](http://arxiv.org/abs/2407.16944)|null|
 |**2024-07-24**|**Synthetic Trajectory Generation Through Convolutional Neural Networks**|Jesse Merhi et.al.|[2407.16938](http://arxiv.org/abs/2407.16938)|**[link](https://github.com/jesse-merhi/CNN-TRAJGAN)**|
 |**2024-07-23**|**Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions**|Fabio Tosi et.al.|[2407.16698](http://arxiv.org/abs/2407.16698)|**[link](https://github.com/fabiotosi92/diffusion4robustdepth)**|
@@ -1455,7 +1455,7 @@
 |**2024-05-25**|**Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier**|Shuaixin Liu et.al.|[2405.16214](http://arxiv.org/abs/2405.16214)|**[link](https://github.com/OUCVisionGroup/CLIP-UIE)**|
 |**2024-05-25**|**Method and Software Tool for Generating Artificial Databases of Biomedical Images Based on Deep Neural Networks**|Oleh Berezsky et.al.|[2405.16119](http://arxiv.org/abs/2405.16119)|null|
 |**2024-05-25**|**Lateralization MLP: A Simple Brain-inspired Architecture for Diffusion**|Zizhao Hu et.al.|[2405.16098](http://arxiv.org/abs/2405.16098)|**[link](https://github.com/zizhao-hu/l-mlp)**|
-|**2024-05-25**|**PTQ4DiT: Post-training Quantization for Diffusion Transformers**|Junyi Wu et.al.|[2405.16005](http://arxiv.org/abs/2405.16005)|null|
+|**2024-05-25**|**PTQ4DiT: Post-training Quantization for Diffusion Transformers**|Junyi Wu et.al.|[2405.16005](http://arxiv.org/abs/2405.16005)|**[link](https://github.com/adreamwu/ptq4dit)**|
 |**2024-05-24**|**Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation**|Shentong Mo et.al.|[2405.15881](http://arxiv.org/abs/2405.15881)|null|
 |**2024-05-24**|**Learning to Discretize Denoising Diffusion ODEs**|Vinh Tong et.al.|[2405.15506](http://arxiv.org/abs/2405.15506)|null|
 |**2024-05-24**|**A Misleading Gallery of Fluid Motion by Generative Artificial Intelligence**|Ali Kashefi et.al.|[2405.15406](http://arxiv.org/abs/2405.15406)|**[link](https://github.com/Ali-Stanford/MisleadingGalleryOfFluidMotionByAI)**|
@@ -1493,7 +1493,7 @@
 |**2024-05-22**|**Robust Disaster Assessment from Aerial Imagery Using Text-to-Image Synthetic Data**|Tarun Kalluri et.al.|[2405.13779](http://arxiv.org/abs/2405.13779)|null|
 |**2024-05-24**|**Curriculum Direct Preference Optimization for Diffusion and Consistency Models**|Florinel-Alin Croitoru et.al.|[2405.13637](http://arxiv.org/abs/2405.13637)|null|
 |**2024-05-22**|**MetaEarth: A Generative Foundation Model for Global-Scale Remote Sensing Image Generation**|Zhiping Yu et.al.|[2405.13570](http://arxiv.org/abs/2405.13570)|null|
-|**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|null|
+|**2024-05-22**|**MotionCraft: Physics-based Zero-Shot Video Generation**|Luca Savant Aira et.al.|[2405.13557](http://arxiv.org/abs/2405.13557)|**[link](https://github.com/mezzelfo/MotionCraft)**|
 |**2024-05-22**|**Class-Conditional self-reward mechanism for improved Text-to-Image models**|Safouane El Ghazouali et.al.|[2405.13473](http://arxiv.org/abs/2405.13473)|**[link](https://github.com/safouaneelg/SRT2I)**|
 |**2024-05-22**|**How to Trace Latent Generative Model Generated Images without Artificial Watermark?**|Zhenting Wang et.al.|[2405.13360](http://arxiv.org/abs/2405.13360)|**[link](https://github.com/zhentingwang/latenttracer)**|
 |**2024-05-24**|**Computational Tradeoffs in Image Synthesis: Diffusion, Masked-Token, and Next-Token Prediction**|Maciej Kilian et.al.|[2405.13218](http://arxiv.org/abs/2405.13218)|null|
