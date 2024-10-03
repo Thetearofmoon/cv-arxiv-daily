@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -307,7 +307,7 @@ layout: default
 |**2024-07-02**|**HOIMotion: Forecasting Human Motion During Human-Object Interactions Using Egocentric 3D Object Bounding Boxes**|Zhiming Hu et.al.|[2407.02633](http://arxiv.org/abs/2407.02633)|null|
 |**2024-07-23**|**From Category to Scenery: An End-to-End Framework for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2407.00917](http://arxiv.org/abs/2407.00917)|null|
 |**2024-06-30**|**Learning Granularity-Aware Affordances from Human-Object Interaction for Tool-Based Functional Grasping in Dexterous Robotics**|Fan Yang et.al.|[2407.00614](http://arxiv.org/abs/2407.00614)|**[link](https://github.com/yangfan293/gaaf-dex)**|
-|**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
+|**2024-10-02**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement**|Chengwen Zhang et.al.|[2406.19353](http://arxiv.org/abs/2406.19353)|**[link](https://github.com/leolyliu/core4d-instructions)**|
 |**2024-06-26**|**Geometric Features Enhanced Human-Object Interaction Detection**|Manli Zhu et.al.|[2406.18691](http://arxiv.org/abs/2406.18691)|**[link](https://github.com/zhumanli/geohoi)**|
 |**2024-08-20**|**Human-Aware 3D Scene Generation with Spatially-constrained Diffusion Models**|Xiaolin Hong et.al.|[2406.18159](http://arxiv.org/abs/2406.18159)|null|
@@ -742,9 +742,9 @@ layout: default
 |**2024-09-28**|**Introducing SDICE: An Index for Assessing Diversity of Synthetic Medical Datasets**|Mohammed Talha Alam et.al.|[2409.19436](http://arxiv.org/abs/2409.19436)|null|
 |**2024-09-28**|**Conditional Image Synthesis with Diffusion Models: A Survey**|Zheyuan Zhan et.al.|[2409.19365](http://arxiv.org/abs/2409.19365)|null|
 |**2024-09-28**|**FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models**|Yucheng Xie et.al.|[2409.19289](http://arxiv.org/abs/2409.19289)|null|
-|**2024-09-27**|**Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models**|Yize Li et.al.|[2409.19128](http://arxiv.org/abs/2409.19128)|**[link](https://github.com/yeez-lee/data-selection-and-reweighting-for-diffusion-models)**|
+|**2024-10-01**|**Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models**|Yize Li et.al.|[2409.19128](http://arxiv.org/abs/2409.19128)|**[link](https://github.com/yeez-lee/data-selection-and-reweighting-for-diffusion-models)**|
 |**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120](http://arxiv.org/abs/2409.19120)|null|
-|**2024-09-27**|**Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis**|Salaheldin Mohamed et.al.|[2409.19111](http://arxiv.org/abs/2409.19111)|null|
+|**2024-10-02**|**Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis**|Salaheldin Mohamed et.al.|[2409.19111](http://arxiv.org/abs/2409.19111)|null|
 |**2024-09-27**|**Detecting Dataset Abuse in Fine-Tuning Stable Diffusion Models for Text-to-Image Synthesis**|Songrui Wang et.al.|[2409.18897](http://arxiv.org/abs/2409.18897)|null|
 |**2024-09-26**|**Realistic Evaluation of Model Merging for Compositional Generalization**|Derek Tam et.al.|[2409.18314](http://arxiv.org/abs/2409.18314)|null|
 |**2024-09-26**|**Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection**|Lalith Bharadwaj Baru et.al.|[2409.18301](http://arxiv.org/abs/2409.18301)|**[link](https://github.com/lalithbharadwajbaru/wavelet-clip)**|
@@ -754,7 +754,7 @@ layout: default
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-30**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
 |**2024-09-26**|**Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion**|Hengrui Gu et.al.|[2409.17928](http://arxiv.org/abs/2409.17928)|null|
-|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|null|
+|**2024-09-26**|**Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation**|Qihan Huang et.al.|[2409.17920](http://arxiv.org/abs/2409.17920)|**[link](https://github.com/hqhqaq/mip-adapter)**|
 |**2024-09-26**|**Text Image Generation for Low-Resource Languages with Dual Translation Learning**|Chihiro Noguchi et.al.|[2409.17747](http://arxiv.org/abs/2409.17747)|null|
 |**2024-09-26**|**AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status**|Jinghao Zhang et.al.|[2409.17740](http://arxiv.org/abs/2409.17740)|null|
 |**2024-09-26**|**ID $^3$ : Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition**|Shen Li et.al.|[2409.17576](http://arxiv.org/abs/2409.17576)|null|
