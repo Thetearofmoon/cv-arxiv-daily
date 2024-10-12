@@ -583,7 +583,7 @@
 |**2024-07-08**|**SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers**|Mingrui Zhao et.al.|[2407.06305](http://arxiv.org/abs/2407.06305)|null|
 |**2024-07-08**|**Unsupervised machine learning for detecting mutual independence among eigenstate regimes in interacting quasiperiodic chains**|Colin Beveridge et.al.|[2407.06253](http://arxiv.org/abs/2407.06253)|null|
 |**2024-07-08**|**Kinetic Interacting Particle Langevin Monte Carlo**|Paul Felix Valsecchi Oliva et.al.|[2407.05790](http://arxiv.org/abs/2407.05790)|null|
-|**2024-07-08**|**An accurate detection is not all you need to combat label noise in web-noisy datasets**|Paul Albert et.al.|[2407.05528](http://arxiv.org/abs/2407.05528)|null|
+|**2024-07-08**|**An accurate detection is not all you need to combat label noise in web-noisy datasets**|Paul Albert et.al.|[2407.05528](http://arxiv.org/abs/2407.05528)|**[link](https://github.com/paulalbert31/lsa)**|
 |**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384](http://arxiv.org/abs/2407.04384)|**[link](https://github.com/genintel/uns-obj-pose3d)**|
 |**2024-07-22**|**Predictive Coding Networks and Inference Learning: Tutorial and Survey**|Björn van Zwol et.al.|[2407.04117](http://arxiv.org/abs/2407.04117)|null|
 |**2024-07-04**|**A fast neural hybrid Newton solver adapted to implicit methods for nonlinear dynamics**|Tianyu Jin et.al.|[2407.03945](http://arxiv.org/abs/2407.03945)|null|
@@ -869,7 +869,7 @@
 |**2024-09-29**|**Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection**|Yuhang Ma et.al.|[2409.19624](http://arxiv.org/abs/2409.19624)|null|
 |**2024-09-29**|**Effective Diffusion Transformer Architecture for Image Super-Resolution**|Kun Cheng et.al.|[2409.19589](http://arxiv.org/abs/2409.19589)|**[link](https://github.com/kunncheng/dit-sr)**|
 |**2024-09-28**|**Introducing SDICE: An Index for Assessing Diversity of Synthetic Medical Datasets**|Mohammed Talha Alam et.al.|[2409.19436](http://arxiv.org/abs/2409.19436)|null|
-|**2024-10-03**|**Conditional Image Synthesis with Diffusion Models: A Survey**|Zheyuan Zhan et.al.|[2409.19365](http://arxiv.org/abs/2409.19365)|null|
+|**2024-10-03**|**Conditional Image Synthesis with Diffusion Models: A Survey**|Zheyuan Zhan et.al.|[2409.19365](http://arxiv.org/abs/2409.19365)|**[link](https://github.com/zju-pi/awesome-conditional-diffusion-models)**|
 |**2024-09-28**|**FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models**|Yucheng Xie et.al.|[2409.19289](http://arxiv.org/abs/2409.19289)|null|
 |**2024-10-01**|**Pruning then Reweighting: Towards Data-Efficient Training of Diffusion Models**|Yize Li et.al.|[2409.19128](http://arxiv.org/abs/2409.19128)|**[link](https://github.com/yeez-lee/data-selection-and-reweighting-for-diffusion-models)**|
 |**2024-09-27**|**Secure Multiparty Generative AI**|Manil Shrestha et.al.|[2409.19120](http://arxiv.org/abs/2409.19120)|null|
