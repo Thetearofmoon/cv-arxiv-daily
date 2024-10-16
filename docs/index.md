@@ -7,20 +7,22 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790](http://arxiv.org/abs/2410.10790)|**[link](https://github.com/windvchen/sitcom-crafter)**|
+|**2024-10-14**|**ControlMM: Controllable Masked Motion Generation**|Ekkasit Pinyoanuntapong et.al.|[2410.10780](http://arxiv.org/abs/2410.10780)|null|
 |**2024-10-11**|**Parametric multi-fidelity Monte Carlo estimation with applications to extremes**|Minji Kim et.al.|[2410.08523](http://arxiv.org/abs/2410.08523)|null|
 |**2024-10-10**|**MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**|Sijing Wu et.al.|[2410.07757](http://arxiv.org/abs/2410.07757)|null|
-|**2024-10-09**|**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**|Gaoge Han et.al.|[2410.07296](http://arxiv.org/abs/2410.07296)|null|
+|**2024-10-15**|**ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model**|Gaoge Han et.al.|[2410.07296](http://arxiv.org/abs/2410.07296)|null|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
 |**2024-10-09**|**LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning**|Zhe Li et.al.|[2410.07093](http://arxiv.org/abs/2410.07093)|null|
 |**2024-10-11**|**ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling**|Deok-Kyeong Jang et.al.|[2410.06963](http://arxiv.org/abs/2410.06963)|null|
-|**2024-10-09**|**M ${}^{3}$ Bench: Benchmarking Whole-body Motion Generation for Mobile Manipulation in 3D Scenes**|Zeyu Zhang et.al.|[2410.06678](http://arxiv.org/abs/2410.06678)|null|
+|**2024-10-15**|**M3Bench: Benchmarking Whole-body Motion Generation for Mobile Manipulation in 3D Scenes**|Zeyu Zhang et.al.|[2410.06678](http://arxiv.org/abs/2410.06678)|null|
 |**2024-10-09**|**MotionRL: Align Text-to-Motion Generation to Human Preferences with Multi-Reward Reinforcement Learning**|Xiaoyang Liu et.al.|[2410.06513](http://arxiv.org/abs/2410.06513)|null|
 |**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
 |**2024-10-06**|**UniMuMo: Unified Text, Music and Motion Generation**|Han Yang et.al.|[2410.04534](http://arxiv.org/abs/2410.04534)|null|
@@ -214,6 +216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790](http://arxiv.org/abs/2410.10790)|**[link](https://github.com/windvchen/sitcom-crafter)**|
 |**2024-10-08**|**Towards a GENEA Leaderboard -- an Extended, Living Benchmark for Evaluating and Advancing Conversational Motion Synthesis**|Rajmund Nagy et.al.|[2410.06327](http://arxiv.org/abs/2410.06327)|null|
 |**2024-10-14**|**Versatile Motion Langauge Models for Multi-Turn Interactive Agents**|Jeongeun Park et.al.|[2410.05628](http://arxiv.org/abs/2410.05628)|null|
 |**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
@@ -300,6 +303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782](http://arxiv.org/abs/2410.10782)|null|
 |**2024-10-10**|**Understanding Spatio-Temporal Relations in Human-Object Interaction using Pyramid Graph Convolutional Network**|Hao Xing et.al.|[2410.07912](http://arxiv.org/abs/2410.07912)|null|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
 |**2024-10-08**|**Autonomous Character-Scene Interaction Synthesis from Text Instruction**|Nan Jiang et.al.|[2410.03187](http://arxiv.org/abs/2410.03187)|null|
@@ -472,8 +476,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-11**|**Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection**|Yuanyi Wang et.al.|[2410.08877](http://arxiv.org/abs/2410.08877)|null|
-|**2024-10-11**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637](http://arxiv.org/abs/2410.08637)|null|
+|**2024-10-14**|**TopoFR: A Closer Look at Topology Alignment on Face Recognition**|Jun Dan et.al.|[2410.10587](http://arxiv.org/abs/2410.10587)|**[link](https://github.com/modelscope/facechain)**|
+|**2024-10-13**|**TapWeight: Reweighting Pretraining Objectives for Task-Adaptive Pretraining**|Ruiyi Zhang et.al.|[2410.10006](http://arxiv.org/abs/2410.10006)|null|
+|**2024-10-11**|**Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection**|Yuanyi Wang et.al.|[2410.08877](http://arxiv.org/abs/2410.08877)|**[link](https://github.com/wyy-code/MADGA)**|
+|**2024-10-15**|**Unsupervised Learning of Spatio-Temporal Patterns in Spiking Neuronal Networks**|Florian Feiler et.al.|[2410.08637](http://arxiv.org/abs/2410.08637)|null|
 |**2024-10-11**|**Data-Driven Discovery of the Origins of UV Absorption in Alpha-3C Protein**|Germaine Neza Hozana et.al.|[2410.08624](http://arxiv.org/abs/2410.08624)|null|
 |**2024-10-10**|**A phase transition in sampling from Restricted Boltzmann Machines**|Youngwoo Kwon et.al.|[2410.08423](http://arxiv.org/abs/2410.08423)|null|
 |**2024-10-14**|**ConML: A Universal Meta-Learning Framework with Task-Level Contrastive Learning**|Shiguang Wu et.al.|[2410.05975](http://arxiv.org/abs/2410.05975)|null|
@@ -772,12 +778,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817](http://arxiv.org/abs/2410.10817)|null|
+|**2024-10-14**|**HART: Efficient Visual Generation with Hybrid Autoregressive Transformer**|Haotian Tang et.al.|[2410.10812](http://arxiv.org/abs/2410.10812)|**[link](https://github.com/mit-han-lab/hart)**|
+|**2024-10-15**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**|Jian Yang et.al.|[2410.10798](http://arxiv.org/abs/2410.10798)|null|
+|**2024-10-14**|**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**|Litu Rout et.al.|[2410.10792](http://arxiv.org/abs/2410.10792)|null|
+|**2024-10-14**|**Evaluating SQL Understanding in Large Language Models**|Ananya Rahaman et.al.|[2410.10680](http://arxiv.org/abs/2410.10680)|null|
+|**2024-10-15**|**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers**|Enze Xie et.al.|[2410.10629](http://arxiv.org/abs/2410.10629)|null|
+|**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
+|**2024-10-14**|**Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling**|Wenze Liu et.al.|[2410.10511](http://arxiv.org/abs/2410.10511)|**[link](https://github.com/poppuppy/sar)**|
+|**2024-10-14**|**Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing**|Kejie Wang et.al.|[2410.10496](http://arxiv.org/abs/2410.10496)|null|
+|**2024-10-14**|**Anatomical feature-prioritized loss for enhanced MR to CT translation**|Arthur Longuefosse et.al.|[2410.10328](http://arxiv.org/abs/2410.10328)|null|
+|**2024-10-14**|**Evaluating Semantic Variation in Text-to-Image Synthesis: A Causal Perspective**|Xiangru Zhu et.al.|[2410.10291](http://arxiv.org/abs/2410.10291)|**[link](https://github.com/zhuxiangru/semvarbench)**|
+|**2024-10-14**|**Two-Stage Approach for Brain MR Image Synthesis: 2D Image Synthesis and 3D Refinement**|Jihoon Cho et.al.|[2410.10269](http://arxiv.org/abs/2410.10269)|null|
+|**2024-10-14**|**Saliency Guided Optimization of Diffusion Latents**|Xiwen Wang et.al.|[2410.10257](http://arxiv.org/abs/2410.10257)|null|
+|**2024-10-14**|**Convergence properties of Markov models for image generation with applications to spin-flip dynamics and to diffusion processes**|Cecile Monthus et.al.|[2410.10255](http://arxiv.org/abs/2410.10255)|null|
+|**2024-10-14**|**A Geometric Model with Stochastic Error for Abnormal Motion Detection of Portal Crane Bucket Grab**|Baichen Yu et.al.|[2410.10246](http://arxiv.org/abs/2410.10246)|null|
+|**2024-10-14**|**First Creating Backgrounds Then Rendering Texts: A New Paradigm for Visual Text Blending**|Zhenhang Li et.al.|[2410.10168](http://arxiv.org/abs/2410.10168)|**[link](https://github.com/Zhenhang-Li/GlyphOnly)**|
+|**2024-10-14**|**TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control**|Weichao Zeng et.al.|[2410.10133](http://arxiv.org/abs/2410.10133)|**[link](https://github.com/weichaozeng/textctrl)**|
+|**2024-10-14**|**High-Precision Dichotomous Image Segmentation via Probing Diffusion Capacity**|Qian Yu et.al.|[2410.10105](http://arxiv.org/abs/2410.10105)|null|
+|**2024-10-14**|**REHRSeg: Unleashing the Power of Self-Supervised Super-Resolution for Resource-Efficient 3D MRI Segmentation**|Zhiyun Song et.al.|[2410.10097](http://arxiv.org/abs/2410.10097)|null|
+|**2024-10-13**|**TULIP: Token-length Upgraded CLIP**|Ivona Najdenkoska et.al.|[2410.10034](http://arxiv.org/abs/2410.10034)|null|
+|**2024-10-13**|**Multi class activity classification in videos using Motion History Image generation**|Senthilkumar Gopal et.al.|[2410.09902](http://arxiv.org/abs/2410.09902)|**[link](https://github.com/sengopal/cv-activity-classification)**|
+|**2024-10-13**|**Intermediate Representations for Enhanced Text-To-Image Generation Using Diffusion Models**|Ran Galun et.al.|[2410.09792](http://arxiv.org/abs/2410.09792)|**[link](https://github.com/rang1991/public-intermediate-semantics-for-generation)**|
+|**2024-10-12**|**DuoDiff: Accelerating Diffusion Models with a Dual-Backbone Approach**|Daniel Gallo Fernández et.al.|[2410.09633](http://arxiv.org/abs/2410.09633)|**[link](https://github.com/razvanmatisan/duodiff)**|
+|**2024-10-12**|**CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation**|Yifeng Xu et.al.|[2410.09400](http://arxiv.org/abs/2410.09400)|null|
+|**2024-10-12**|**Zero-shot Commonsense Reasoning over Machine Imagination**|Hyuntae Park et.al.|[2410.09329](http://arxiv.org/abs/2410.09329)|**[link](https://github.com/Park-ing-lot/Imagine)**|
+|**2024-10-11**|**RealEra: Semantic-level Concept Erasure via Neighbor-Concept Mining**|Yufan Liu et.al.|[2410.09140](http://arxiv.org/abs/2410.09140)|null|
 |**2024-10-11**|**SceneCraft: Layout-Guided 3D Scene Generation**|Xiuyu Yang et.al.|[2410.09049](http://arxiv.org/abs/2410.09049)|**[link](https://github.com/orangesodahub/scenecraft)**|
 |**2024-10-11**|**MiRAGeNews: Multimodal Realistic AI-Generated News Detection**|Runsheng Huang et.al.|[2410.09045](http://arxiv.org/abs/2410.09045)|null|
 |**2024-10-11**|**One-shot Generative Domain Adaptation in 3D GANs**|Ziqiang Li et.al.|[2410.08824](http://arxiv.org/abs/2410.08824)|**[link](https://github.com/iceli1007/3d-adapter)**|
 |**2024-10-11**|**Synth-SONAR: Sonar Image Synthesis with Enhanced Diversity and Realism via Dual Diffusion Models and GPT Prompting**|Purushothaman Natarajan et.al.|[2410.08612](http://arxiv.org/abs/2410.08612)|null|
 |**2024-10-11**|**Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models**|Pascl Zwick et.al.|[2410.08551](http://arxiv.org/abs/2410.08551)|null|
-|**2024-10-11**|**Score Neural Operator: A Generative Model for Learning and Generalizing Across Multiple Probability Distributions**|Xinyu Liao et.al.|[2410.08549](http://arxiv.org/abs/2410.08549)|null|
+|**2024-10-15**|**Score Neural Operator: A Generative Model for Learning and Generalizing Across Multiple Probability Distributions**|Xinyu Liao et.al.|[2410.08549](http://arxiv.org/abs/2410.08549)|null|
 |**2024-10-11**|**Diffusion Models Need Visual Priors for Image Generation**|Xiaoyu Yue et.al.|[2410.08531](http://arxiv.org/abs/2410.08531)|null|
 |**2024-10-10**|**Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis**|Jinbin Bai et.al.|[2410.08261](http://arxiv.org/abs/2410.08261)|**[link](https://github.com/viiika/Meissonic)**|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
