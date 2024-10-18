@@ -643,7 +643,7 @@
 |**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263](http://arxiv.org/abs/2406.02263)|null|
 |**2024-06-03**|**Synergizing Unsupervised and Supervised Learning: A Hybrid Approach for Accurate Natural Language Task Modeling**|Wrick Talukdar et.al.|[2406.01096](http://arxiv.org/abs/2406.01096)|null|
 |**2024-06-02**|**Ultrasound Report Generation with Cross-Modality Feature Alignment via Unsupervised Guidance**|Jun Li et.al.|[2406.00644](http://arxiv.org/abs/2406.00644)|null|
-|**2024-06-01**|**Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives**|Xuan Wu et.al.|[2406.00415](http://arxiv.org/abs/2406.00415)|null|
+|**2024-06-01**|**Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives**|Xuan Wu et.al.|[2406.00415](http://arxiv.org/abs/2406.00415)|**[link](https://github.com/wuuu110/NCO-solvers-for-VRP)**|
 |**2024-05-31**|**ImplicitSLIM and How it Improves Embedding-based Collaborative Filtering**|Ilya Shenbin et.al.|[2406.00198](http://arxiv.org/abs/2406.00198)|**[link](https://github.com/ilya-shenbin/implicitslim)**|
 |**2024-06-15**|**An iterated learning model of language change that mixes supervised and unsupervised learning**|Jack Bunyan et.al.|[2405.20818](http://arxiv.org/abs/2405.20818)|null|
 |**2024-05-31**|**Searching for internal symbols underlying deep learning**|Jung H. Lee et.al.|[2405.20605](http://arxiv.org/abs/2405.20605)|null|
@@ -1279,7 +1279,7 @@
 |**2024-07-20**|**$\infty$ -Brush: Controllable Large Image Synthesis with Diffusion Models in Infinite Dimensions**|Minh-Quan Le et.al.|[2407.14709](http://arxiv.org/abs/2407.14709)|null|
 |**2024-07-23**|**Are handcrafted filters helpful for attributing AI-generated images?**|Jialiang Li et.al.|[2407.14570](http://arxiv.org/abs/2407.14570)|null|
 |**2024-07-19**|**Controllable and Efficient Multi-Class Pathology Nuclei Data Augmentation using Text-Conditioned Diffusion Models**|Hyun-Jic Oh et.al.|[2407.14426](http://arxiv.org/abs/2407.14426)|null|
-|**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367](http://arxiv.org/abs/2407.14367)|null|
+|**2024-07-19**|**Thinking Racial Bias in Fair Forgery Detection: Models, Datasets and Evaluations**|Decheng Liu et.al.|[2407.14367](http://arxiv.org/abs/2407.14367)|**[link](https://github.com/liudan193/Fairness-Benchmark-for-Face-Forgery-Detection)**|
 |**2024-07-19**|**Panoptic Segmentation of Mammograms with Text-To-Image Diffusion Model**|Kun Zhao et.al.|[2407.14326](http://arxiv.org/abs/2407.14326)|null|
 |**2024-07-19**|**Time Series Generative Learning with Application to Brain Imaging Analysis**|Zhenghao Li et.al.|[2407.14003](http://arxiv.org/abs/2407.14003)|null|
 |**2024-07-18**|**Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models**|Xiaoyu Zhu et.al.|[2407.13642](http://arxiv.org/abs/2407.13642)|null|
@@ -1369,7 +1369,7 @@
 |**2024-07-06**|**A Domain Adaptation Model for Carotid Ultrasound: Image Harmonization, Noise Reduction, and Impact on Cardiovascular Risk Markers**|Mohd Usama et.al.|[2407.05163](http://arxiv.org/abs/2407.05163)|null|
 |**2024-07-05**|**MJ-Bench: Is Your Multimodal Reward Model Really a Good Judge for Text-to-Image Generation?**|Zhaorun Chen et.al.|[2407.04842](http://arxiv.org/abs/2407.04842)|**[link](https://github.com/MJ-Bench/MJ-Bench)**|
 |**2024-07-05**|**NSD-DIL: Null-Shot Deblurring Using Deep Identity Learning**|Sree Rama Vamsidhar S et.al.|[2407.04815](http://arxiv.org/abs/2407.04815)|null|
-|**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|null|
+|**2024-07-05**|**PROUD: PaRetO-gUided Diffusion Model for Multi-objective Generation**|Yinghua Yao et.al.|[2407.04493](http://arxiv.org/abs/2407.04493)|**[link](https://github.com/EvaFlower/Pareto-guided-diffusion-model)**|
 |**2024-07-04**|**Performance of Medical Image Fusion in High-level Analysis Tasks: A Mutual Enhancement Framework for Unaligned PAT and MRI Image Fusion**|Yutian Zhong et.al.|[2407.03992](http://arxiv.org/abs/2407.03992)|**[link](https://github.com/zhongniuniu/PAMRFuse-plus)**|
 |**2024-07-11**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al.|[2407.03961](http://arxiv.org/abs/2407.03961)|**[link](https://github.com/intelligolabs/diag)**|
 |**2024-07-04**|**DiCTI: Diffusion-based Clothing Designer via Text-guided Input**|Ajda Lampe et.al.|[2407.03901](http://arxiv.org/abs/2407.03901)|null|
