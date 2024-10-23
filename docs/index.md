@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**G2D2: Gradient-guided Discrete Diffusion for image inverse problem solving**|Naoki Murata et.al.|[2410.14710](http://arxiv.org/abs/2410.14710)|null|
 |**2024-10-17**|**MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations**|Liang Xu et.al.|[2410.13790](http://arxiv.org/abs/2410.13790)|**[link](https://github.com/liangxuy/motionbank)**|
 |**2024-10-16**|**Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions**|Zhenyu Jiang et.al.|[2410.12773](http://arxiv.org/abs/2410.12773)|null|
 |**2024-10-16**|**The State of Robot Motion Generation**|Kostas E. Bekris et.al.|[2410.12172](http://arxiv.org/abs/2410.12172)|null|
@@ -236,7 +237,7 @@ layout: default
 |**2024-06-21**|**FreeMotion: MoCap-Free Human Motion Synthesis with Multimodal Large Language Models**|Zhikai Zhang et.al.|[2406.10740](http://arxiv.org/abs/2406.10740)|null|
 |**2024-09-20**|**Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild**|Lingni Ma et.al.|[2406.09905](http://arxiv.org/abs/2406.09905)|null|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508](http://arxiv.org/abs/2406.06508)|**[link](https://github.com/monkeyseedocg/momo-code)**|
-|**2024-10-12**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|**[link](https://github.com/lpengyang/motionclone)**|
+|**2024-10-22**|**MotionClone: Training-Free Motion Cloning for Controllable Video Generation**|Pengyang Ling et.al.|[2406.05338](http://arxiv.org/abs/2406.05338)|**[link](https://github.com/lpengyang/motionclone)**|
 |**2024-06-04**|**Towards Practical Single-shot Motion Synthesis**|Konstantinos Roditakis et.al.|[2406.01136](http://arxiv.org/abs/2406.01136)|null|
 |**2024-06-03**|**PDP: Physics-Based Character Animation via Diffusion Policy**|Takara E. Truong et.al.|[2406.00960](http://arxiv.org/abs/2406.00960)|null|
 |**2024-05-24**|**FreeMotion: A Unified Framework for Number-free Text-to-Motion Synthesis**|Ke Fan et.al.|[2405.15763](http://arxiv.org/abs/2405.15763)|null|
@@ -307,6 +308,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**CL-HOI: Cross-Level Human-Object Interaction Distillation from Vision Large Language Models**|Jianjun Gao et.al.|[2410.15657](http://arxiv.org/abs/2410.15657)|null|
 |**2024-10-17**|**GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction**|Patrick Kwon et.al.|[2410.13911](http://arxiv.org/abs/2410.13911)|null|
 |**2024-10-15**|**Visual-Geometric Collaborative Guidance for Affordance Learning**|Hongchen Luo et.al.|[2410.11363](http://arxiv.org/abs/2410.11363)|**[link](https://github.com/lhc1224/vcr-net)**|
 |**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782](http://arxiv.org/abs/2410.10782)|null|
@@ -482,6 +484,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-19**|**Classifying extended, localized and critical states in quasiperiodic lattices via unsupervised learning**|Bohan Zheng et.al.|[2410.15061](http://arxiv.org/abs/2410.15061)|null|
 |**2024-10-18**|**A class of kernel-based scalable algorithms for data science**|Philippe G. LeFloch et.al.|[2410.14323](http://arxiv.org/abs/2410.14323)|null|
 |**2024-10-12**|**Enhancing Affinity Propagation for Improved Public Sentiment Insights**|Mayimunah Nagayi et.al.|[2410.12862](http://arxiv.org/abs/2410.12862)|null|
 |**2024-10-14**|**TopoFR: A Closer Look at Topology Alignment on Face Recognition**|Jun Dan et.al.|[2410.10587](http://arxiv.org/abs/2410.10587)|**[link](https://github.com/modelscope/facechain)**|
@@ -786,6 +789,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
+|**2024-10-21**|**Elucidating the design space of language models for image generation**|Xuantong Liu et.al.|[2410.16257](http://arxiv.org/abs/2410.16257)|null|
+|**2024-10-21**|**A Framework for Evaluating Predictive Models Using Synthetic Image Covariates and Longitudinal Data**|Simon Deltadahl et.al.|[2410.16177](http://arxiv.org/abs/2410.16177)|null|
+|**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
+|**2024-10-20**|**MedDiff-FM: A Diffusion-based Foundation Model for Versatile Medical Image Applications**|Yongrui Yu et.al.|[2410.15432](http://arxiv.org/abs/2410.15432)|null|
+|**2024-10-19**|**SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning**|Zhewei Dai et.al.|[2410.14987](http://arxiv.org/abs/2410.14987)|null|
+|**2024-10-19**|**Straightness of Rectified Flow: A Theoretical Insight into Wasserstein Convergence**|Vansh Bansal et.al.|[2410.14949](http://arxiv.org/abs/2410.14949)|null|
+|**2024-10-19**|**Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step**|Mingyuan Zhou et.al.|[2410.14919](http://arxiv.org/abs/2410.14919)|null|
+|**2024-10-18**|**SYNOSIS: Image synthesis pipeline for machine vision in metal surface inspection**|Juraj Fulir et.al.|[2410.14844](http://arxiv.org/abs/2410.14844)|null|
+|**2024-10-17**|**CFTS-GAN: Continual Few-Shot Teacher Student for Generative Adversarial Networks**|Munsif Ali et.al.|[2410.14749](http://arxiv.org/abs/2410.14749)|null|
+|**2024-10-16**|**On the Relation Between Linear Diffusion and Power Iteration**|Dana Weitzner et.al.|[2410.14730](http://arxiv.org/abs/2410.14730)|null|
 |**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672](http://arxiv.org/abs/2410.14672)|**[link](https://github.com/haoosz/BiGR)**|
 |**2024-10-18**|**FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models**|Rui Hu et.al.|[2410.14429](http://arxiv.org/abs/2410.14429)|null|
 |**2024-10-18**|**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**|Bo Cheng et.al.|[2410.14324](http://arxiv.org/abs/2410.14324)|**[link](https://github.com/360cvgroup/hico_t2i)**|
@@ -816,7 +830,7 @@ layout: default
 |**2024-10-15**|**On the Effectiveness of Dataset Alignment for Fake Image Detection**|Anirudh Sundara Rajan et.al.|[2410.11835](http://arxiv.org/abs/2410.11835)|null|
 |**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824](http://arxiv.org/abs/2410.11824)|null|
 |**2024-10-16**|**Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices**|Zhiyuan Ma et.al.|[2410.11795](http://arxiv.org/abs/2410.11795)|null|
-|**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
+|**2024-10-22**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-15**|**InvSeg: Test-Time Prompt Inversion for Semantic Segmentation**|Jiayi Lin et.al.|[2410.11473](http://arxiv.org/abs/2410.11473)|null|
 |**2024-10-15**|**A Simple Approach to Unifying Diffusion-based Conditional Generation**|Xirui Li et.al.|[2410.11439](http://arxiv.org/abs/2410.11439)|null|
 |**2024-10-15**|**Evolutionary Retrofitting**|Mathurin Videau et.al.|[2410.11330](http://arxiv.org/abs/2410.11330)|null|
