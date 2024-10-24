@@ -1292,7 +1292,7 @@ layout: default
 |**2024-07-23**|**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**|Deniz Daum et.al.|[2407.16405](http://arxiv.org/abs/2407.16405)|**[link](https://github.com/compai-lab/2024-miccai-dgm-daum)**|
 |**2024-07-23**|**Fréchet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos**|Jiahe Liu et.al.|[2407.16124](http://arxiv.org/abs/2407.16124)|**[link](https://github.com/ljh0v0/fmd-frechet-motion-distance)**|
 |**2024-07-22**|**DStruct2Design: Data and Benchmarks for Data Structure Driven Generative Floor Plan Design**|Zhi Hao Luo et.al.|[2407.15723](http://arxiv.org/abs/2407.15723)|**[link](https://github.com/plstory/ds2d)**|
-|**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
+|**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|**[link](https://github.com/stanifrolov/spotdiffusion)**|
 |**2024-07-22**|**TextureCrop: Enhancing Synthetic Image Detection through Texture-based Cropping**|Despina Konstantinidou et.al.|[2407.15500](http://arxiv.org/abs/2407.15500)|null|
 |**2024-07-28**|**DiffX: Guide Your Layout to Cross-Modal Generative Modeling**|Zeyu Wang et.al.|[2407.15488](http://arxiv.org/abs/2407.15488)|**[link](https://github.com/zeyuwang-zju/diffx)**|
 |**2024-07-22**|**Text2Place: Affordance-aware Text Guided Human Placement**|Rishubh Parihar et.al.|[2407.15446](http://arxiv.org/abs/2407.15446)|null|
