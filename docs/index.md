@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Motion Generation
@@ -226,10 +226,10 @@ layout: default
 |**2024-10-18**|**LEAD: Latent Realignment for Human Motion Diffusion**|Nefeli Andreou et.al.|[2410.14508](http://arxiv.org/abs/2410.14508)|null|
 |**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790](http://arxiv.org/abs/2410.10790)|**[link](https://github.com/windvchen/sitcom-crafter)**|
 |**2024-10-08**|**Towards a GENEA Leaderboard -- an Extended, Living Benchmark for Evaluating and Advancing Conversational Motion Synthesis**|Rajmund Nagy et.al.|[2410.06327](http://arxiv.org/abs/2410.06327)|null|
-|**2024-10-14**|**Versatile Motion Langauge Models for Multi-Turn Interactive Agents**|Jeongeun Park et.al.|[2410.05628](http://arxiv.org/abs/2410.05628)|null|
+|**2024-10-24**|**Versatile Motion Language Models for Multi-Turn Interactive Agents**|Jeongeun Park et.al.|[2410.05628](http://arxiv.org/abs/2410.05628)|null|
 |**2024-10-07**|**DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**|Kaifeng Zhao et.al.|[2410.05260](http://arxiv.org/abs/2410.05260)|null|
 |**2024-09-30**|**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**|Chuqiao Li et.al.|[2409.15904](http://arxiv.org/abs/2409.15904)|null|
-|**2024-09-14**|**LawDNet: Enhanced Audio-Driven Lip Synthesis via Local Affine Warping Deformation**|Deng Junli et.al.|[2409.09326](http://arxiv.org/abs/2409.09326)|null|
+|**2024-09-14**|**LawDNet: Enhanced Audio-Driven Lip Synthesis via Local Affine Warping Deformation**|Deng Junli et.al.|[2409.09326](http://arxiv.org/abs/2409.09326)|**[link](https://github.com/iPaw-AI-LAB/LawDNet_2024)**|
 |**2024-09-03**|**Dynamic Motion Synthesis: Masked Audio-Text Conditioned Spatio-Temporal Transformers**|Sohan Anisetty et.al.|[2409.01591](http://arxiv.org/abs/2409.01591)|null|
 |**2024-08-23**|**T3M: Text Guided 3D Human Motion Synthesis from Speech**|Wenshuo Peng et.al.|[2408.12885](http://arxiv.org/abs/2408.12885)|**[link](https://github.com/gloria2tt/t3m)**|
 |**2024-08-21**|**Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models**|Yuzhou Huang et.al.|[2408.11801](http://arxiv.org/abs/2408.11801)|null|
@@ -487,6 +487,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**UnCLe: Unsupervised Continual Learning of Depth Completion**|Suchisrit Gangopadhyay et.al.|[2410.18074](http://arxiv.org/abs/2410.18074)|null|
 |**2024-10-19**|**Classifying extended, localized and critical states in quasiperiodic lattices via unsupervised learning**|Bohan Zheng et.al.|[2410.15061](http://arxiv.org/abs/2410.15061)|null|
 |**2024-10-18**|**A class of kernel-based scalable algorithms for data science**|Philippe G. LeFloch et.al.|[2410.14323](http://arxiv.org/abs/2410.14323)|null|
 |**2024-10-12**|**Enhancing Affinity Propagation for Improved Public Sentiment Insights**|Mayimunah Nagayi et.al.|[2410.12862](http://arxiv.org/abs/2410.12862)|null|
@@ -792,6 +793,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**FreeVS: Generative View Synthesis on Free Driving Trajectory**|Qitai Wang et.al.|[2410.18079](http://arxiv.org/abs/2410.18079)|null|
+|**2024-10-23**|**Scalable Ranked Preference Optimization for Text-to-Image Generation**|Shyamgopal Karthik et.al.|[2410.18013](http://arxiv.org/abs/2410.18013)|null|
+|**2024-10-23**|**A Wavelet Diffusion GAN for Image Super-Resolution**|Lorenzo Aloisi et.al.|[2410.17966](http://arxiv.org/abs/2410.17966)|null|
+|**2024-10-23**|**Medical Imaging Complexity and its Effects on GAN Performance**|William Cagas et.al.|[2410.17959](http://arxiv.org/abs/2410.17959)|null|
+|**2024-10-23**|**TAGE: Trustworthy Attribute Group Editing for Stable Few-shot Image Generation**|Ruicheng Zhang et.al.|[2410.17855](http://arxiv.org/abs/2410.17855)|null|
+|**2024-10-23**|**Longitudinal Causal Image Synthesis**|Yujia Li et.al.|[2410.17691](http://arxiv.org/abs/2410.17691)|null|
+|**2024-10-23**|**Deep Generative Models for 3D Medical Image Synthesis**|Paul Friedrich et.al.|[2410.17664](http://arxiv.org/abs/2410.17664)|null|
+|**2024-10-22**|**Offline Evaluation of Set-Based Text-to-Image Generation**|Negar Arabzadeh et.al.|[2410.17331](http://arxiv.org/abs/2410.17331)|null|
+|**2024-10-19**|**Stool Recognition for Colorectal Cancer Detection through Deep Learning**|Glenda Hui En Tan et.al.|[2410.17288](http://arxiv.org/abs/2410.17288)|null|
 |**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251](http://arxiv.org/abs/2410.17251)|null|
 |**2024-10-22**|**IdenBAT: Disentangled Representation Learning for Identity-Preserved Brain Age Transformation**|Junyeong Maeng et.al.|[2410.16945](http://arxiv.org/abs/2410.16945)|**[link](https://github.com/ku-milab/idenbat)**|
 |**2024-10-22**|**DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**|Haowei Zhu et.al.|[2410.16942](http://arxiv.org/abs/2410.16942)|null|
